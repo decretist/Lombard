@@ -26,6 +26,9 @@
 " <title>http://scta.info/resoure/lombardsententia/critical/transcription</title>
 " restore by hand
 :w
+" remove empty <bibl/> tags:
+:g/<bibl\/>/s///g
+:w
 " remove <bibl> tags and contents:
-:g/<bibl>.\{-}<\/bibl>/s///g
+:g/<bibl>\_.\{-}<\/bibl>/s///g
 :w
