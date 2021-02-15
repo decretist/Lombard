@@ -3,9 +3,8 @@
 # February 2021
 import re
 
-''' inspect tags or their content '''
+''' inspect tags or their contents '''
 def main():
-    # print('Humanum genus duobus regitur')
     file = open('./sentences.xml', 'r').read()
     matches = re.findall('<cit>(.+?)</cit>', file, flags=re.DOTALL)
     # matches = re.findall('<lb.+?\>', file, flags=re.DOTALL)

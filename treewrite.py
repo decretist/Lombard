@@ -5,7 +5,7 @@
 #
 import xml.etree.ElementTree as ET
 
-''' tree-writing example '''
+''' tree writing example '''
 def main():
     tree = ET.parse('./sentences.xml')
     root = tree.getroot()
