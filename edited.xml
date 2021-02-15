@@ -1,8 +1,8 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
-            <titleStmt>
-                http://scta.info/resoure/lombardsententia/critical/transcription
+            <titleStmt>            
+                <title>http://scta.info/resoure/lombardsententia/critical/transcription</title>
             </titleStmt>
             <publicationStmt>
                 <p/>
@@ -199,7 +199,7 @@
           Ut enim 
           <ref xml:id="pl-l1d1c1-Rd1e3532" corresp="#pl-l1d1c1-Qd1e3544">
             egregius doctor Augustinus 
-            ait in libro <title ref="#deDoctrinaChristiana">De doctrina christiana</title>
+            ait in libro De doctrina christiana
           </ref>:
           <cit>
             <quote xml:id="pl-l1d1c1-Qd1e3544" source="http://scta.info/resource/addc-l1-d1e121">
@@ -344,7 +344,7 @@
           <ref xml:id="pl-l1d1c2-Rd1e233" corresp="#pl-l1d1c2-Qd1e243">
             Augustinus 
             in libro X 
-            <title ref="#deTrinitate">De Trinitate</title>
+            De Trinitate
           </ref>: 
           <cit>
             <quote xml:id="pl-l1d1c2-Qd1e243" source="http://scta.info/resource/adt-l10-d1e1166">
@@ -394,7 +394,7 @@
         
         <p xml:id="pll1d1c3-d1e3507">Unde 
           <ref xml:id="pl-l1d1c3-Rd1e158">
-                        Augustinus in libro X <title ref="#deTrinitate">De Trinitate</title>:</ref> 
+                        Augustinus in libro X De Trinitate:</ref> 
           <cit>
             <quote xml:id="pll1d1c3-Qd1e3519" source="http://scta.info/resource/adt-l10">Fruimur cognitis, in quibus ipsis voluntas est.</quote>
             
@@ -404,7 +404,7 @@
           Item 
           <ref xml:id="pl-l1d1c3-Rd1e184">
             in libro 
-            <title ref="#deDoctrinaChristiana">De doctrina christiana</title>
+            De doctrina christiana
           </ref> 
           ait: 
           <cit>
@@ -480,7 +480,7 @@
             Augustinus 
             in libro 
             
-            <title ref="#deDoctrinaChristiana">De doctrina christiana</title>
+            De doctrina christiana
           </ref>: 
           <cit>
             <quote xml:id="pll1d1c3-Qd1e3638" source="http://scta.info/resource/addc-l1-d1e349">
@@ -507,7 +507,7 @@
           Huic autem contrarium videtur quod 
           <ref xml:id="pl-l1d1c3-Rd1e322">
             Apostolus 
-            <title ref="#phm">Ad philemonem</title>
+            Ad philemonem
           </ref> 
           loquens ait: 
           <cit>
@@ -607,7 +607,7 @@
         <p xml:id="pll1d1c3-d1e3775">Sed quod virtutes propter se amandae non sint, immo propter 
           solam beatitudinem, probant auctoritate <ref xml:id="pl-l1d1c3-Rd1e442">
                         Augustini, qui in libro 
-            XIII <title ref="#deTrinitate">De Trinitate</title>
+            XIII De Trinitate
                     </ref> contra quosdam ait: 
           <cit>
             <quote xml:id="pll1d1c3-Qd1e3786" source="http://scta.info/resource/adt-l13">Forte virtutes, quas 
@@ -622,7 +622,7 @@
           amandae sint. Quod si ita est, ergo eis fruendum non est.</p>
         <p xml:id="pll1d1c3-d1e3797">Aliis vero contra videtur, scilicet quod eis fruendum sit, quia 
           propter se petendae et amandae sunt. Et hoc confirmant auctoritate 
-          Ambrosii, qui ait super illum locum <title ref="#gal">Epistolae ad Galatas</title>: 
+          Ambrosii, qui ait super illum locum Epistolae ad Galatas: 
           <cit>
             <quote xml:id="pll1d1c3-Qd1e3807" source="http://scta.info/resource/gal5_22">Fructus autem spiritus est caritas, gaudium, pax, patientia</quote>
             
@@ -684,7 +684,7 @@
           dicimus.
         </p>
         <p xml:id="pll1d1c3-d1e3855">Unde <ref xml:id="pl-l1d1c3-Rd1e528">
-                        Augustinus in libro X <title ref="#deTrinitate">De Trinitate</title>
+                        Augustinus in libro X De Trinitate
                     </ref> ait: 
           <cit>
             <quote xml:id="pll1d1c3-Qd1e3866" source="http://scta.info/resource/adt-l10">Voluntas 
@@ -715,7 +715,7 @@
           <cit>
             <quote xml:id="pll1d2c1-Qd1e3477" source="http://scta.info/resource/adt-l1">quod Trinitas 
               sit unus et solus veru Deus, ut Augustinus in I libro 
-              <title ref="#deTrinitate">De Trinitate</title>, scilicet Pater et Filius et Spiritus sanctus; et haec 
+              De Trinitate, scilicet Pater et Filius et Spiritus sanctus; et haec 
               Trinitas unius eiusdemque substantiae vel essentiae dicitur, creditur 
               et it intelligitur, quae est summum bonum, quod purgatissimis 
               mentibus cernitur. Mentis enim humanae acies invalida in tam excellenti 
@@ -750,7 +750,7 @@
         <p xml:id="pll1d2c1-d1e3524">Proinde omnis, qui audit et legit ea quae de ineffabili et inaccessibili 
           Deitatis luce dicuntur, studeat imitari atque servare, 
           quod <ref>
-                        venerabilis doctor Augustinus in libro I <title ref="#deTrinitate">De Trinitate</title>
+                        venerabilis doctor Augustinus in libro I De Trinitate
                     </ref> 
           de se ipso ait: 
           <cit>
@@ -797,7 +797,7 @@
         
         <p xml:id="pll1d2c2-d1e3492">
                     <ref>
-                        Augustinus in libro I <title ref="#Retractationum">Retractationum</title>:</ref> 
+                        Augustinus in libro I Retractationum:</ref> 
           <cit>
             <quote xml:id="pll1d2c2-Qd1e3503">Ubi dixi de Patre et Filio: 
               qui gignit et quem gignit unum est, dicendum fuit unum sunt, sicut aperte ipsa 
@@ -814,7 +814,7 @@
             <quote xml:id="pll1d2c2-Qd1e3521">Teneamus igitur, Patrem et Filium et Spiritum sanctum unum 
               esse naturaliter Deum, ut ait 
               <ref>
-                                Augustinus in libro <title ref="#de">De fide ad Petrum</title>;</ref> 
+                                Augustinus in libro De fide ad Petrum;</ref> 
               nec tamen ipsum Patrem esse qui Filius; nec Filium 
               ipsum esse qui Pater est; nec Spiritum sanctum ipsum esse qui 
               Pater est aut Filius. Una est enim Patris et Filii et Spiritus sancti 
@@ -828,7 +828,7 @@
       </div>
             <div xml:id="pl-l1d2c3">
         <head>Liber 1, Distinctio 2, Caput 3</head>
-        <p xml:id="pll1d2c3-d1e3473">Ceterum, ut in <ref>libro I <title ref="#deTrinitate">De Trinitate</title> Augustinus
+        <p xml:id="pll1d2c3-d1e3473">Ceterum, ut in <ref>libro I De Trinitate Augustinus
                     </ref> docet: 
           <cit>
             <quote source="http://scta.info/resource/adt-l1">Primum secundum auctoritates sanctarum Scripturarum, utrum 
@@ -886,7 +886,7 @@
           
           apertissime declaravit, unum solum Deum esse.</p>
         
-        <p xml:id="pll1d2c4-d1e3549">In <title ref="#cant">Cantico</title> etiam <title ref="#ex">Exodi</title> legitur: 
+        <p xml:id="pll1d2c4-d1e3549">In Cantico etiam Exodi legitur: 
           <cit>
             <quote xml:id="pll1d2c4-Qd1e3559" source="http://scta.info/resource/ex15:3">Dominus, omnipotens nomen 
               eius</quote>
@@ -897,7 +897,7 @@
         <p xml:id="pll1d2c4-d1e3570">Personarum quoque pluralitatem et naturae unitatem simul 
           ostendit 
           
-          Dominus in <title ref="#gen">Genesi</title> dicens: 
+          Dominus in Genesi dicens: 
           <cit>
             <quote xml:id="pll1d2c4-Qd1e3577" source="http://scta.info/resource/gen1_26">Faciamus homine ad imaginem 
               et similitudinem nostram.</quote>
@@ -1071,7 +1071,7 @@
           aperit, cum singulariter subiungit <mentioned>eum</mentioned>. 
         </p>
         <p xml:id="pll1d2c4-d1e3854">
-                    <title ref="#Isaias">Isaias</title> quoque dicit, se audisse Seraphim clamantia: 
+                    Isaias quoque dicit, se audisse Seraphim clamantia: 
           <cit>
             <quote xml:id="pll1d2c4-Qd1e3860" source="http://scta.info/resource/is6_3">Sanctus, 
               Sanctus, Sanctus, Dominus Deus.</quote>
@@ -1141,7 +1141,7 @@
         </p>
         <p xml:id="pll1d2c4-d1e3946">De Spiritu sancto etiam expressa documenta in veteri Testamento 
           habemus.</p>
-        <p xml:id="pll1d2c4-d1e3949">In <title ref="#gen">Genesi</title> enim legitur: 
+        <p xml:id="pll1d2c4-d1e3949">In Genesi enim legitur: 
           <cit>
             <quote xml:id="pll1d2c4-Qd1e3956" source="http://scta.info/resource/gen1_2">Spiritus Domini ferebatur super 
               aquas.</quote>
@@ -1155,7 +1155,7 @@
           </cit>
         </p>
         
-        <p xml:id="pll1d2c4-d1e3982">Et in libro <title ref="#sap">Sapientiae</title> dicitur: 
+        <p xml:id="pll1d2c4-d1e3982">Et in libro Sapientiae dicitur: 
           <cit>
             <quote xml:id="pll1d2c4-Qd1e3989" source="http://scta.info/resource/sap1_5"> Spiritus sanctus disciplinae 
               effugiet fictum, benignus est enim spiritus sapientiae.</quote>
@@ -1225,7 +1225,7 @@
         </p>
         <p xml:id="pll1d2c5-d1e3576">
           <ref>
-                        Ioannes quoque in <title ref="#Iio">Epistola canonica</title>:</ref>
+                        Ioannes quoque in Epistola canonica:</ref>
           <cit>
             <quote xml:id="pll1d2c5-Qd1e3588" source="http://scta.info/resource/Iio5_7">Tres sunt, qui testimonium perhibent in caelo: Pater, Verbum, Spiritus 
               sanctus, et hi tres unum sunt.</quote>
@@ -1268,7 +1268,7 @@
               <mentioned>ex ipso,</mentioned>
               ut 
               <ref>
-                                Augustinus in libor <title ref="#deTrinitate">De Trinitate</title>
+                                Augustinus in libor De Trinitate
                             </ref> 
               dicit, propter Patrem; <mentioned>per ipsum</mentioned> dicit propter Filium; 
               <mentioned>in ipso</mentioned> propter Spiritum sanctum.</quote>
@@ -1336,7 +1336,7 @@
         <p xml:id="pll1d3c1-d1e3536">Alio etiam modo Dei veritatem ductu rationis cognoscere potuerunt 
           vel etiam cognoverunt.</p>
         <p xml:id="pll1d3c1-d1e3540">Ut enim <ref>
-                        Augustinus ait in libro <title ref="#CityOfGod">De civitate Dei</title>:</ref> 
+                        Augustinus ait in libro De civitate Dei:</ref> 
           <cit>
             <quote xml:id="pll1d3c1-Qd1e3552">Viderunt summi philosophi nullum corpus esse Deum, et ideo cuncta 
               corpora trasncenderunt , quaerentes Deum; viderunt etiam, quidquid 
@@ -1387,7 +1387,7 @@
           Trinitatis indicium vel exiguum haberi potuerit.</p>
         
         <p xml:id="pll1d3c1-d1e3604">De hoc <ref>
-                        Augustinus in libro VI <title ref="#deTrinitate">De Trinitate</title>
+                        Augustinus in libro VI De Trinitate
                     </ref> ait: 
           <cit>
             <quote xml:id="pll1d3c1-Qd1e3615" source="http://scta.info/resource/adt-l6">Oportet, ut Creatorem per ea quae facta sunt intellectu conspicientes, 
@@ -1463,7 +1463,7 @@
           Ut enim ait 
           <ref>
             Augustinus in XIV libro 
-            <title ref="#deTrinitate">De Trinitate</title>
+            De Trinitate
           </ref>: 
           <cit>
             <quote xml:id="pll1d3c2-Qd1e3502" source="http://scta.info/resource/adt-l14-d1e1586">
@@ -1495,7 +1495,7 @@
             <quote xml:id="pll1d3c2-Qd1e3528" source="http://scta.info/resource/adt-l10-d1e1182">
               Haec igitur tria, ut ait 
               <ref>
-                                Augustinus in libro X <title ref="#deTrinitate">De Trinitate</title>,</ref>
+                                Augustinus in libro X De Trinitate,</ref>
               non sunt tres vitae, sed una vita, nec tres mentes, sed 
               una mens, una essentia. Memoria vero dicitur ad aliquid, et intelligentia 
               et voluntas sive dilectio similiter ad aliquid dicitur; vita 
@@ -1572,7 +1572,7 @@
           <ref>
             <seg>
                             Augustinus 
-              in XIV libro <title ref="#deTrinitate">De Trinitate</title>,</seg>
+              in XIV libro De Trinitate,</seg>
             
           </ref> 
           alioquin non se caperet.
@@ -1598,7 +1598,7 @@
           <ref>
             Augustinus 
             in IX libro 
-            <title ref="#deTrinitate">De Trinitate</title>
+            De Trinitate
           </ref>: 
           <cit>
             <quote xml:id="pll1d3c2-Qd1e3654" source="http://scta.info/resource/adt-l9-d1e1043">
@@ -1626,7 +1626,7 @@
           Unde 
           <ref>
             Augustinus in libro IX 
-            <title ref="#deTrinitate">De Trinitate</title>
+            De Trinitate
           </ref> ait: 
           <cit>
             <quote xml:id="pll1d3c2-Qd1e3677" source="http://scta.info/resource/adt-l9-d1e1049">
@@ -1646,7 +1646,7 @@
               Quae tria, 
               <ref>ut ait 
                 Augustinus in libro XV 
-                <title ref="#deTrinitate">De Trinitate</title>
+                De Trinitate
               </ref>,
               
               in mente naturaliter divinitus instituta quisquis vivaciter 
@@ -1719,7 +1719,7 @@
           <cit>
             <quote xml:id="pll1d3c3-Qd1e3536" source="http://scta.info/resource/adt-l14">haec Trinitas mentis, ut ait 
               <ref>
-                                Augustinus in XIV libro <title ref="#deTrinitate">De Trinitate</title>,</ref>
+                                Augustinus in XIV libro De Trinitate,</ref>
               non propterea tantum imago Dei est, quia sui meminerit 
               mens et intelligit ac diligit se, sed quia potest etiam meminisse 
               et intelligere et amare illum, a quo facta est.</quote>
@@ -1729,7 +1729,7 @@
         <p xml:id="pll1d3c3-d1e3555">Potest etiam alio modo aliisque nominibus distingui trinitas 
           in anima, quae est imago illius summae et ineffabilis Trinitatis.</p>
         <p xml:id="pll1d3c3-d1e3559">Ut enim ait <ref>
-                        Augustinus in IX libro <title ref="#deTrinitate">De Trinitate</title>
+                        Augustinus in IX libro De Trinitate
                     </ref>: 
           <cit>
             <quote xml:id="pll1d3c3-Qd1e3570">Mens 
@@ -1792,7 +1792,7 @@
           <cit> 
             <quote xml:id="pll1d3c4-Qd1e3480" source="http://scta.info/resource/adt-l9">Quapropter iuxta istam considerationem, ut ait 
               <ref>
-                                Augustinus in IX libro <title ref="#deTrinitate">De Trinitate</title>
+                                Augustinus in IX libro De Trinitate
                             </ref>
               credamus, Patrem et Filium et 
               Spiritum sanctum unum esse Deum, universae creaturae conditorem 
@@ -1827,7 +1827,7 @@
           </cit>
           Ut enim ait <ref>
                         Augustinus in I libro 
-            <title ref="#deTrinitate">De Trinitate</title>
+            De Trinitate
                     </ref>: 
           <cit>
             <quote xml:id="pll1d3c4-Qd1e3532">Nulla res est, quae se ipsam gignat, ut sit.</quote>
@@ -1857,7 +1857,7 @@
           esse. Quod alium Deum non genuit, manifestum est, quia 
           unus tantum Deus est. Quod autem se ipsum non genuit, ostendit 
           <ref>
-                        Augustinus in I libro <title ref="#deTrinitate">De Trinitate</title>
+                        Augustinus in I libro De Trinitate
                     </ref> 
           dicens: 
           <cit>
@@ -1904,7 +1904,7 @@
           unum Deum, unam substantiam sive essentiam sive naturam divinam, 
           et unum Deum sive essentiam divinam esse tres personas.</p> 
         <p xml:id="pll1d4c2-d1e3487">Unde <ref>
-                        Augustinus in I libro <title ref="#deTrinitate">De Trinitate</title>
+                        Augustinus in I libro De Trinitate
                     </ref> 
           
           ita ait: 
@@ -1967,7 +1967,7 @@
           relative diceretur ad patrem vel pro relativo poneretur. Si autem 
           relative diceretur vel pro relativo poneretur, non indicaret essentiam. 
           Ut enim ait <ref>
-                        Augustinus in V libro <title ref="#deTrinitate">De Trinitate</title>:</ref> 
+                        Augustinus in V libro De Trinitate:</ref> 
           <cit>
             <quote xml:id="pll1d5c1-Qd1e3494" source="http://scta.info/resource/adt-l5-d1e715">Quod 
               relative dicitur, non indicat substantiam.</quote>
@@ -1984,7 +1984,7 @@
           eo quod generat, et est, et Deus est. Et si ita est, non genito 
           gignens, sed gignenti genitus causa est, ut est sit, et Deus sit.</p>
         <p xml:id="pll1d5c1-d1e3514">Simili ratione probat <ref>
-                        Augustinus in libro VII <title ref="#deTrinitate">De Trinitate</title>,</ref> 
+                        Augustinus in libro VII De Trinitate,</ref> 
           <cit>
             <quote xml:id="pll1d5c1-Qd1e3526" source="http://scta.info/resource/adt-l7-d1e861">
               quod Pater non est sapiens sapientia, quam genuit, quia 
@@ -2048,7 +2048,7 @@
           Spiritus santus.</p>
         <p xml:id="pll1d5c1-d1e3595">Praedictis autem videtur esse contrarium, quod dicit <ref>
                         Augustinus 
-          in libro VII <title ref="#deTrinitate">De Trinitate</title>:</ref> 
+          in libro VII De Trinitate:</ref> 
           <cit>
             <quote xml:id="pll1d5c1-Qd1e3607" source="http://scta.info/resource/adt-l7">
               Hoc, inquit, est Deo esse 
@@ -2069,7 +2069,7 @@
               
             </cit>
           Hic videtur dicere, quod natura Filii sit nata de natura Patris.</p>
-        <p xml:id="pll1d5c1-d1e3637">Idem etiam in <ref>XV libro <title ref="#deTrinitate">De Trinitate</title>
+        <p xml:id="pll1d5c1-d1e3637">Idem etiam in <ref>XV libro De Trinitate
                     </ref> ait: 
           <cit>
             <quote xml:id="pll1d5c1-Qd1e3646" source="http://scta.info/resource/adt-l15">Dicitur Filius 
@@ -2094,7 +2094,7 @@
           et a Patre substantia.</p>
         <p xml:id="pll1d5c1-d1e3672">Quod autem ita intelligi debeat, <ref>
                         Augustinus ostendit in 
-          VII libro <title ref="#deTrinitate">De Trintitate</title>
+          VII libro De Trintitate
                     </ref> dicens: 
           <cit>
             <quote xml:id="pll1d5c1-Qd1e3683" source="http://scta.info/resource/adt-l7">Pater ipse sapientia est; et dicitur 
@@ -2121,7 +2121,7 @@
           Substantia de substantia, vel substantia genuit substantiam.</p>
         <p xml:id="pll1d5c1-d1e3715">Huic vero id etiam contrarium videtur, quod <ref>
                         Hilarius 
-          ait in IV libro <title ref="#deTrinitate">De Trinitate</title>:</ref> 
+          ait in IV libro De Trinitate:</ref> 
           <cit>
             <quote xml:id="pll1d5c1-Qd1e3727" source="http://scta.info/resource/adt-l4">Nihil, inquit, nisi natum habet 
               Filius; et geniti honoris admiratio in honore generantis est.</quote>
@@ -2142,7 +2142,7 @@
           nativitatem Dei profectam ex natura, et ita videtur ex his verbis 
           atque praedictis natura Dei et genita et genuisse.</p>
         
-        <p xml:id="pll1d5c1-d1e3755">Quod apertius dicit in <ref>libro IX <title ref="#deTrinitate">De Trinitate</title>
+        <p xml:id="pll1d5c1-d1e3755">Quod apertius dicit in <ref>libro IX De Trinitate
                     </ref> 
           <cit>
             <quote xml:id="pll1d5c1-Qd1e3764" source="http://scta.info/resource/adt-l9">Nos, inquit, 
@@ -2216,7 +2216,7 @@
           Filius, genitus est de natura Filii et Spiritus sancti, immo de natura 
           trium personarum.</p>
         <p xml:id="pll1d5c1-d1e3854">Idem quoque <ref>
-                        Augustinus in libro XV <title ref="#deTrinitate">De Trinitate</title>
+                        Augustinus in libro XV De Trinitate
                     </ref> dicit, 
           Christum esse Filium substantiae Patris et de substantia Patris genitum, 
           tractans illud verbum Apostoli loquentis de Deo Patre 
@@ -2346,7 +2346,7 @@
         <p xml:id="pll1d5c2-d1e3476">Ostenditur quoque ex illis verbis, Filium et Spiritum sanctum 
           non esse de nihilo, sed de aliquo, nec tamen de aliqua materia.</p>
         <p xml:id="pll1d5c2-d1e3479">Unde etiam <ref>
-                        Hilarius in XII libro <title ref="#HilaryOfPoitiers_DeTrinitate">De Trinitate</title>
+                        Hilarius in XII libro De Trinitate
                     </ref> ait: 
           <cit>
             <quote xml:id="pll1d5c2-Qd1e3490">Unigenitus 
@@ -2418,7 +2418,7 @@
           cum quo et Filius eadem substantia est, quia consubstantialis 
           est Patri Filius.</p>
         <p xml:id="pll1d5c2-d1e3590">Et hic sensus iuvatur ex verbis Augustini, qui in libro VII 
-          <title ref="#deTrinitate">De Trinitate</title> ait: 
+          De Trinitate ait: 
           <cit>
             <quote xml:id="pll1d5c2-Qd1e3600" source="http://scta.info/resource/adt-l7">Tres personas eiusdem essentiae, vel tres 
               personas unam essentiam dicimus. Tres autem personas ex eadem 
@@ -2449,7 +2449,7 @@
         <head>Liber 1, Distinctio 5, Caput 3</head>
         <p xml:id="pll1d5c3-d1e3476">Inde est, quod solus Unigenitus Dei dicitur natura Filius, 
           quia eiusdem naturae est et eadem natura est cum Patre.</p>
-        <p xml:id="pll1d5c3-d1e3479">Unde Hilarius in libro <title ref="#HilaryOfPoitiers_DeTrinitate">De Trinitate</title> de Christo loquens 
+        <p xml:id="pll1d5c3-d1e3479">Unde Hilarius in libro De Trinitate de Christo loquens 
           ait: 
           <cit>
             <quote xml:id="pll1d5c3-Qd1e3489">Natura Filius est, quia eandem naturam, quam ille qui genuit, 
@@ -2474,7 +2474,7 @@
           <cit>
             <quote xml:id="pll1d6c1-Qd1e3503" source="http://scta.info/resource/adt-l15">Quocirca, ut 
               <ref>
-                                Augustinus ait in libro XV <title ref="#deTrinitate">De Trinitate</title>,</ref> 
+                                Augustinus ait in libro XV De Trinitate,</ref> 
               ridenda est dialectica Eunomii, a quo Eunomiani haeretici orti 
               sunt, qui cum non potuisset intelligere nec credere voluisset, unigenitum 
               Deum Verbum Filium Dei esse natura, id est de substantia 
@@ -2488,7 +2488,7 @@
         </p>
         <p xml:id="pll1d6c1-d1e3522">Dicamus ergo, Verbum Dei esse Filium Dei natura, non voluntate, 
           ut docet <ref>
-                        Augustinus in libro XV <title ref="#deTrinitate">De Trinitate</title>,</ref> ubi quendam 
+                        Augustinus in libro XV De Trinitate,</ref> ubi quendam 
           catholicum haeretico respondentem commendat dicens: 
           <cit>
             <quote xml:id="pll1d6c1-Qd1e3534" source="http://scta.info/resource/adt-l15">Acute 
@@ -2711,7 +2711,7 @@
         <p xml:id="pll1d8c1-d1e3479">
           <cit>
             <quote xml:id="pll1d8c1-Qd1e3483" source="http://scta.info/resource/adt-l5">Est itaque Deus, ut ait <ref>
-                                Augustinus in V libro <title ref="#deTrinitate">De Trinitate</title>,</ref> 
+                                Augustinus in V libro De Trinitate,</ref> 
               sine dubitatione substantia vel, si melius hoc appellatur, 
               essentia, quam Graeci usiam vocant. Sicut enim ab eo quod est 
               sapere dicta est sapientia, et ab eo quod est scire dicta est scientia; 
@@ -2795,7 +2795,7 @@
           simpliciter insinuant. Deus ergo solus proprie dicitur essentia 
           vel esse.</p>
         <p xml:id="pll1d8c1-d1e3594">Unde <ref>
-                        Hilarius in VII libro <title ref="#HilaryOfPoitiers_DeTrinitate">De Trinitate</title>
+                        Hilarius in VII libro De Trinitate
                     </ref> ait: 
           <cit>
             <quote xml:id="pll1d8c1-Qd1e3605">Esse non 
@@ -2811,7 +2811,7 @@
         <p xml:id="pll1d8c2-d1e3477">Dei etiam solius essentia proprie incommutabilis dicitur, quia 
           nec mutatur, nec mutari potest.</p>
         <p xml:id="pll1d8c2-d1e3480">Unde <ref>
-                        Augustinus in V libro <title ref="#deTrinitate">De Trinitate</title>:</ref> 
+                        Augustinus in V libro De Trinitate:</ref> 
           <cit>
             <quote xml:id="pll1d8c2-Qd1e3492" source="http://scta.info/resource/adt-l3">Aliae, inquit, essentiae vel substantiae capiunt accidentia, quibus in eis 
               fiat vel magna vel quantacumque mutatio; Deo autem aliquid huiusmodi 
@@ -2832,7 +2832,7 @@
             
           </cit>
           Ut enim ait <ref>
-                        Augustinus in libro I <title ref="#deTrinitate">De Trinitate</title>:</ref> 
+                        Augustinus in libro I De Trinitate:</ref> 
           <cit>
             <quote xml:id="pll1d8c2-Qd1e3521" source="http://scta.info/resource/adt-l1">Cum anima quodam modo immortalis esse dicatur et sit, 
               non diceret Apostolus: 
@@ -2858,7 +2858,7 @@
             
           </cit>
         </p>
-        <p xml:id="pll1d8c2-d1e3569">Ideo Augustinus <title ref="#DeGenesiAdLitteram">Super Genesim</title> dicit, quod Deus nec 
+        <p xml:id="pll1d8c2-d1e3569">Ideo Augustinus Super Genesim dicit, quod Deus nec 
           per loca nec per tempora movetur, creatura vero per tempora et 
           loca; per tempora moveri est per affectiones commutari; Deus 
           autem nec loco nec affectione mutari potest, qui per Prophetam 
@@ -2873,8 +2873,8 @@
         <p xml:id="pll1d8c2-d1e3593">
           <cit>
             <quote xml:id="pll1d8c2-Qd1e3597">In omni enim mutabili natura, ut <ref>
-                                Augustinus <title>Contra 
-              Maximinum</title>,</ref> 
+                                Augustinus Contra 
+              Maximinum,</ref> 
               nonnulla mors est ipsa mutatio, quia facit aliquid 
               in ea non esse, quod erat. Unde et ipsa anima humana, quae 
               ideo dicitur immortalis, quia secundum modum suum nunquam 
@@ -2901,7 +2901,7 @@
           <cit>
             <quote xml:id="pll1d8c2-Qd1e3629" source="http://scta.info/resource/adt-l1">Proinde, ut ait 
               <ref>
-                                Augustinus in libro I <title ref="#deTrinitate">De Trinitate</title>,</ref>
+                                Augustinus in libro I De Trinitate,</ref>
               substantiam Dei sine ulla sui commutatione mutabilia facientem et 
               sine ullo suo temporali motu temporalia creantem intueri et nosse, 
               licet sit difficile, oportet.</quote>
@@ -2918,7 +2918,7 @@
           variatio vel multitudo.</p>
         <p xml:id="pll1d8c3-d1e3478">Ut autem scias, quomodo simplex sit illa substantia, ut te 
           docet <ref>
-                        Augustinus in VI in libro <title ref="#deTrinitate">De Trinitate</title>,</ref> 
+                        Augustinus in VI in libro De Trinitate,</ref> 
           <cit>
             <quote xml:id="pll1d8c3-Qd1e3490" source="http://scta.info/resource/adt-l6">animadverte 
               primo, quare omnis creatura sit multiplex et nullo modo vere simplex, 
@@ -2982,7 +2982,7 @@
           quam est humanus animas, dicuntur, quemadmodum cum de 
           creaturis dicuntur.</p>
         <p xml:id="pll1d8c5-d1e3486">Unde <ref>
-                        Augustinus in libro VI <title ref="#deTrinitate">De Trinitate</title>:</ref>
+                        Augustinus in libro VI De Trinitate:</ref>
           <cit>
             <quote xml:id="pll1d8c5-Qd1e3498" source="http://scta.info/resource/adt-l6">Deo hoc 
               est esse, quod est fortem esse, vel sapientem esse, vel iustum esse, 
@@ -3000,7 +3000,7 @@
         <p xml:id="pll1d8c6-d1e3477">Quod autem in natura deitatis nulla sit accidentium diversitas 
           nullaque penitus mutabilitas, sed perfecta simplicitas, ostendit 
           <ref>
-                        Augustinus in V libro <title ref="#deTrinitate">De Trinitate</title>
+                        Augustinus in V libro De Trinitate
                     </ref> dicens: 
           <cit>
             <quote xml:id="pll1d8c6-Qd1e3488" source="http://scta.info/resource/adt-l5-d1e677" synch="189-249">
@@ -3025,7 +3025,7 @@
         
         <p xml:id="pll1d8c7-d1e3477">Unde nec proprie dicitur substantia, ut <ref xml:id="pl-l1d8c7-Rd1e109">
                         Augustinus ostendit 
-          in libro VII <title ref="#deTrinitate">De Trinitate</title>
+          in libro VII De Trinitate
                     </ref>: 
           <cit>
             <quote xml:id="pl-l1d8c7-Qd1e118" source="http://scta.info/resource/adt-l7-d1e899" synch="271-314">
@@ -3071,7 +3071,7 @@
             
           </cit>
         </p>
-        <p xml:id="pll1d8c8-d1e3498">Idem in <ref>VIII libro <title ref="#deTrinitate">De Trinitate</title>
+        <p xml:id="pll1d8c8-d1e3498">Idem in <ref>VIII libro De Trinitate
                     </ref>: 
           <cit>
             <quote xml:id="pll1d8c8-Qd1e3507" source="http://scta.info/resource/adt-l8">Non humano modo ex 
@@ -3099,7 +3099,7 @@
             
           </cit>
         </p>
-        <p xml:id="pll1d8c8-d1e3551">Idem in <ref>libro XV <title ref="#deTrinitate">De Trinitate</title>
+        <p xml:id="pll1d8c8-d1e3551">Idem in <ref>libro XV De Trinitate
                     </ref> 
           <cit>
             <quote xml:id="pll1d8c8-Qd1e3560" source="http://scta.info/resource/adt-l15">Sic habetur in natura 
@@ -3117,7 +3117,7 @@
           </cit>
           Et cum tantae simplicitatis atque sinceritatis sit natura 
           divina, est tamen in ea personarum Trinitas.</p>
-        <p xml:id="pll1d8c8-d1e3583">Unde Augustinus in libro XI <title ref="#CityOfGod">De civitate Dei</title> ait: 
+        <p xml:id="pll1d8c8-d1e3583">Unde Augustinus in libro XI De civitate Dei ait: 
           <cit>
             <quote xml:id="pll1d8c8-Qd1e3593">Non 
               propter hoc naturam summi boni simplicem dicimus, quia est Pater 
@@ -3145,8 +3145,8 @@
         <p xml:id="pll1d9c1-d1e3477">Nunc ad distinctionem personarum accedamus.</p>
         <p xml:id="pll1d9c1-d1e3480">
           <cit>
-            <quote xml:id="pll1d9c1-Qd1e3484">Teneamus igitur, ut docet Augustinus in libro <title>De fide 
-              ad Petrum</title>, Patrem et Filium et Spiritum sanctum unum esse 
+            <quote xml:id="pll1d9c1-Qd1e3484">Teneamus igitur, ut docet Augustinus in libro De fide 
+              ad Petrum, Patrem et Filium et Spiritum sanctum unum esse 
               naturaliter Deum, nec tamen ipsum Patrem esse qui Filius est, 
               
               nec Filium ipsum esse qui Pater est, nec Spiritum sanctum ipsum 
@@ -3178,7 +3178,7 @@
               Nam ipse Arius, ut meminit 
               <ref>
                 Augustinus 
-                in VI libro <title ref="#deTrinitate">De Trinitate</title>,
+                in VI libro De Trinitate,
               </ref> 
               dixisse refertur: Si Filius 
               est, natus est; si natus est, erat quando non erat Filius
@@ -3288,7 +3288,7 @@
              
           </cit>
           Ineffabilis enim est illa generatio; unde 
-          <title ref="#is">Isaias</title>: 
+          Isaias: 
           <cit>
             <quote xml:id="pll1d9c3-Qd1e3520" source="http://scta.info/resource/is53_8">Generationem eius quis enarrabit?</quote>
             
@@ -3349,7 +3349,7 @@
           </cit>
         </p>
         
-        <p xml:id="pll1d9c4-d1e3520">Super illum locum etiam <title ref="#ps">Psalmi</title>: 
+        <p xml:id="pll1d9c4-d1e3520">Super illum locum etiam Psalmi: 
           <cit>
             <quote xml:id="pll1d9c4-Qd1e3527" source="http://scta.info/resource/ps2_7">Ego hodie genui te,</quote>
             
@@ -3390,7 +3390,7 @@
               splendor est claritatis. Splendor autem non semel nascitur et desinit, 
               sed quoties ortum fuerit lumen, ex quo splendor oritur, toties 
               oritur etiam splendor claritatis: sic ergo Salvator semper 
-              nescitur. Unde ait in libro <title ref="#sap">Sapientiae</title> 
+              nescitur. Unde ait in libro Sapientiae 
               <cit>
                 <quote xml:id="pll1d9c4-Qd1e3596" source="http://scta.info/resource/prov8_25">Ante omnes colles generat me,</quote>
                 
@@ -3414,7 +3414,7 @@
         
         <p xml:id="pll1d9c4-d1e3636">
                     <ref>
-                        Augustinus in libro <title ref="#deDiversisQuaestionibus">83 Quaest.</title>
+                        Augustinus in libro 83 Quaest.
                     </ref> de semper nato disserens ait: 
           <cit>
             <quote xml:id="pll1d9c4-Qd1e3646">Melior est natus, quam qui semper nascitur, quia qui semper nascitur nondum
@@ -3463,7 +3463,7 @@
           est. Semper ergo nascitur, id est, nativitas eius sempiterna est.</p>
         <p xml:id="pll1d9c4-d1e3702">
                     Hilarius quoque dicit, Filium nasci ex Patre, in <ref>libro VII 
-          <title ref="#HilaryOfPoitiers_DeTrinitate">De Trinitate</title>
+          De Trinitate
                     </ref> his verbis: 
           <cit>
             <quote xml:id="pll1d9c4-Qd1e3713">Vivens Deus et naturae aeternae viventis 
@@ -3509,7 +3509,7 @@
           </cit>
           Et hic dicit, quia nascitur.
         </p>
-        <p xml:id="pll1d9c4-d1e3763">Item in <ref>IX libro <title ref="#HilaryOfPoitiers_DeTrinitate">De Trinitate</title>:</ref> 
+        <p xml:id="pll1d9c4-d1e3763">Item in <ref>IX libro De Trinitate:</ref> 
           <cit>
             <quote xml:id="pll1d9c4-Qd1e3773">Donat Pater Filio tantum 
               esse, quantum est ipse, cui innascibilitatis esse imaginem sacramento 
@@ -3525,7 +3525,7 @@
           Pater est aeternus, ita et Filius aeternus est, sed Pater sine auctore, 
           Filius vero non, quia Pater innascibilis, Filius natus.</p>
         <p xml:id="pll1d9c4-d1e3785">Et ut ait <ref>
-                        Hilarius in XII libro <title ref="#HilaryOfPoitiers_DeTrinitate">De Trinitate</title>:</ref> 
+                        Hilarius in XII libro De Trinitate:</ref> 
           <cit>
             <quote xml:id="pll1d9c4-Qd1e3795">Aliud est 
               sine auctore semper esse aeternum, aliud Patri, id est auctori, esse 
@@ -3746,7 +3746,7 @@
         </p>
         <p xml:id="pll1d10c2-d1e3605">
                     <ref>
-                        Augustinus quoque in VI libro <title ref="#deTrinitate">De Trinitate</title>
+                        Augustinus quoque in VI libro De Trinitate
                     </ref> ait: 
           <cit>
             <quote xml:id="pll1d10c2-Qd1e3615" source="http://scta.info/resource/adt-l6-d1e801                http://scta.info/resource/adt-l6-d1e804">
@@ -3798,7 +3798,7 @@
           dicitur caritas, quae est Patris et Filii unio, ita et nomen 
           tenet proprie, quod Patri et Filio communiter quodam modo congruit.</p>
         <p xml:id="pll1d10c3-d1e3480">Unde <ref>
-                        Augustinus ait in XV libro <title ref="#deTrinitate">De Trinitate</title>:</ref> 
+                        Augustinus ait in XV libro De Trinitate:</ref> 
           <cit>
             <quote xml:id="pll1d10c3-Qd1e3492" source="http://scta.info/resource/adt-l15-d1e1912">
               Si 
@@ -3950,7 +3950,7 @@
           id est, contrarium docuerit vel contrario 
           modo praedicaverit, anathema sit. Aliud ergo posuit pro opposito, 
           qualiter <ref>
-                        Apostolus in <title ref="#gal">Epistola ad Galatas</title>:</ref>
+                        Apostolus in Epistola ad Galatas:</ref>
           <cit>
             <quote xml:id="pll1d11c1-Qd1e3645" source="http://scta.info/resource/gal1_8">Si quis aliud 
               evangelizaverit 
@@ -4097,7 +4097,7 @@
           ante processit quam Filius genitus fuerit.</p>
         <p xml:id="pll1d12c1-d1e3480">His et huiusmodi quaestionibus magis laboriosis quam fructuosis 
           respondet <ref>
-                        Augustinus in XV libro <title ref="#deTrinitate">De Trinitate</title>
+                        Augustinus in XV libro De Trinitate
                     </ref> dicens: 
           <cit>
             <quote xml:id="pll1d12c1-Qd1e3491" source="http://scta.info/resource/adt-l15">In illa summa Trinitate, quae Deus est, intervalla temporum 
@@ -4128,7 +4128,7 @@
         <p xml:id="pll1d12c2-d1e3480">Ad quod dicimus, quia sicut non ante procedit a Patre quam 
           a Filio, ita non magis vel plenius procedit a Patre quam a Filio. 
           <ref>
-                        Augustinus tamen in XV libro <title ref="#deTrinitate">De Trinitate</title>
+                        Augustinus tamen in XV libro De Trinitate
                     </ref> dicit, quod 
           Spiritus sanctus principaliter procedit de Patre. 
           <cit>
@@ -4183,7 +4183,7 @@
         <p xml:id="pll1d12c2-d1e3556">Forte etiam iuxta hanc intelligentiam dicitur Spiritus sanctus 
           a Patre mitti per Filium et a Patre esse per Filium.</p>
         <p xml:id="pll1d12c2-d1e3559">Unde Hilarius ad Deum Patrem de Spiritu sancto et Filio loquens 
-          in <ref>XII libro <title ref="#HilaryOfPoitiers_DeTrinitate">De Trinitate</title>
+          in <ref>XII libro De Trinitate
                     </ref> ait: 
           <cit>
             <quote xml:id="pll1d12c2-Qd1e3571">In sancto Spiritu tuo ex 
@@ -4279,7 +4279,7 @@
           procedere; et cur non dicatur filius.</p>
         <p xml:id="pll1d13c1-d1e3480">Quare autem Spiritus sanctus non dicatur vel sit natus, et 
           ideo non sit filius, <ref>
-                        Augustinus ostendit in XV libro <title ref="#deTrinitate">De Trinitate</title>
+                        Augustinus ostendit in XV libro De Trinitate
                     </ref> 
           ita dicens: 
           <cit>
@@ -4308,7 +4308,7 @@
         <p xml:id="pll1d13c2-d1e3477">Cum autem Spiritus sanctus non dicatur genitus, sed tantum 
           procedens, quaeri solet, cur Filius non dicitur tantum genitus, sed 
           
-          et procedens; sicut ipse in Evangelio <title ref="#io">Ioannis</title> ait: 
+          et procedens; sicut ipse in Evangelio Ioannis ait: 
           <cit>
             <quote xml:id="pll1d13c2-Qd1e3486" source="http://scta.info/resource/io16_27"> Ego ex Deo 
               processi vel exivi, et veni in mundum.</quote>
@@ -4320,8 +4320,8 @@
         <p xml:id="pll1d13c2-d1e3500">Nam 
           <cit>
             <quote xml:id="pll1d13c2-Qd1e3504" source="http://scta.info/resource/adt-l5">Spiritus sanctus, ut ait <ref>
-                                Augustinus in V libro <title ref="#deTrinitate">De 
-              Trinitate</title>,</ref>  
+                                Augustinus in V libro De 
+              Trinitate,</ref>  
               procedit a Patre non quomodo natus, sed quomodo 
               datus</quote>
             
@@ -4425,7 +4425,7 @@
           Sicut enim solus Filius dicitur 
           genitus, ita et solus Pater dicitur ingenitus, eo quod ab alio non sit.</p>
         <p xml:id="pll1d13c4-d1e3506">Unde <ref>
-                        Augustinus in XV libro <title ref="#deTrinitate">De Trinitate</title>:</ref> 
+                        Augustinus in XV libro De Trinitate:</ref> 
           <cit>
             <quote xml:id="pll1d13c4-Qd1e3518" source="http://scta.info/resource/adt-l15">Pater, inquit, 
               solus non est de alio, ideo solus appellatur ingenitus, non 
@@ -4498,7 +4498,7 @@
           ab aeterno communiter ac simul procedit a Patre et Filio, ita et 
           in tempore communiter et simul ab utroque procedit ad creaturam, 
           non divisim a Patre in Filium et a Filio ad creaturam.</p>
-        <p xml:id="pll1d14c1-d1e3480">Unde Augustinus in XV libro <title ref="#deTrinitate">De Trinitate</title> ait: 
+        <p xml:id="pll1d14c1-d1e3480">Unde Augustinus in XV libro De Trinitate ait: 
           <cit>
             <quote xml:id="pll1d14c1-Qd1e3490" source="http://scta.info/resource/adt-l15">Spiritus 
               sanctus non de Patre procedit in Filium, et de Filio procedit 
@@ -4523,7 +4523,7 @@
           sive missio temporalis est.</p>
         <p xml:id="pll1d14c1-d1e3517">Hanc quoque temporalem Spiritus sancti processionem 
           <ref>
-                        Augustinus in XV libro <title ref="#deTrinitate">De Trinitate</title>
+                        Augustinus in XV libro De Trinitate
                     </ref> 
           insinuat dicens, Spiritum sanctum processisse a Christo, quando post resurrectionem insufflavit 
           in discipulos his verbis: 
@@ -4578,7 +4578,7 @@
         <p xml:id="pll1d14c2-d1e3483">Sed quod ipse Spiritus sanctus, qui Deus est et tertia in Trinitate 
           persona, detur, aperte ostendit <ref>
                         Augustinus in XV libro 
-            <title ref="#deTrinitate">De Trinitate</title>
+            De Trinitate
                     </ref> ita dicens: 
           <cit>
             <quote xml:id="pll1d14c2-Qd1e3494" source="http://scta.info/resource/adt-l15-d1e1962">
@@ -4699,7 +4699,7 @@
           tamen minor est Patre et Filio. Unde <ref>
                         Augustinus in IV libro
             
-            <title ref="#deTrinitate">De Trinitate</title>:</ref> 
+            De Trinitate:</ref> 
           <cit>
             <quote xml:id="pll1d14c2-Qd1e3663" source="http://scta.info/resource/adt-l4-d1e665">
               Non ideo, inquit, minorem Spiritum sanctum, 
@@ -4718,7 +4718,7 @@
           sed Creator a creatura non procedit vel mittitur; restat ergo, ut 
           ipsi non dent Spiritum sanctum, nec dare possint.</p>
         <p xml:id="pll1d14c3-d1e3480">Unde <ref>
-                        Augustinus in XV libro <title ref="#deTrinitate">De Trinitate</title>:</ref> 
+                        Augustinus in XV libro De Trinitate:</ref> 
           <cit>
             <quote xml:id="pll1d14c3-Qd1e3492" source="http://scta.info/resource/adt-l15-d1e1965">
               Non aliquis 
@@ -4774,7 +4774,7 @@
           posse super alios effundere, id est aliis dare.</p>
         
         <p xml:id="pll1d14c3-d1e3557">Sed huic videtur contrarium quod <ref>
-                        Apostolus <title ref="#gal">ad Galatas</title>
+                        Apostolus ad Galatas
                     </ref> 
           de se loquens ait: 
           <cit>
@@ -4793,7 +4793,7 @@
               in  qua praedicatione adventum et praesentiam sancti Spiritus senserant, 
               sicut illo tempore in novitate invitationis ad fidem etiam 
               sensibilibus miraculis praesentia sancti Spiritus apparebat, ut in 
-              <title ref="#act">Actibus Apostolorum</title> legitur.</quote>
+              Actibus Apostolorum legitur.</quote>
             
           </cit>
           Aperte hic ostendit, quomodo illis 
@@ -4817,7 +4817,7 @@
           trium personarum, donatur itaque Spiritus sanctus non tantum 
           a Patre et Filio, sed etiam a se ipso.</p>
         <p xml:id="pll1d15c1-d1e3485">Unde <ref>
-                        Augustinus in XV libro <title ref="#deTrinitate">De Trinitate</title>
+                        Augustinus in XV libro De Trinitate
                     </ref> dicit, quod 
           se ipsum dat: 
           <cit>
@@ -4849,7 +4849,7 @@
         <p xml:id="pll1d15c1-d1e3514">Ne autem mireris, quod Spiritus sanctus dicitur mitti vel procedere 
           a se. Nam et de Filio Dei dicit <ref>
                         Augustinus in II libro 
-            <title ref="#deTrinitate">De Trinitate</title>,</ref> quod non tantum a Patre missus est, sed etiam a 
+            De Trinitate,</ref> quod non tantum a Patre missus est, sed etiam a 
           se ipso et Spiritu sancto, quaerens, quo modo Filius vel Spiritus 
           sanctus sit missus, cum uterque sit ubique tanquam Deus. Nam 
           uterque, inquit Augustinus, legitur missus.</p>
@@ -4929,8 +4929,8 @@
             
           </cit>
           De hoc <ref>
-                        Ambrosius in libro III <title>De Spiritu 
-            sancto</title>
+                        Ambrosius in libro III De Spiritu 
+            sancto
                     </ref> ita ait: 
           <cit>
             <quote xml:id="pll1d15c3-Qd1e3506">Quis est, qui dicit: 
@@ -4949,7 +4949,7 @@
         </p>
         <p xml:id="pll1d15c3-d1e3532">Idem in eodem: 
           <cit>
-            <quote xml:id="pll1d15c3-Qd1e3536">Datus est a Patre, ut <title ref="#is">Isaias</title> dicit: 
+            <quote xml:id="pll1d15c3-Qd1e3536">Datus est a Patre, ut Isaias dicit: 
               <cit>
                 <quote xml:id="pll1d15c3-Qd1e3543" source="http://scta.info/resource/is9_6">Puer natus est nobis, et Filius datus est nobis.</quote>
                 
@@ -4967,7 +4967,7 @@
                   evangelizare pauperibus misit me, praedicare captivis remissionem</quote>
                 
               </cit>
-              etc. Quod cum de libro <title ref="#is">Isaiae</title> legeret, ait in Evangelio: 
+              etc. Quod cum de libro Isaiae legeret, ait in Evangelio: 
               <cit>
                 <quote xml:id="pll1d15c3-Qd1e3576" source="http://scta.info/resource/lc4_21">Hodie completa est haec Scriptura in auribus vestris,</quote>
                 
@@ -5000,7 +5000,7 @@
           cum eius missio sit divina operatio.</p>
         <p xml:id="pll1d15c4-d1e3488">Quod autem a se mittatur, <ref>
                         Augustinus astruit in libro II 
-          <title ref="#deTrinitate">De Trinitate</title>
+          De Trinitate
                     </ref> dicens: 
           <cit>
             <quote xml:id="pll1d15c4-Qd1e3499" source="http://scta.info/resource/adt-l2">Forte aliquis cogat, ut dicamus, etiam a 
@@ -5062,7 +5062,7 @@
           </cit>
         </p>
         <p xml:id="pll1d15c5-d1e3491">Ad hoc <ref>
-                        Augustinus respondet in II libro <title ref="#deTrinitate">De Trinitate</title>
+                        Augustinus respondet in II libro De Trinitate
                     </ref> dicens: 
           <cit>
             <quote xml:id="pll1d15c5-Qd1e3502" source="http://scta.info/resource/adt-l2">Hoc dictum esse secundum formam servi, secundum quam 
@@ -5101,7 +5101,7 @@
           eis percipiatur ac cognoscatur.</p>
         <p xml:id="pll1d15c7-d1e3489">Hoc duos missionis modos <ref>
                         Augustinus aperte distinguit in 
-          IV libro <title ref="#deTrinitate">De Trinitate</title>
+          IV libro De Trinitate
                     </ref> dicens: 
           <cit>
             <quote xml:id="pll1d15c7-Qd1e3500" source="http://scta.info/resource/adt-l4">Non eo ipso quod de Patre 
@@ -5140,7 +5140,7 @@
           Sanctos, et missus est etiam ante incarnationem ad omnes Sanctos, 
           qui ante fuerunt, et etiam ad Angelos.</p>
         <p xml:id="pll1d15c8-d1e3482">Unde Augustinus de Filio, id est de Sapientia Patris loquens 
-          in <ref>IV libro <title ref="#deTrinitate">De Trinitate</title>
+          in <ref>IV libro De Trinitate
                     </ref> ait: 
           <cit>
             <quote xml:id="pll1d15c8-Qd1e3494" source="http://scta.info/resource/adt-l4">Aliter Sapientia mittitur, 
@@ -5220,7 +5220,7 @@
           minorem et Spiritum sanctum; atque Patrem quasi maiorem 
           misisse utrumque quasi minorem.</p>
         <p xml:id="pll1d15c10-d1e3480">Quod <ref>
-                        Augustinus improbat in IV libro <title ref="#deTrinitate">De Trinitate</title>,</ref> illis 
+                        Augustinus improbat in IV libro De Trinitate,</ref> illis 
           contradicens: 
           <cit>
             <quote xml:id="pll1d15c10-Qd1e3492" source="http://scta.info/resource/adt-l4">Non ideo, inquit, arbitrandum est, minorem esse 
@@ -5253,7 +5253,7 @@
         <p xml:id="pll1d16c1-d1e3483">Et primo agamus de illo missionis modo, qui fit visibili 
           specie.</p>
         <p xml:id="pll1d16c1-d1e3487">De hoc <ref>
-                        Augustinus in II libro <title ref="#deTrinitate">De Trinitate</title>
+                        Augustinus in II libro De Trinitate
                     </ref> ita ait: 
           <cit>
             <quote xml:id="pll1d16c1-Qd1e3498" source="http://scta.info/resource/adt-l2-d1e226">
@@ -5293,7 +5293,7 @@
         <p xml:id="pll1d16c1-d1e3514">Nam de Filio, quod minor sit Patre secundum formam, qua 
           missus apparuit, aperte ostendit 
           <ref>
-                        Augustinus in IV libro <title ref="#deTrinitate">De Trinitate</title>
+                        Augustinus in IV libro De Trinitate
                     </ref> 
           dicens:
           <cit>
@@ -5319,7 +5319,7 @@
           sanctus non ita accepit columbam, ut fieret columba.</p>
         <p xml:id="pll1d16c1-d1e3545">De hoc 
           <ref>
-            Augustinus in II libro <title ref="#deTrinitate">De Trinitate</title>
+            Augustinus in II libro De Trinitate
           </ref> ita ait: 
           <cit>
             <quote xml:id="pll1d16c1-Qd1e3555" source="http://scta.info/resource/adt-l2-d1e229                http://scta.info/resource/adt-l2-d1e232">
@@ -5360,7 +5360,7 @@
           dicitur.</p>
         <p xml:id="pll1d16c2-d1e3480">Et quod etiam se ipso minor dicatur secundum formam 
           servi, <ref>
-                        Augustinus ostendit in I libro <title ref="#deTrinitate">De Trinitate</title>
+                        Augustinus ostendit in I libro De Trinitate
                     </ref> dicens: 
           <cit>
             <quote xml:id="pll1d16c2-Qd1e3491" source="http://scta.info/resource/adt-l1">Erraverunt homines, ea quae de Christo secundum hominem 
@@ -5387,7 +5387,7 @@
             
           </cit>
         </p>
-        <p xml:id="pll1d16c2-d1e3519">De hoc eodem in <ref>II libro <title ref="#deTrinitate">De Trinitate</title>
+        <p xml:id="pll1d16c2-d1e3519">De hoc eodem in <ref>II libro De Trinitate
                     </ref> ait: 
           <cit>
             <quote xml:id="pll1d16c2-Qd1e3528" source="http://scta.info/resource/adt-l2">Dei Filius 
@@ -5410,7 +5410,7 @@
              
           </cit>
           <cit>
-            <quote xml:id="pll1d16c2-Qd1e3562" source="http://scta.info/resource/adt-l1">Est ergo Dei Filius, ut ipse ait in <ref>I libro <title ref="#deTrinitate">De Trinitate,</title>
+            <quote xml:id="pll1d16c2-Qd1e3562" source="http://scta.info/resource/adt-l1">Est ergo Dei Filius, ut ipse ait in <ref>I libro De Trinitate,
                             </ref> Deo 
               Patri natura aequalis, habitu minor, id est in forma servi, quam 
               accepti.</quote>
@@ -5444,7 +5444,7 @@
           <cit>
             <quote xml:id="pll1d16c2-Qd1e3615">Si ergo, inquit 
               <ref>
-                                Hilarius in libro IX <title ref="#HilaryOfPoitiers_DeTrinitate">De Trinitate</title>,</ref>
+                                Hilarius in libro IX De Trinitate,</ref>
               donantis auctoritate 
               Pater maior est, nunquid per doni confessionem Filius minor est? 
               Maior itaque donans est, sed minor iam non est, cui unum esse 
@@ -5493,7 +5493,7 @@
         <p xml:id="pll1d17c1-d1e3493">Ne autem in re tanta aliquid de nostro influere videamur, sacris 
           auctoritatibus quod dictum est corroboremus.</p>
         <p xml:id="pll1d17c1-d1e3497">De hoc <ref>
-                        Augustinus in VIII libro <title ref="#deTrinitate">De Trinitate</title>
+                        Augustinus in VIII libro De Trinitate
                     </ref> ait: 
           <cit>
             <quote xml:id="pll1d17c1-Qd1e3508" source="http://scta.info/resource/adt-l8">Qui 
@@ -5594,7 +5594,7 @@
           est, sed tantum Spiritus sanctus, qui proprie dilectio in Trinitate 
           vel caritas dicitur.</p>
         <p xml:id="pll1d17c2-d1e3480">Unde <ref>
-                        Augustinus in libro XV <title ref="#deTrinitate">De Trinitate</title>:</ref> 
+                        Augustinus in libro XV De Trinitate:</ref> 
           <cit>
             <quote xml:id="pll1d17c2-Qd1e3492">Si in donis 
               Dei nihil maius est caritate, et nullum est maius donum Dei 
@@ -5652,7 +5652,7 @@
           non sit ipse Deus, sicut dicitur: Deus nostra patientia et spes, 
           non quod ipse sit ista, sed quia ista ex eo sunt, occurrit Augustinus 
           ostendens, non hoc esse dictum per causam, sicut illa, 
-          in <ref>XV libro <title ref="#deTrinitate">De Trinitate</title>
+          in <ref>XV libro De Trinitate
                     </ref> ita dicens: 
           <cit>
             <quote xml:id="pll1d17c3-Qd1e3499" source="http://scta.info/resource/adt-l15">Non dicturi sumus, caritatem 
@@ -5723,7 +5723,7 @@
           est, ut facit nos diligere Deum et proximum, per quod manemus 
           in Deo et Deus in nobis.</p>
         <p xml:id="pll1d17c4-d1e3480">Unde Augustinus hunc missionis modum insinuans, in <ref>XV 
-          libro <title ref="#deTrinitate">De Trinitate</title>
+          libro De Trinitate
                     </ref> ait: 
           <cit>
             <quote xml:id="pll1d17c4-Qd1e3492" source="http://scta.info/resource/adt-l15">Deus Spiritus sanctus, qui procedit 
@@ -5948,7 +5948,7 @@
           et salus; sic videtur dicta caritas Dei, quae est in nobis, non quod 
           ipse ea diligat, sed quia ea nos diligere facit.</p>
         <p xml:id="pll1d17c6-d1e3511">De hoc etiam idem <ref xml:id="pl-l1d17c6-Rd1e143">
-                        Augustinus in libro XV <title ref="#deTrinitate">De Trinitate</title>
+                        Augustinus in libro XV De Trinitate
                     </ref> 
           ait: 
           <cit>
@@ -6016,7 +6016,7 @@
           confirmant. Dicit enim 
           <ref xml:id="pl-l1d17c6-Rd1e210" corresp="#pll1d17c6-Qd1e3590">
             Augustinus in III libro 
-            <title ref="#deDoctrinaChristiana">De doctrina christiana</title>
+            De doctrina christiana
           </ref>: 
           <cit>
             <quote xml:id="pll1d17c6-Qd1e3590" source="http://scta.info/resource/addc-l3-d1e245"> Caritatem voco motum animi ad fruendum 
@@ -6051,7 +6051,7 @@
           ita caritas dicitur esse motus sive affectio animi, quia per eam 
           movetur et afficitur animus ad diligendum Deum. Non autem mireris, 
           si caritas, cum sit Spiritus sanctus, dicatur motus mentis, 
-          cum etiam in libro <title ref="#sap">Sapientiae</title> dicatur de Spiritu Sapientiae, 
+          cum etiam in libro Sapientiae dicatur de Spiritu Sapientiae, 
           <cit>
             <quote xml:id="pll1d17c6-Qd1e3648" source="http://scta.info/resource/sap8_1">quae attingit a fine usque ad finem,</quote> 
             
@@ -6119,7 +6119,7 @@
         <p xml:id="pll1d18c1-d1e3480">Ad quod dicimus, quia per donum, quod est Spiritus sanctus, 
           singulis propria dividuntur, et ipsum communiter omnes boni habent.</p>
         <p xml:id="pll1d18c1-d1e3483">Unde <ref>
-                        Augustinus in XV libro <title ref="#deTrinitate">De Trinitate</title>
+                        Augustinus in XV libro De Trinitate
                     </ref> ait: 
           <cit>
             <quote xml:id="pll1d18c1-Qd1e3494" source="http://scta.info/resource/adt-l15-d1e1902">
@@ -6141,8 +6141,8 @@
           videtur Spiritus sanctus dici datum et donum.</p>
         
         <p xml:id="pll1d18c2-d1e3478">Hoc etiam videtur <ref>
-                        Augustinus significare in XV libro <title ref="#deTrinitate">De 
-          Trinitate</title>,</ref> cum ait: 
+                        Augustinus significare in XV libro De 
+          Trinitate,</ref> cum ait: 
           <cit>
             <quote xml:id="pll1d18c2-Qd1e3490" source="http://scta.info/resource/adt-l15">Spiritus sanctus in tantum donum Dei est, 
               in quantum datur eis quibus datur; apud se autem Deus est, etsi 
@@ -6159,7 +6159,7 @@
           donum. Sempiterne enim donum fuit, non quia daretur, sed quia 
           processit a Patre et Filio.</p>
         <p xml:id="pll1d18c2-d1e3501">Unde <ref>
-                        Augustinus in IV libro <title ref="#deTrinitate">De Trinitate</title>
+                        Augustinus in IV libro De Trinitate
                     </ref>: 
           <cit>
             <quote xml:id="pll1d18c2-Qd1e3512" source="http://scta.info/resource/adt-l4">Sicut 
@@ -6180,7 +6180,7 @@
           Unde 
           <ref xml:id="pl-l1d18c2-Raivldt" corresp="#pll1d18c2-Qd1e3532">
             Augustinus 
-            in V libro <title ref="#deTrinitate">De Trinitate</title>
+            in V libro De Trinitate
           </ref> 
           ait: 
           <cit>
@@ -6202,7 +6202,7 @@
           et ab aeterno donum fuit, non ergo Spiritus sanctus eo tantum 
           dicitur donum, quia donatur; nam et ante fuit donum quam donaretur.</p>
         <p xml:id="pll1d18c2-d1e3542">Unde <ref>
-                        Augustinus in V libor <title ref="#deTrinitate">De Trinitate</title>:</ref> 
+                        Augustinus in V libor De Trinitate:</ref> 
           <cit>
             <quote xml:id="pll1d18c2-Qd1e3554" source="http://scta.info/resource/adt-l5">Semper procedit 
               Spiritus sanctus, et non ex tempore, sed ab aeternitate procedit; 
@@ -6243,7 +6243,7 @@
           et quia donabilis fuit.</p>
         
         <p xml:id="pll1d18c2-d1e3588">Unde <ref>
-                        Augustinus in V libro <title ref="#deTrinitate">De Trinitate</title>:</ref> 
+                        Augustinus in V libro De Trinitate:</ref> 
           <cit>
             <quote xml:id="pll1d18c2-Qd1e3600" source="http://scta.info/resource/adt-l5">Eo ipso, 
               quod daturus erat eum Deus, iam donum erat, etiam antequam 
@@ -6269,7 +6269,7 @@
           ergo ex tempore ut esset.</p>
         <p xml:id="pll1d18c3-d1e3480">Unde 
           <ref>
-                        Augustinus in V libro <title ref="#deTrinitate">De Trinitate</title>:</ref> 
+                        Augustinus in V libro De Trinitate:</ref> 
           <cit>
             <quote xml:id="pll1d18c3-Qd1e3492" source="http://scta.info/resource/adt-l5">Filius non 
               hoc tantum habet nascendo, ut sit Filius, sed omnino ut sit. Quaeritur 
@@ -6284,7 +6284,7 @@
           Non ergo eo quo datur, sed procedendo habet, ut sit 
           donum, et ut sit essentia; sicut Filius non eo quo datus est, sed 
           nascendo accepti non tantum, ut sit Filius, ed ut sit essentia.</p>
-        <p xml:id="pll1d18c3-d1e3500">Unde Augustinus in XV libro <title ref="#deTrinitate">De Trinitate</title> ait: 
+        <p xml:id="pll1d18c3-d1e3500">Unde Augustinus in XV libro De Trinitate ait: 
           <cit>
             <quote xml:id="pll1d18c3-Qd1e3510" source="http://scta.info/resource/adt-l15">Sicut 
               Filio praestat essentiam sine initio temporis, sine mutabilitate 
@@ -6300,7 +6300,7 @@
           dicatur, quod nec Pater eo Pater est; quo Deus, nec Filius eo Filius, 
           quo Deus, nec Spiritus sanctus eo donum, quo Deus; quia, 
           ut <ref>
-                        Augustinus ait in VII libro <title ref="#deTrinitate">De Trinitate</title>,</ref> 
+                        Augustinus ait in VII libro De Trinitate,</ref> 
           <cit>
             <quote xml:id="pll1d18c3-Qd1e3530" source="http://scta.info/resource/adt-l7">his nominibus 
               relativa eorum ostenduntur, non essentia;</quote>
@@ -6314,7 +6314,7 @@
         <p xml:id="pll1d18c3-d1e3541">
           <cit>
             <quote xml:id="pll1d18c3-Qd1e3545">Non enim, ut ait <ref>
-                                Hilarius in V libro <title ref="#HilaryOfPoitiers_DeTrinitate">De Trinitate</title>,</ref> per 
+                                Hilarius in V libro De Trinitate,</ref> per 
               defectionem, aut protensionem, aut derivationem ex Deo Deus 
               est, sed ex virtute naturae in naturam eandem nativitate subsistit 
               Filius,</quote>
@@ -6361,7 +6361,7 @@
           et ad eum qui dedit refertur, et ad eos quibus datur; et 
           eius dicitur esse qui dat, et illorum quibus datur.</p>
         <p xml:id="pll1d18c4-d1e3483">Unde <ref>
-                        Augustinus in V libro <title ref="#deTrinitate">De Trinitate</title>
+                        Augustinus in V libro De Trinitate
                     </ref> ait: 
           <cit>
             <quote xml:id="pll1d18c4-Qd1e3494" source="http://scta.info/resource/adt-l5">Quod 
@@ -6432,7 +6432,7 @@
           datus; iste noster spiritus, quia nobis inspiratur a Patre et Filio, 
           et in nobis spirat, sicut vult.</p>
         <p xml:id="pll1d18c5-d1e3489">Unde <ref>
-                        Augustinus in V libro <title ref="#deTrinitate">De Trinitate</title>
+                        Augustinus in V libro De Trinitate
                     </ref> ait: 
           <cit>
             <quote xml:id="pll1d18c5-Qd1e3499" source="http://scta.info/resource/adt-l5">Quod 
@@ -6468,8 +6468,8 @@
         <p xml:id="pll1d19c1-d1e3480">Fides enim catholica sicut coaeternas, ita et coaequales tres 
           personas asserit. Aequalis est enim in omnibus Patri Filius, et Patri 
           et Filio Spiritus sanctus; quia ut <ref>
-                        Augustinus in libro <title>De 
-            fide ad Petrum</title>,</ref> breviter aperiens quomodo intelligatur aequalitas, 
+                        Augustinus in libro De 
+            fide ad Petrum,</ref> breviter aperiens quomodo intelligatur aequalitas, 
           docet: 
           <cit>
             <quote xml:id="pll1d19c1-Qd1e3492">Nullus horum alium aut praecedit aeternitate, aut 
@@ -6494,7 +6494,7 @@
         <p xml:id="pll1d19c2-d1e3477">Cumque enumerentur ista quasi diversa, in Deo tamen unum 
           et idem sunt, scilicet essentia divina simplex et incommutabilis.</p>
         <p xml:id="pll1d19c2-d1e3480">Unde <ref>
-                        Augustinus in VII libro <title ref="#deTrinitate">De Trinitate</title>:</ref> 
+                        Augustinus in VII libro De Trinitate:</ref> 
           <cit>
             <quote xml:id="pll1d19c2-Qd1e3492" source="http://scta.info/resource/adt-l7">Non alio 
               magnus, alio Deus est, sed eo magnus, quo Deus; quia non aliud 
@@ -6506,7 +6506,7 @@
           igitur et Filius simul una essentia et una magnitudo.</p>
         <p xml:id="pll1d19c2-d1e3500">Ita etiam et potentia Dei essentia divina est. Unde <ref>
                         Augustinus 
-          in VII libro <title ref="#Confessions">Confessionum</title>:</ref> 
+          in VII libro Confessionum:</ref> 
           <cit>
             <quote xml:id="pll1d19c2-Qd1e3512">Voluntas et potentia Dei Deus 
               ipse est.</quote>
@@ -6515,7 +6515,7 @@
         </p>
         <p xml:id="pll1d19c2-d1e3521">Aeternitas quoque Dei essentia divina est. Quod <ref>
                         Augustinus 
-          ostendit super illum locum <title ref="#ps">Psalmi</title>:</ref> 
+          ostendit super illum locum Psalmi:</ref> 
           <cit>
             <quote xml:id="pll1d19c2-Qd1e3533" source="http://scta.info/resource/ps101_25">In generationem et generationem 
               anni tui,</quote>
@@ -6586,8 +6586,8 @@
           personarum tota esse in aliis.</p>
         
         <p xml:id="pll1d19c4-d1e3503">Unde etiam <ref>
-                        Hilarius ista interius perquirens in libro III <title ref="#HilaryOfPoitiers_DeTrinitate">De 
-          Trinitate</title>
+                        Hilarius ista interius perquirens in libro III De 
+          Trinitate
                     </ref> ait: 
           <cit>
             <quote xml:id="pll1d19c4-Qd1e3514">Affert plerisque obscuritatem sermo Domini, cum 
@@ -6664,7 +6664,7 @@
             <quote xml:id="pll1d19c4-Qd1e3620">Fateamur ergo, quod Pater est in Filio, et Filius in Patre 
               Deus in Deo, 
               ut idem <ref>
-                                Hilarius ait in VII libro <title ref="#HilaryOfPoitiers_DeTrinitate">De Trinitate</title>,</ref> 
+                                Hilarius ait in VII libro De Trinitate,</ref> 
               non per duplicem convenientium generum coniunctionem, nec 
               per insitivam capacioris substantiae naturam, sed per naturae unitam 
               similitudinem, per nativitatem viventis naturae ex vivente natura; 
@@ -6809,7 +6809,7 @@
           essentia divina genus est et tres personae species, vel essentia divina 
           species et tres personae individua.</p>
         <p xml:id="pll1d19c7-d1e3482">Quod Augustinus rationibus probabilibus atque irrefragabilibus 
-          aperte demonstrat in <ref>libro VII <title ref="#deTrinitate">De Trinitate</title>
+          aperte demonstrat in <ref>libro VII De Trinitate
                     </ref> ita dicens: 
           <cit>
             <quote xml:id="pll1d19c7-Qd1e3494" source="http://scta.info/resource/adt-l7">Si essentia genus est, species autem persona, ut nonnulli sentiunt, 
@@ -6910,7 +6910,7 @@
           et universale, velut species; tres vero personae sint tria particularia, 
           tria individua numero differentia.</p>
         <p xml:id="pll1d19c9-d1e3503">Unde Ioannes Damascenus, inter Graecorum doctores 
-          magnus, in libro quem <title ref="#deTrinitate">De Trinitate</title> scripsit, quem et papa Eugenius 
+          magnus, in libro quem De Trinitate scripsit, quem et papa Eugenius 
           transferri fecit, ait: 
           <cit>
             <quote xml:id="pll1d19c9-Qd1e3516">Communia et universalia praedicantur 
@@ -7003,7 +7003,7 @@
           <cit>
             <quote xml:id="pll1d19c11-Qd1e3481">tantam aequalitatem esse in Trinitate, 
               ut ait <ref>
-                                Augustinus in VIII libro <title ref="#deTrinitate">De Trinitate</title>
+                                Augustinus in VIII libro De Trinitate
                             </ref> ut non solum 
               Pater non sit maior quam Filius, sed nec Pater et Filius simul 
               
@@ -7056,7 +7056,7 @@
           aequalitas.</p>
         
         <p xml:id="pll1d19c12-d1e3482">Unde <ref>
-                        Augustinus in libro VI <title ref="#deTrinitate">De Trinitate</title>
+                        Augustinus in libro VI De Trinitate
                     </ref> ait: 
           <cit>
             <quote xml:id="pll1d19c12-Qd1e3493" source="http://scta.info/resource/adt-l6">Non, 
@@ -7260,7 +7260,7 @@
           personae simul non sunt maius aliquid quam una sola.</p>
         
         <p xml:id="pll1d21c1-d1e3480">Ideo quaerit <ref>
-                        Augustinus in VI libro <title ref="#deTrinitate">De Trinitate</title>:</ref> 
+                        Augustinus in VI libro De Trinitate:</ref> 
           <cit>
             <quote xml:id="pll1d21c1-Qd1e3492" source="http://scta.info/resource/adt-l6">Quomodo 
               haec sane dici possint, cum nec Pater sit solus, nec Filius, 
@@ -7325,7 +7325,7 @@
           <ref>
             Augustinus 
             in VI libro 
-            <title ref="#deTrinitate">De Trinitate</title>
+            De Trinitate
           </ref> ait: 
           <cit>
             <quote xml:id="pll1d21c2-Qd1e3520" source="http://scta.info/resource/adt-l6-d1e823">
@@ -7391,7 +7391,7 @@
         <p xml:id="pll1d21c3-d1e3501">Sed iterum quaeritur, quomodo ipsam Trinitatem dicimus 
           solum Deum, cum sit cum spiritibus et animabus sanctis.</p>
         <p xml:id="pll1d21c3-d1e3504">Ad quod respondet <ref>
-                        Augustinus in VI libro <title ref="#deTrinitate">De Trinitate</title>
+                        Augustinus in VI libro De Trinitate
                     </ref> 
           ita dicens: 
           <cit>
@@ -7415,7 +7415,7 @@
                 <quote xml:id="pll1d21c3-Qd1e3534" source="http://scta.info/resource/Iio5_7">hi tres unum sunt:</quote>
                 
               </cit>
-              sicut in <title ref="#ap">Apocalypsi</title> de Filio legitur, 
+              sicut in Apocalypsi de Filio legitur, 
               quod 
               <cit>
                 <quote xml:id="pll1d21c3-Qd1e3546" source="http://scta.info/resource/ap19_12">habet nomen scriptum, quod nemo scit nisi ipse.</quote>
@@ -7461,14 +7461,14 @@
             <quote xml:id="pll1d22c1-Qd1e3510">Illud igitur praecipue teneamus, quaedam esse nomina distincte 
               ad singulas personas pertinentia, ut ait <ref>
                                 Augustinus in 
-                VIII libro <title ref="#deTrinitate">De Trinitate</title>,</ref> quae de singulis tantum dicuntur personis: 
+                VIII libro De Trinitate,</ref> quae de singulis tantum dicuntur personis: 
               quaedam vero unitatem essentiae significantia sunt, quae et de 
               singulis singillatim et de omnibus communiter dicuntur; alia vero 
               sunt, quae translative ac per similitudinem de Deo dicuntur.</quote>
             
           </cit>
         </p>
-        <p xml:id="pll1d22c1-d1e3528">Unde Ambrosius in II libro <title ref="#deTrinitate">De Trinitate</title> ait: 
+        <p xml:id="pll1d22c1-d1e3528">Unde Ambrosius in II libro De Trinitate ait: 
           <cit>
             <quote xml:id="pll1d22c1-Qd1e3538">Quo purius niteat fides, tripartita videtur derivanda distinctio. Sunt enim 
               nomina quaedam, quae evidenter proprietatem deitatis ostendunt: 
@@ -7488,7 +7488,7 @@
           <ref>
             <seg>
                             Augustinus 
-              in V libro <title ref="#deTrinitate">De Trinitate</title>,</seg>
+              in V libro De Trinitate,</seg>
             
           </ref> 
           quae ex tempore Deo conveniunt 
@@ -7600,7 +7600,7 @@
           <ref>
             Augustinus 
             ostendit in libro VII 
-            <title ref="#deTrinitate">De Trinitate</title>
+            De Trinitate
           </ref> 
           dicens: 
           <cit>
@@ -7634,7 +7634,7 @@
           qua quaeritur, cur non dicantur hi tres una persona, sicut una 
           essentia et unus Deus.</p>
         <p xml:id="pll1d23c1-d1e3546">Quam quaestionem Augustinum diligenter tractat atque congrue 
-          explicat in <ref>VII libro <title ref="#deTrinitate">De Trinitate</title>
+          explicat in <ref>VII libro De Trinitate
                     </ref> ita dicens: 
           <cit>
             <quote xml:id="pll1d23c1-Qd1e3558" source="http://scta.info/resource/adt-l7-d1e908">
@@ -7651,7 +7651,7 @@
             <quote xml:id="pll1d23c1-Qd1e3567" source="http://scta.info/resource/adt-l5-d1e734">
               Cum ergo quaeritur, quid tres, ut ait <ref>
                                 Augustinus in libro V 
-              <title ref="#deTrinitate">De Trinitate</title>
+              De Trinitate
                             </ref>, magna prorsus inopia humanum laborat eloquium. 
               Dictum est tamen tres personae, non ut illud diceretur, sed ne taceretur.
             </quote>
@@ -7668,7 +7668,7 @@
         <p xml:id="pll1d23c2-d1e3501">Qua necessitate non solum Latinus sermo, sed etiam Graecus 
           eadem pene super hac re laborans nominum penuria coarctatur.</p>
         <p xml:id="pll1d23c2-d1e3504">Unde Augustinus, quid a Graecis vel a Latinis necessitate 
-          de ineffabili Trinitate dictum sit aperiens, in VII libro <title ref="#deTrinitate">De Trinitate</title> 
+          de ineffabili Trinitate dictum sit aperiens, in VII libro De Trinitate 
           ait: 
           <cit>
             <quote xml:id="pll1d23c2-Qd1e3514" source="http://scta.info/resource/adt-l7">Loquendi causa de ineffabilibus, ut fari aliquo modo 
@@ -7726,7 +7726,7 @@
           dicit, non tamen contradicit.</p>
         
         <p xml:id="pll1d23c3-d1e3510">Unde Augustinus movens hanc quaestionem atque definiens 
-          in libro VII <title ref="#deTrinitate">De Trinitate</title> ita ait: 
+          in libro VII De Trinitate ita ait: 
           <cit>
             <quote xml:id="pll1d23c3-Qd1e3520" source="http://scta.info/resource/adt-l7">Si ideo dicimus, Patrem et 
               Filium et Spiritum sanctum esse tres personas, quia commune est 
@@ -7813,7 +7813,7 @@
           quia ibi nulla penitus et diversitas, sicut nec singularitas 
           vel solitudo, sed unitas et trinitas.</p>
         <p xml:id="pll1d23c5-d1e3513">Unde <ref>
-                        Augustinus in libro VII <title ref="#deTrinitate">De Trinitate</title>
+                        Augustinus in libro VII De Trinitate
                     </ref> ait: 
           <cit>
             <quote xml:id="pll1d23c5-Qd1e3524" source="http://scta.info/resource/adt-l7">Humana 
@@ -7827,7 +7827,7 @@
         </p>
          
         <p xml:id="pll1d23c5-d1e3535">
-                    Hilarius quoque in libro VII <title ref="#deTrinitate">De Trinitate</title> ait: 
+                    Hilarius quoque in libro VII De Trinitate ait: 
           <cit>
             <quote xml:id="pll1d23c5-Qd1e3544">Dominus 
               dicit: 
@@ -7853,14 +7853,14 @@
             
           </cit>
         </p>
-        <p xml:id="pll1d23c5-d1e3573">De hoc etiam Augustinus in libro <title>Quaestionum veteris ac 
-          novae Legis</title> ait: 
+        <p xml:id="pll1d23c5-d1e3573">De hoc etiam Augustinus in libro Quaestionum veteris ac 
+          novae Legis ait: 
           <cit>
             <quote xml:id="pll1d23c5-Qd1e3583">Unus est Deus, sed non singularis.</quote>
             
           </cit>
         </p>
-        <p xml:id="pll1d23c5-d1e3591">Item <ref>in libro <title ref="#deTrinitate">De Trinitate</title> Ambrosius
+        <p xml:id="pll1d23c5-d1e3591">Item <ref>in libro De Trinitate Ambrosius
                     </ref> ait: 
           <cit>
             <quote xml:id="pll1d23c5-Qd1e3603">Quod unius 
@@ -7881,7 +7881,7 @@
           essentiae tollit. Diversitas inducit separationem Divinitatis, singularitas 
           adimit distinctionem Trinitatis.</p>
         <p xml:id="pll1d23c5-d1e3623">Ideo <ref>
-                        Ambrosius in II libro <title ref="#deTrinitate">De Trinitate</title>
+                        Ambrosius in II libro De Trinitate
                     </ref> ait: 
           <cit>
             <quote xml:id="pll1d23c5-Qd1e3634">Non est 
@@ -7967,7 +7967,7 @@
           ponimus, quasi diceretur:; Sine solitudine ac singularitate personas 
           confitemur.</p>
         <p xml:id="pll1d24c1-d1e3538">Unde <ref>
-                        Hilarius in IV libro <title ref="#HilaryOfPoitiers_DeTrinitate">De Trinitate</title>
+                        Hilarius in IV libro De Trinitate
                     </ref> sic ait: 
           <cit>
             <quote xml:id="pll1d24c1-Qd1e3549">Dixit Deus: 
@@ -8136,7 +8136,7 @@
           quod est persona.</p>
         <p xml:id="pll1d25c1-d1e3579">Et hoc confirmant auctoritate <ref>
                         Augustini, qui in VII libro 
-          <title ref="#deTrinitate">De Trinitate</title>
+          De Trinitate
                     </ref> ait: 
           <cit>
             <quote xml:id="pll1d25c1-Qd1e3590" source="http://scta.info/resource/adt-l7">Tres personas eiusdem essentiae, vel tres 
@@ -8171,7 +8171,7 @@
         <p xml:id="pll1d25c2-d1e3501">Sciendum est igitur, quod hoc nomen persona multiplicem 
           non unam tantum intelligentiam facit. Et ut <ref xml:id="pl-l1d25c2-Rd1e109">
                         Hilarius ait in 
-            libro <title ref="#deTrinitate">De Trinitate</title>:</ref> 
+            libro De Trinitate:</ref> 
           <cit>
             <quote xml:id="pll1d25c2-Qd1e3513" source="http://scta.info/resource/adt-l1">
               Intelligentia dictorum ex causis est assumenda 
@@ -8230,8 +8230,8 @@
           Verumtamen, cum quaeritur, quid tres, vel quid tria, non 
           de essentia quaeritur, nec ibi quid ad essentiam refertur; sed cum 
           fides catholica tres ese profiteretur, sicut <ref xml:id="pl-l1d25c2-Rd1e165">
-                        Ioannes in <title ref="#Iio">Epistola 
-            canonica</title>
+                        Ioannes in Epistola 
+            canonica
                     </ref> ait: 
           <cit>
             <quote xml:id="pll1d25c2-Qd1e3568">Tres sunt, qui testimonium perhibent in caelo,</quote>
@@ -8250,7 +8250,7 @@
           <ref xml:id="pl-l1d25c2-Rd1e189" corresp="#pll1d25c2-Qd1e3592">
             Augustinus 
             in I libro 
-            <title ref="#deDoctrinaChristiana">De doctrina christiana</title>
+            De doctrina christiana
           </ref> 
           sic 
           ait: 
@@ -8319,8 +8319,8 @@
           Sanctorum ostendi oportet, ne coniecturis nostris aliquid 
           ausi dicere videamur.</p>
         <p xml:id="pll1d25c3-d1e3535">De hoc <ref>
-                        Hieronymus in <title>Expositione fidei catholicae ad 
-          Alipium et Augustinum episcopos</title>
+                        Hieronymus in Expositione fidei catholicae ad 
+          Alipium et Augustinum episcopos
                     </ref> ita ait: 
           <cit>
             <quote xml:id="pll1d25c3-Qd1e3546">Non est prorsus 
@@ -8414,7 +8414,7 @@
           infigatur.</p>
         
         <p xml:id="pll1d26c2-d1e3506">Ait <ref>
-                        Augustinus in libro <title ref="#OnFaithToPeter">De fide ad Petrum</title>:</ref> 
+                        Augustinus in libro De fide ad Petrum:</ref> 
           <cit>
             <quote xml:id="pll1d26c2-Qd1e3518">Aliud 
               est genuisse quam natum esse, aliudque procedere quam genuisse 
@@ -8451,7 +8451,7 @@
           secundum substantiam; quia quaedam dicuntur secundum relationem, 
           quae non est accidens, quia non est mutabilis.</p>
         <p xml:id="pll1d26c3-d1e3504">Ut enim <ref>
-                        Augustinus in V libro <title ref="#deTrinitate">De Trinitate</title>
+                        Augustinus in V libro De Trinitate
                     </ref> docet: 
           <cit>
             <quote xml:id="pll1d26c3-Qd1e3515" source="http://scta.info/resource/adt-l5">Nihil in Deo secundum accidens dicitur, quia nihil ei accidit; nec 
@@ -8483,7 +8483,7 @@
           Pater, et proprietas, qua Filius est Filius, aeterna est et incommutabilis, 
           quia et Pater semper Pater, et Filius semper Filius.</p>
         <p xml:id="pll1d26c3-d1e3529">Unde Hilarius proprietates personarum assignans in <ref>libro XII 
-          <title ref="#HilaryOfPoitiers_DeTrinitate">De Trinitate</title>
+          De Trinitate
                     </ref> ita ait: 
           <cit>
             <quote xml:id="pll1d26c3-Qd1e3541">Si semper Patri proprium est, quod semper 
@@ -8562,7 +8562,7 @@
         <p xml:id="pll1d26c5-d1e3501">Homo vero, qui filius Dei est factura, non tantum Patris, sed 
           et Filii et Spiritus sancti filius est, id est totius Trinitatis; et Trinitas 
           ipsa Pater eius dici potest.</p>
-        <p xml:id="pll1d26c5-d1e3504">Unde Augustinus in V libro <title ref="#deTrinitate">De Trinitate</title> ait: 
+        <p xml:id="pll1d26c5-d1e3504">Unde Augustinus in V libro De Trinitate ait: 
           <cit>
             <quote xml:id="pll1d26c5-Qd1e3514" source="http://scta.info/resource/adt-l5">Non 
               potest dici Trinitas pater, nisi forte translative ad creaturam propter 
@@ -8617,7 +8617,7 @@
           relatione dicitur Spiritus sanctus et donum; licet ipsa relatio 
           non ita appareat in hoc nomine Spiritus sanctus, sicut in hoc 
           nomine donum.</p>
-        <p xml:id="pll1d26c6-d1e3504">Unde Augustinus, in V libro <title ref="#deTrinitate">De Trinitate</title> ita ait: 
+        <p xml:id="pll1d26c6-d1e3504">Unde Augustinus, in V libro De Trinitate ita ait: 
           <cit>
             <quote xml:id="pll1d26c6-Qd1e3514" source="http://scta.info/resource/adt-l5">Spiritus 
               sanctus, qui non est Trinitas, sed in Trinitate, intelligitur, 
@@ -8649,7 +8649,7 @@
         <p xml:id="pll1d26c7-d1e3501">Hic quaeri potest, utrum Pater vel Filius vel etiam ipsa Trinitas 
           possit dici spiritus sanctus, sicut disiunctim dicitur et spiritus et 
           sanctus.</p>
-        <p xml:id="pll1d26c7-d1e3504">De hoc Augustinus in V libro <title ref="#deTrinitate">De Trinitate</title> sic ait: 
+        <p xml:id="pll1d26c7-d1e3504">De hoc Augustinus in V libro De Trinitate sic ait: 
           <cit>
             <quote xml:id="pll1d26c7-Qd1e3514" source="http://scta.info/resource/adt-l5">Trinitas nullo modo potest dici filius, spiritus vero sanctus potest 
               quidem universaliter dici, secundum id quod scriptum est: 
@@ -8680,8 +8680,8 @@
           est in omnibus relativis; non enim omnia, quae relative dicuntur, 
           suis a se vicissim respondent vocabulis.</p>
         <p xml:id="pll1d26c8-d1e3507">Unde <ref>
-                        Augustinus horum elidens opinionem, in V libro <title ref="#deTrinitate">De 
-          Trinitate</title>
+                        Augustinus horum elidens opinionem, in V libro De 
+          Trinitate
                     </ref> ait: 
           <cit>
             <quote xml:id="pll1d26c8-Qd1e3518" source="http://scta.info/resource/adt-l5">Non moveat, inquit, quod diximus, Spiritum 
@@ -8825,7 +8825,7 @@
           easdem quas et nomina praedicta, unde et relative dicuntur, scilicet: 
           genitor, genitus, verbum, imago.</p>
         <p xml:id="pll1d27c3-d1e3552">Unde <ref>
-                        Augustinus in V libro <title ref="#deTrinitate">De Trinitate</title>:</ref> 
+                        Augustinus in V libro De Trinitate:</ref> 
           <cit>
             <quote xml:id="pll1d27c3-Qd1e3564" source="http://scta.info/resource/adt-l5">Videndum 
               est, inquit, hoc significari, cum dicitur genitus, quod significatur, 
@@ -8849,7 +8849,7 @@
             
           </cit>
         </p>
-        <p xml:id="pll1d27c3-d1e3596">Idem in <ref>VII libro <title ref="#deTrinitate">De Trinitate</title>:</ref>
+        <p xml:id="pll1d27c3-d1e3596">Idem in <ref>VII libro De Trinitate:</ref>
           <cit>
             <quote xml:id="pll1d27c3-Qd1e3606" source="http://scta.info/resource/adt-l7">Verbum, secundum quod 
               sapientia est et essentia, hoc est quod Pater; secundum quod verbum, 
@@ -8910,7 +8910,7 @@
             <quote xml:id="pll1d27c4-Qd1e3508" source="http://scta.info/resource/adt-l6">Quidquid enim ad se dicuntur, ut ait 
               <ref>
                                 Augustinus, in VI 
-                libro <title ref="#deTrinitate">De Trinitate</title>
+                libro De Trinitate
                             </ref>
               non dicitur alter sine altero, id est, quidquid 
               dicuntur quod substantiam eorum ostendat, ambo simul dicuntur. 
@@ -8942,7 +8942,7 @@
           ubi Filius tantum significatur. Ita et de solo Filio intelligitur, 
           cum dicitur: Deus de Deo, et huiusmodi.</p>
         <p xml:id="pll1d27c5-d1e3509">Unde Augustinus quaerens quomodo huiusmodi dicantur, 
-          in VI libro <title ref="#deTrinitate">De Trinitate</title> ait: 
+          in VI libro De Trinitate ait: 
           <cit>
             <quote xml:id="pll1d27c5-Qd1e3519" source="http://scta.info/resource/adt-l6">Quomodo Deus de Deo, lumen 
               de lumine dicitur? Non enim simul ambo Deus de Deo, sed solus 
@@ -9006,7 +9006,7 @@
           generationis, differt etiam proprietate innascibilitatis, id est quia 
           ingenitus.</p>
         <p xml:id="pll1d28c1-d1e3507">Unde Augustinus, distinguens inter proprietatem, qua dicitur 
-          pater, et illam, qua dicitur ingenitus, in <ref>V libro <title ref="#deTrinitate">De Trinitate</title>
+          pater, et illam, qua dicitur ingenitus, in <ref>V libro De Trinitate
                     </ref> 
           sic ait: 
           <cit>
@@ -9089,7 +9089,7 @@
         
         <p xml:id="pll1d28c3-d1e3501">Si autem vis scire, quae sit proprietas, secundum quam Pater 
           dicitur ingenitus, audi Hilarium ipsam vocantem innascibilitatem, 
-          in IV libro <title ref="#HilaryOfPoitiers_DeTrinitate">De Trinitate</title> ita aientem: 
+          in IV libro De Trinitate ita aientem: 
           <cit>
             <quote xml:id="pll1d28c3-Qd1e3511">Est unus ab uno, 
               scilicet ab Ingenito Genitus, proprietate videlicet in unoquoque et 
@@ -9164,7 +9164,7 @@
           Filius est, quo Pater est, et ita idem est Patrem esse et Filium 
           esse; sed non est idem esse patrem et esse filium.</p>
         <p xml:id="pll1d28c5-d1e3509">Unde <ref>
-                        Augustinus in V libro <title ref="#deTrinitate">De Trinitate</title>
+                        Augustinus in V libro De Trinitate
                     </ref> ait: 
           <cit>
             <quote xml:id="pll1d28c5-Qd1e3520" source="http://scta.info/resource/adt-l5">Quamvis 
@@ -9236,7 +9236,7 @@
           est homo.</p> 
         <p xml:id="pll1d28c7-d1e3517">
                     <ref>
-                        Hilarius etaim in V libro <title ref="#deTrinitate">De Trinitate</title>
+                        Hilarius etaim in V libro De Trinitate
                     </ref> sic ait: 
           <cit>
             <quote xml:id="pll1d28c7-Qd1e3527">Homo fit 
@@ -9442,7 +9442,7 @@
           creaturis, ut: creator, dominus, refugium, datum vel donatum et 
           huiusmodi.</p>
         <p xml:id="pll1d30c1-d1e3504">De his <ref>
-                        Augustinus in V libro <title ref="#deTrinitate">De Trinitate</title>
+                        Augustinus in V libro De Trinitate
                     </ref> ita ait: 
           <cit>
             <quote xml:id="pll1d30c1-Qd1e3515" source="http://scta.info/resource/adt-l5">Creator relative dicitur ad creaturam, sicut dominus ad servum.</quote>
@@ -9575,7 +9575,7 @@
         <p xml:id="pll1d31c1-d1e3521">Est tamen aequalis Patri Filius et utrique Spiritus sanctus 
           propter summam simplicitatem essentiae et unitatem; aequalis est 
           igitur Filius Patri secundum substantiam, non secundum relationem.</p>
-        <p xml:id="pll1d31c1-d1e3525">Unde Augustinus in V libro <title ref="#deTrinitate">De Trinitate</title> ait: 
+        <p xml:id="pll1d31c1-d1e3525">Unde Augustinus in V libro De Trinitate ait: 
           <cit>
             <quote xml:id="pll1d31c1-Qd1e3535" source="http://scta.info/resource/adt-l5">Quaerimus, secundum quid aequalis sit Patri Filius. Non secundum hoc, 
               quod ad Patrem dicitur, Filius aequalis est Patri; restat igitur, ut 
@@ -9633,7 +9633,7 @@
           verba, ut in eorum intelligentia atque explanatione vehementer 
           laboraverit 
           <ref xml:id="pl-l1d31c2-Rd1e112">
-                        Augustinus, ut ipse ostendit in VI libro <title ref="#deTrinitate">De Trinitate</title>
+                        Augustinus, ut ipse ostendit in VI libro De Trinitate
                     </ref> 
           ita dicens: 
           <cit>
@@ -9777,7 +9777,7 @@
           distinctionem Augustinus ostendere volens sine expressione illarum trium proprietatum superius commemoratarum, in 
           <ref xml:id="pl-l1d31c2-Rd1e263" corresp="#pll1d31c2-Qd1e3662">
             I libro 
-            <title ref="#deDoctrinaChristiana">De doctrina christiana</title>
+            De doctrina christiana
           </ref> 
           si ait: 
           <cit>
@@ -9834,7 +9834,7 @@
           diversis rebus, nisi addatur, quid unus vel una; quo addito, recte 
           potest dici de rebus et unius et diversae substantiae.</p>
         <p xml:id="pll1d31c4-d1e3504">Unde <ref>
-                        Augustinus in VI libro <title ref="#deTrinitate">De Trinitate</title>
+                        Augustinus in VI libro De Trinitate
                     </ref> ait sic: 
           <cit>
             <quote xml:id="pll1d31c4-Qd1e3515" source="http://scta.info/resource/adt-l6-d1e795">
@@ -9988,7 +9988,7 @@
           Patrem. Recte igitur Spiritus sanctus dicitur connexio vel concordia 
           Patris et Filii, et per eum omnia connexa.</p>
         <p xml:id="pll1d31c6-d1e3507">Unde <ref>
-                        Augustinus in VI libro <title ref="#deTrinitate">De Trinitate</title>:</ref> 
+                        Augustinus in VI libro De Trinitate:</ref> 
           <cit>
             <quote xml:id="pll1d31c6-Qd1e3519" source="http://scta.info/resource/adt-l6">Communio 
               quaedam consubstantialis Patris et Filii est amborum Spiritus.</quote>
@@ -10020,7 +10020,7 @@
           sanctum, videtur esse per Spiritum sanctum, quia non est aliud 
           Deo esse, et aliud diligere, sed idem; quia ait <ref>
                         Augustinus 
-            in XV libro <title ref="#deTrinitate">De Trinitate</title>:</ref> 
+            in XV libro De Trinitate:</ref> 
           <cit>
             <quote xml:id="pll1d32c1-Qd1e3518" source="http://scta.info/resource/adt-l15">Quidquid secundum qualitates in illa 
               simplici natura dici videtur, secundum essentiam est intelligendum,</quote>
@@ -10035,7 +10035,7 @@
           scilicet quod Pater et Filius se diligant et unitatem servent 
           non solum essentia sua, sed suo Dono proprio; quod licet supra 
           positum sit, iterare tamen non piget, quia sic expedit.</p>
-        <p xml:id="pll1d32c1-d1e3533">Ait ergo in VI libro <title ref="#deTrinitate">De Trinitate</title> ita: 
+        <p xml:id="pll1d32c1-d1e3533">Ait ergo in VI libro De Trinitate ita: 
           <cit>
             <quote xml:id="pll1d32c1-Qd1e3540" source="http://scta.info/resource/adt-l6">Manifestum est, 
               quod non aliquid duorum est, quo uterque coniungitur, quo genitus 
@@ -10051,7 +10051,7 @@
           </cit>
           Ecce hic dicit, quod 
           essentia sua et Dono suo servant unitatem.</p>
-        <p xml:id="pll1d32c1-d1e3557">Idem in <ref>XV libro <title ref="#deTrinitate">De Trinitate</title>:</ref> 
+        <p xml:id="pll1d32c1-d1e3557">Idem in <ref>XV libro De Trinitate:</ref> 
           <cit>
             <quote xml:id="pll1d32c1-Qd1e3567" source="http://scta.info/resource/adt-l15">In illa Trinitate, quis 
               audeat dicere, Patrem nec se nec Filium nec Spiritum sanctum diligere 
@@ -10074,7 +10074,7 @@
           <cit>
             <quote xml:id="pl-l1d32c2-Qd1e3511">Hanc quaestionem urgere videtur, ut ait <ref>
                                 Augustinus in 
-              VII libro <title ref="#deTrinitate">De Trinitate</title>,</ref> quod scripsit Apostolus dicens 
+              VII libro De Trinitate,</ref> quod scripsit Apostolus dicens 
               <cit>
                 <quote xml:id="pl-l1d32c2-Qd1e3526" source="http://scta.info/resource/Icor1_24">Christum, Dei virtutem et Dei sapientiam,</quote>
                 
@@ -10099,7 +10099,7 @@
         
         <p xml:id="pl-l1d32c2-d1e3542">
                     <ref>
-                        Augustinus in libro <title ref="#deDiversisQuaestionibus">83 Quaestionum</title>:</ref> 
+                        Augustinus in libro 83 Quaestionum:</ref> 
           <cit>
             <quote xml:id="pl-l1d32c2-Qd1e3553">Cum sapiens dicitur, 
             et sapientia sapiens dicitur sine qua eum vel fuisse aliquando vel esse posse, 
@@ -10112,14 +10112,14 @@
         
         <p xml:id="pl-l1d32c2-d1e3563">Animadverte, lector, Patrem dici sapientem genita sapientia, quod aliis 
           obviat testimoniis. Verum hoc <ref>
-                        Augustinus corrigit in libro <title ref="#Retractationum">Retractationum</title>
+                        Augustinus corrigit in libro Retractationum
                     </ref> 
            
           inquiens: 
           <cit>
-            <quote xml:id="pl-l1d32c2-Qd1e3576">Dixi in libro <title ref="#deDiversisQuaestionibus">83 Quaestionum</title> de Patre, quod eam ipse genuit 
+            <quote xml:id="pl-l1d32c2-Qd1e3576">Dixi in libro 83 Quaestionum de Patre, quod eam ipse genuit 
             quae sapiens dicitur sapientia; sed melius istam quaestionum in libro postea 
-            <title ref="#deTrinitate">De Trinitate</title> tractavi.</quote>
+            De Trinitate tractavi.</quote>
             
           </cit>
         </p>
@@ -10137,7 +10137,7 @@
           ingenita.</p>
         <p xml:id="pl-l1d32c2-d1e3596">Non ergo Filius dicitur sapientia Dei, tannquam ipse solus sit 
           intelligens vel sapiens sibi et Patri et Spiritui sancto; quia, ut ait 
-          Augustinus in libro XV <title ref="#deTrinitate">De Trinitate</title>: 
+          Augustinus in libro XV De Trinitate: 
           <cit>
             <quote xml:id="pl-l1d32c2-Qd1e3606">Si solus ibi Filius 
               intelligit et sibi et Patri et Spiritui sancto, a illam reditur absurditatem, 
@@ -10185,7 +10185,7 @@
           locutiones: Filius sapiens est per se, sed non a se vel de se; et 
           Filius est Deus per se, et est per se, sed non a se vel de se; hoc 
           confirmantes verbis Hilarii, qui Filium non a se, sed per se agere, 
-          in libro <title ref="#HilaryOfPoitiers_DeTrinitate">De Trinitate</title> ait: 
+          in libro De Trinitate ait: 
           <cit>
             <quote xml:id="pll1d32c3-Qd1e3517">Naturae, inquit cui contradicis, 
               haeretice, haec unitas est, ut ita per se agat Filius, ne a se agat, 
@@ -10291,7 +10291,7 @@
         <p xml:id="pll1d32c6-d1e3539">
           <cit>
             <quote xml:id="pll1d32c6-Qd1e3543">Optimus enim lector est, inquit <ref>
-                                Hilarius in I libro <title ref="#deTrinitate">De Trinitate</title>
+                                Hilarius in I libro De Trinitate
                             </ref>, 
               qui dictorum intelligentiam exspectet ex dictis potius 
               quam imponat, et retulerit magis, quam attulerit, neque cogat id 
@@ -10521,7 +10521,7 @@
           opinionem suam etiam Sancorum auctoritatibus munire conantur, 
           quibus ostendere volunt, proprietatem, qua Pater est Pater, et proprietatem, 
           qua Filius est Filius, non esse Deum; ad hoc inducentes 
-          verba Augustini super illum locum <title ref="#ps">Psalmi</title>: 
+          verba Augustini super illum locum Psalmi: 
           <cit> 
             <quote xml:id="pll1d33c2-Qd1e3562" source="http://scta.info/resource/ps68:3">Et non est substantia,</quote>
             
@@ -10592,7 +10592,7 @@
         
         <p xml:id="pll1d34c1-d1e3506">Idque testimonio <ref>
                         Hilarii defendere nituntur, qui in VIII libro 
-          <title ref="#HilaryOfPoitiers_DeTrinitate">De Trinitate</title>
+          De Trinitate
                     </ref> quaerens, utrum Apostolus, nominans 
           <cit>
             <quote xml:id="pll1d34c1-Qd1e3520" source="http://scta.info/resource/rom8_9">spiritum 
@@ -10765,7 +10765,7 @@
           vero non. Est tamen hypostasis essentia, et e converso. Fateamur 
           ergo, unum atque idem esse tres personas secundum essentiam, 
           differentes autem proprietatibus.</p>
-        <p xml:id="pll1d34c1-d1e3710">Unde Augustinus super locum <title ref="#ps">Psalmi</title> praetaxatum ait: 
+        <p xml:id="pll1d34c1-d1e3710">Unde Augustinus super locum Psalmi praetaxatum ait: 
           <cit>
             <quote xml:id="pll1d34c1-Qd1e3720">Quaeris, quid sit Pater? Respondetur: Deus. Quaeris, quid sit 
               Filius? Respondetur: Deus. Quaeris, quid sit Pater et Filius? Respondetur: 
@@ -11114,7 +11114,7 @@
           Et hac 
           ratione omnia dicuntur esse in eo vel apud eum sive ei praesentia.</p>
         <p xml:id="pll1d35c9-d1e3570">Unde <ref>
-                        Augustinus, super illum locum <title ref="#ps">Psalmi</title>
+                        Augustinus, super illum locum Psalmi
                     </ref> 
           <cit>
             <quote xml:id="pll1d35c9-Qd1e3581">
@@ -11342,7 +11342,7 @@
           tamen ex Patre et per Patrem et in Patre sunt: similiter de Filio 
           et Spiritu sancto accipiendum est.</p>
         <p xml:id="pll1d36c4-d1e3513">Unde <ref>
-                        Augustinus in libro <title ref="#deTrinitate">De Trinitate</title>
+                        Augustinus in libro De Trinitate
                     </ref>: 
           <cit>
             <quote xml:id="pll1d36c4-Qd1e3524">Non confuse, 
@@ -11427,8 +11427,8 @@
           </cit>
         </p>
         <p xml:id="pll1d37c1-d1e3546">De hoc eodem <ref>
-                        Augustinum Ad Dardanum in libro <title>De 
-          praesentia Dei</title>
+                        Augustinum Ad Dardanum in libro De 
+          praesentia Dei
                     </ref> ait: 
           <cit>
             <quote xml:id="pll1d37c1-Qd1e3560">Cum Deus sit natura incorporea et incommutabiliter 
@@ -11440,7 +11440,7 @@
           </cit>
         </p>
         <p xml:id="pll1d37c1-d1e3568">
-                    Hilarius quoque in libro VIII <title ref="#HilaryOfPoitiers_DeTrinitate">De Trinitate</title> apertissime 
+                    Hilarius quoque in libro VIII De Trinitate apertissime 
           docet, Deum esse ubique: 
           <cit>
             <quote xml:id="pll1d37c1-Qd1e3577">Deus, inquit, immensae virtutis, vivens 
@@ -11492,7 +11492,7 @@
         <p xml:id="pll1d37c2-d1e3501">In Sanctis vero etiam habitat, in quibus est per gratiam. Non 
           enim ubicumque est, ibi habitat, ubi vero habitat, ibi est. In 
           solis bonis habitat, qui sunt templum eius et sedes eius.</p>
-        <p xml:id="pll1d37c2-d1e3504">Unde per <title ref="#is">Isaiam</title> Dominus ait: 
+        <p xml:id="pll1d37c2-d1e3504">Unde per Isaiam Dominus ait: 
           <cit>
             <quote xml:id="pll1d37c2-Qd1e3511" source="http://scta.info/resource/is66_1">Caelum mihi sedes est, 
               terra autem scabellum pedum meorum,</quote>
@@ -11506,8 +11506,8 @@
           quibus tamen omnibus totus est.</p>
         <p xml:id="pll1d37c2-d1e3523">
           <cit>
-            <quote xml:id="pll1d37c2-Qd1e3527">Quemadmodum anima, ut ait Augustinus in <title>Epistola ad 
-              Hieronymum</title> de origine animae, per omnes particulas corporis 
+            <quote xml:id="pll1d37c2-Qd1e3527">Quemadmodum anima, ut ait Augustinus in Epistola ad 
+              Hieronymum de origine animae, per omnes particulas corporis 
               tota adest simul, nec minor in minoribus, nec in maioribus maior 
               est, sed tamen in aliis intensius, in aliis remissius operatur, cum 
               in singulis particulis corporis essentialiter sit,</quote>
@@ -11576,8 +11576,8 @@
         <p xml:id="pll1d37c3-d1e3533">
           <cit>
             <quote xml:id="pll1d37c3-Qd1e3537">Sciendum etiam, quia, ut ait <ref>
-                                Augustinus in libro <title>Ad 
-              Dardanum</title>,</ref> dici nisi stultissime nequit, Spiritum sanctum non 
+                                Augustinus in libro Ad 
+              Dardanum,</ref> dici nisi stultissime nequit, Spiritum sanctum non 
               habere locum in nostro corpore, quod totum nostra anima impleverit. 
               Stultius enim dicitur, angustiis alicubi impediri Trinitatem, 
               ut Pater et Filius et Spiritus sanctus alicubi simul esse non possit.</quote>
@@ -11919,7 +11919,7 @@
         <p xml:id="pll1d37c9-d1e3562">Ideoque Augustinus, volens praescidere a Dei puritate 
           omnem localem motum et localem circumscriptionem, potius dicit, 
           omnia esse in illo, quam ipsum esse alicubi, nec tamen ipsum esse 
-          locum, qui non est in loco, in libro <title ref="#deDiversisQuaestionibus">83 Quaestionum</title> ita inquiens: 
+          locum, qui non est in loco, in libro 83 Quaestionum ita inquiens: 
           <cit>
             <quote xml:id="pll1d37c9-Qd1e3572">Deus non alicubi est. Quod alicubi est continetur loco; quod continetur 
               loco corpus est; Deus autem non est corpus; non igitur 
@@ -11979,8 +11979,8 @@
           causa esse eorum videtur, quae praescita sunt. Hoc idem et de 
           scientia dicitur, scilicet quod, quia Deus aliqua novit, ideo sint.</p>
         <p xml:id="pll1d38c1-d1e3513">Cui sententiae <ref>
-                        Augustinus attestari videtur in XV libro <title ref="#deTrinitate">De 
-          Trinitate</title>
+                        Augustinus attestari videtur in XV libro De 
+          Trinitate
                     </ref> sic dicens: 
           <cit>
             <quote xml:id="pll1d38c1-Qd1e3524" source="http://scta.info/resource/adt-l15">Non ista ex aliquo tempore cognovit 
@@ -12166,7 +12166,7 @@
         <p xml:id="pll1d39c1-d1e3507">Ad quod dicimus, quia Dei scientia omnino immutabilis est, 
           nec augeri potest vel minui.</p>
         <p xml:id="pll1d39c1-d1e3511">Nam, ut ait <ref>
-                        Augustinus in XV libro <title ref="#deTrinitate">De Trinitate</title>
+                        Augustinus in XV libro De Trinitate
                     </ref>: 
           <cit>
             <quote xml:id="pll1d39c1-Qd1e3522">Scientia Dei est ipsa sapientia, et sapientia est ipsa essentia sive 
@@ -12343,7 +12343,7 @@
                         Augustinus in libro De correptione et gratia:</ref> 
           <cit>
             <quote xml:id="pll1d40c1-Qd1e3545">In 
-              <title ref="#ap">Apocalypsi</title>, inquit, dicitur: 
+              Apocalypsi, inquit, dicitur: 
               <cit>
                 <quote xml:id="pll1d40c1-Qd1e3552" source="http://scta.info/resource/ap3_11">Tene quod habes, ne alius accipiat 
                   coronam tuam.</quote>
@@ -12452,8 +12452,8 @@
         <p xml:id="pll1d40c2-d1e3538">
           <cit>
             <quote xml:id="pll1d40c2-Qd1e3542">Praeparavit enim Deus, ut <ref>
-                                Augustinus ait in libro <title>De bono 
-              perseverantiae</title>,</ref> in praescientia sua, quibus voluit bona sua; et 
+                                Augustinus ait in libro De bono 
+              perseverantiae,</ref> in praescientia sua, quibus voluit bona sua; et 
               quibuscumque donat, proculdubio se donaturum esse praescivit.</quote>
             
           </cit>
@@ -12642,8 +12642,8 @@
         </p>
         
         <p xml:id="pll1d41c2-d1e3609">His tamen videtur adversari, quod dicit <ref>
-                        Augustinus <title>Super 
-          Malachiam</title>
+                        Augustinus Super 
+          Malachiam
                     </ref> prophetam, ubi scriptum est: 
           <cit>
             <quote xml:id="pll1d41c2-Qd1e3620" source="http://scta.info/resource/mal1_2">
@@ -12677,7 +12677,7 @@
           <cit>
             <quote xml:id="pll1d41c2-Qd1e3662">Sed quid intelligere voluerit, ignoratur, nisi forte dicatur hoc 
               intellexisse, quod supra diximus eum retractasse. Nam ibidem 
-              etiam quaedam alia continue subdit, quae in libro <title ref="#Retractationum">Retractionum</title> 
+              etiam quaedam alia continue subdit, quae in libro Retractionum 
               aperte retractat; quod utrumque legenti patebit. Unde verisimile 
               est, in praemissis etiam hoc retractasse.</quote>
             
@@ -12800,8 +12800,8 @@
           omnia possit, an tantum, quia ea possit quae vult.</p>
         <p xml:id="pll1d42c1-d1e3504">Quod enim Deus omnia possit, pluribus auctoritatibus probatur.</p>
         <p xml:id="pll1d42c1-d1e3507">Ait enim <ref>
-                        Augustinus in libro <title>Quaestionum veteris ac novae 
-          Legis</title>:</ref>
+                        Augustinus in libro Quaestionum veteris ac novae 
+          Legis:</ref>
           <cit>
             <quote xml:id="pll1d42c1-Qd1e3519">Omnia quidem potest Deus, sed non facit nisi quod 
               convenit veritati eius et iustitiae.</quote>
@@ -12844,7 +12844,7 @@
           Non igitur impotentiae, sed potentiae imputandum est, quod ista 
           non potest.</p>
         <p xml:id="pll1d42c2-d1e3516">Unde <ref>
-                        Augustinus in XV libro <title ref="#deTrinitate">De Trinitate</title>:</ref> 
+                        Augustinus in XV libro De Trinitate:</ref> 
           <cit>
             <quote xml:id="pll1d42c2-Qd1e3528" source="http://scta.info/resource/adt-l15">Magna, 
               inquit, Dei potentia est non posse mentiri.</quote>
@@ -12893,7 +12893,7 @@
         <p xml:id="pll1d42c3-d1e3513">Ex quibusdam tamen auctoritatibus traditur, ideo vere omnipotens 
           dici, quia quidquid vult potest.</p>
         <p xml:id="pll1d42c3-d1e3516">Unde <ref>
-                        Augustinus in <title ref="#Enchiridion">Enchiridio</title>:</ref> 
+                        Augustinus in Enchiridio:</ref> 
           <cit>
             <quote xml:id="pll1d42c3-Qd1e3528">Non ob aliud veraciter 
               vocatur omnipotens, nisi quoniam quidquid vult, potest, nec voluntate 
@@ -12913,8 +12913,8 @@
           </cit>
         </p>
         <p xml:id="pll1d42c3-d1e3554">
-                    Ioannes Chrysostomus in homilia quadam <title>De expositione 
-          Symboli</title> ait: 
+                    Ioannes Chrysostomus in homilia quadam De expositione 
+          Symboli ait: 
           <cit>
             <quote xml:id="pll1d42c3-Qd1e3563">Omnipotens dicitur, quia posse illius non 
               potest invenire non posse, dicente Propheta: 
@@ -12982,7 +12982,7 @@
         <p xml:id="pll1d42c3-d1e3648">Ad quod dicimus, quia licet Filius non possit a se, nec operetur 
           a se, potest tamen et operatur per se; sic et Spiritus sanctus.</p>
         <p xml:id="pll1d42c3-d1e3651">Unde <ref>
-                        Hilarius in libro IX <title ref="#HilaryOfPoitiers_DeTrinitate">De Trinitate</title>:</ref> 
+                        Hilarius in libro IX De Trinitate:</ref> 
           <cit>
             <quote xml:id="pll1d42c3-Qd1e3663">Naturae, inquit, 
               cui contradicis, haeretice, haec unitas est, ut ita per se agat 
@@ -13045,7 +13045,7 @@
         <p xml:id="pll1d43c1-d1e3528">Si enim intelligas: Non potest facere, nisi quod iustitia sua 
           exigit, id est, nisi quod iusta voluntas sua vult, falsum dicis. Iustitia 
           enim Dei ipsius aequissima voluntas accipitur, qualiter accepit 
-          Augustinus, illa verba Domini in <title ref="#gen">Genesi</title> loquentis ad 
+          Augustinus, illa verba Domini in Genesi loquentis ad 
           Loth: 
           <cit>
             <quote xml:id="pll1d43c1-Qd1e3541" source="http://scta.info/resource/gen19_22">Non possum quidquam facere, donec illo introeas,</quote>
@@ -13165,7 +13165,7 @@
           quae non vult, et posse dimittere quae facit.</p>
         <p xml:id="pll1d43c1-d1e3652">Quod ut certius firmiusque teneatur, Scripturae testimoniis afferamus, 
           Deum plura facere posse, quam faciat.</p>
-        <p xml:id="pll1d43c1-d1e3655">Veritas ipsa secundum <title ref="#mt">Matthaeum</title> ait: 
+        <p xml:id="pll1d43c1-d1e3655">Veritas ipsa secundum Matthaeum ait: 
           <cit>
             <quote xml:id="pll1d43c1-Qd1e3662" source="http://scta.info/resource/mt26_53">An putas, quia 
               non possum rogare Patrem meum, et exhibebit mihi modo 
@@ -13178,7 +13178,7 @@
           quod non faciebat.</p>
         <p xml:id="pll1d43c1-d1e3670">
                     <ref>
-                        Augustinus etiam in <title ref="#Enchiridion">Enchiridio</title>
+                        Augustinus etiam in Enchiridio
                     </ref> ait: 
           <cit>
             <quote xml:id="pll1d43c1-Qd1e3680">Omnipotentis 
@@ -13240,7 +13240,7 @@
           invidus esset et non summe bonus. Et hoc a simili astruere 
           conantur.</p>
         <p xml:id="pll1d44c1-d1e3515">Ait enim <ref>
-                        Augustinus in libro <title ref="#deDiversisQuaestionibus">83 Quaestionum</title>:</ref> 
+                        Augustinus in libro 83 Quaestionum:</ref> 
           <cit>
             <quote xml:id="pll1d44c1-Qd1e3527">Deus 
               quem genuit, quoniam meliorem se generare non potuit - nihil 
@@ -13266,7 +13266,7 @@
           et potest esse melior, si fiat capax melioris boni, quod ipse potest 
           qui eam fecit. Potest ergo Deus meliorem rem facere, quam faciat.</p>
         <p xml:id="pll1d44c1-d1e3538">Unde <ref>
-                        Augustinus <title ref="#DeGenesiAdLitteram">Super Genesim</title>:</ref> 
+                        Augustinus Super Genesim:</ref> 
           <cit>
             <quote xml:id="pll1d44c1-Qd1e3550">Talem potuit Deus 
               hominem fecisse, qui nec peccare posset, nec vellet; et si talem 
@@ -13290,7 +13290,7 @@
           facere melius et aliter, quam facit, quia potest quibusdam meliorem 
           modum existendi praestare, et quibusdam alium.</p>
         <p xml:id="pll1d44c1-d1e3570">Unde <ref>
-                        Augustinus in XIII libro <title ref="#deTrinitate">De Trinitate</title>
+                        Augustinus in XIII libro De Trinitate
                     </ref> dicit, quod 
           fuit et alius modus nostrae liberationis possibilis Deo, qui omnia 
           potest; sed nullus alius modus nostrae miseriae sanandae fuit 
@@ -13409,7 +13409,7 @@
           est: qui enim eius causam quaerit, aliquid maius ea quaerit, cum 
           nihil maius ea sit.</p>
         <p xml:id="pll1d45c4-d1e3512">Unde <ref>
-                        Augustinus in libro <title ref="#deDiversisQuaestionibus">83 Quaestionum</title>:</ref> 
+                        Augustinus in libro 83 Quaestionum:</ref> 
           <cit>
             <quote xml:id="pll1d45c4-Qd1e3524">Qui quaerit, 
               quare voluerit Deus mundum facere, causam quaerit voluntatis 
@@ -13443,7 +13443,7 @@
         <p xml:id="pll1d45c4-d1e3558">
           <cit>
             <quote xml:id="pll1d45c4-Qd1e3562" source="http://scta.info/resource/adt-l3">Voluntas igitur Dei, ut ait <ref>
-                                Augustinus in libro III <title ref="#deTrinitate">De Trinitate</title>,</ref> 
+                                Augustinus in libro III De Trinitate,</ref> 
               prima et summa est causa omnium specierum atque motionum: 
               nihil enim fit, quod non de interiori atque intelligibili aula 
               summi Imperatoris egrediatur secundum ineffabilem iustitiam.</quote>
@@ -13622,7 +13622,7 @@
           declinandi.</p>
         <p xml:id="pll1d45c7-d1e3520">Permissio quoque Dei et operatio voluntas Dei appellantur 
           qualiter accipit <ref>
-                        Augustinus in <title ref="#Enchiridion">Enciridio</title>
+                        Augustinus in Enciridio
                     </ref> dicens: 
           <cit>
             <quote xml:id="pll1d45c7-Qd1e3531">Non fit 
@@ -13779,7 +13779,7 @@
             <quote xml:id="pll1d46c2-Qd1e3577">Quis enim tam impie desipiat, ut dicat, Deum malas hominum 
               voluntates, quas voluerit, et quando voluerit, et ubi voluerit, 
               in bonum non posse convertere? Non est utique verum quod 
-              in <title ref="#ps">Psalmo</title> dicitur: 
+              in Psalmo dicitur: 
               <cit>
                 <quote xml:id="pll1d46c2-Qd1e3584">Quaecumque voluit, fecit,</quote>
                 
@@ -13999,7 +13999,7 @@
         </p>
         <p xml:id="pll1d46c5-d1e3530">Est autem aliud, quod nec in se bonum est, et facienti nocet 
           et damnat, nisi poeniteat, ut malum; valet tamen ad aliquid.</p>
-        <p xml:id="pll1d46c5-d1e3534">Ut enim Augustinus ait in <title ref="#Enchiridion">Enchiridio</title>: 
+        <p xml:id="pll1d46c5-d1e3534">Ut enim Augustinus ait in Enchiridio: 
           <cit>
             <quote xml:id="pll1d46c5-Qd1e3544">A summe et 
               aequaliter et incommutabiliter bona Trinitate creata sunt omnia 
@@ -14028,8 +14028,8 @@
         <p xml:id="pll1d46c6-d1e3522">
           <cit>
             <quote xml:id="pll1d46c6-Qd1e3526">Talibus enim, ut ait <ref>
-                                Augustinus in libro <title>De correptione 
-              et gratia</title>,</ref> usque adeo Deus omnia cooperatur in bonum, ut, si qui 
+                                Augustinus in libro De correptione 
+              et gratia,</ref> usque adeo Deus omnia cooperatur in bonum, ut, si qui 
               eorum deviant et exorbitant, etiam hoc ipsum eis faciat proficere 
               in bonum, quia humiliores redeunt atque doctiores,</quote>
             
@@ -14039,7 +14039,7 @@
           <cit>
             <quote xml:id="pll1d46c6-Qd1e3549" source="http://scta.info/resource/adt-l13-d1e1492">
               Illa etiam mala, quae ab iniquis fideles pie perferunt, ut ait 
-              Augustinus in libro <title ref="#deTrinitate">De Trinitate</title>, ipsis utique prosunt vel ad 
+              Augustinus in libro De Trinitate, ipsis utique prosunt vel ad 
               demenda peccata, vel ad exercendam probandamque iustitiam, 
               vel ad demonstrandam huius vitae miseriam.</quote>
             
@@ -14060,7 +14060,7 @@
           deterior - idem est enim dicere aliquid fieri Deo auctore, quod 
           Deo volente - Deo autem auctore non fit homo deterior; ergo nec 
           Deo volente, ut <ref>
-                        Augustinus in libro <title ref="#deDiversisQuaestionibus">83 Quaestionum</title>
+                        Augustinus in libro 83 Quaestionum
                     </ref> aperte 
           
           astruit a minori, dicens ita: 
@@ -14137,7 +14137,7 @@
           est a veritate quae Deus est; a Deo igitur est, quod mala fiunt.</p>
         <p xml:id="pll1d46c7-d1e3566">Quod autem omne verum a Deo sit, confirmant auctoritate 
           <ref>
-                        Augustini in libro <title ana="#deDiversisQuaestionibus">83 Quaestionum</title>
+                        Augustini in libro 83 Quaestionum
                     </ref> ita dicentis: 
           <cit>
             <quote xml:id="pll1d46c7-Qd1e3577">Omne verum 
@@ -14189,7 +14189,7 @@
           eius, tamen contra voluntatem eius, quae ipse est, 
           nihil putandum est ita fieri, tanquam velit fieri, et non fiat; vel 
           nolit fieri et fiat.</p>
-        <p xml:id="pll1d47c1-d1e3518">Illa enim voluntas, ut ait Augustinus in <title ref="#Enchiridion">Enchiridio</title>, semper 
+        <p xml:id="pll1d47c1-d1e3518">Illa enim voluntas, ut ait Augustinus in Enchiridio, semper 
           impletur aut de nobis, aut a nobis. De nobis impletur, sed 
           tamen non implemus eam, quando peccamus. A nobis impletur, 
           quando bonum facimus: ideo enim facimus, quia scimus placere 
@@ -14271,7 +14271,7 @@
           permissione omnia fiunt mala, quae tamen praeter eius voluntatem 
           sempiternam fiunt.</p>
         <p xml:id="pll1d47c2-d1e3513">Sicut <ref>
-                        Augustinus dicit super illum locum <title ref="#ps">Psalmi</title>:</ref> 
+                        Augustinus dicit super illum locum Psalmi:</ref> 
           <cit>
             <quote xml:id="pll1d47c2-Qd1e3525" source="http://scta.info/resource/ps16_4">Ut non loquatur os meum opera hominum.</quote>
             
@@ -14321,7 +14321,7 @@
         <p xml:id="pll1d47c2-d1e3584">
           <cit>
             <quote xml:id="pll1d47c2-Qd1e3588">Nam, ut ait <ref>
-                                Augustinus in <title ref="#Enchiridion">Enchiridio</title>,</ref> quantaelibet 
+                                Augustinus in Enchiridio,</ref> quantaelibet 
               sint voluntates Angelorum vel hominum, bonorum vel malorum, 
               vel illud quod Deus vel alius volentium quam Deus, Omnipotentis 
               voluntas semper invicta est, quae mala esse nunquam potest, 
@@ -14431,7 +14431,7 @@
           ut Iudaei occiderent eum, falsum est: non enim volebat Deus actionem 
           Iudaeorum, quae mala erat, sed volebat passionem bonam; 
           et haec voluntas per malas Iudaeorum voluntates impleta est.</p>
-        <p xml:id="pll1d48c2-d1e3551">Unde Augustinus in <title ref="#Enchiridion">Enchiridio</title>: 
+        <p xml:id="pll1d48c2-d1e3551">Unde Augustinus in Enchiridio: 
           <cit>
             <quote xml:id="pll1d48c2-Qd1e3561">Deus quasdam voluntates 
               suas, utique bonas, implet per malorum hominum voluntates 
@@ -14487,7 +14487,7 @@
           et effugere manus iniquorum, compassione pietatis, et ille bonam 
           habuit voluntatem.</p>
         <p xml:id="pll1d48c4-d1e3536">Unde <ref>
-                        Augustinus in <title ref="#Enchiridion">Enchiridio</title>:</ref> 
+                        Augustinus in Enchiridio:</ref> 
           <cit>
             <quote xml:id="pll1d48c4-Qd1e3548">Bonae apparebant voluntates 
               piorum fidelium, qui nolebant Apostolum Paulum Ierusalem 
@@ -14633,7 +14633,7 @@
           Unde 
           <ref xml:id="pl-l2d1c4-Rd1e134" corresp="#pll2d1c4-Qd1e3530">
             Augustinus in libro 
-            <title ref="#deDoctrinaChristiana">De doctrina christiana</title>
+            De doctrina christiana
           </ref>:
           <cit>
             <quote xml:id="pll2d1c4-Qd1e3530" source="http://scta.info/resource/addc-l1-d1e487">
@@ -14883,7 +14883,7 @@
           Unde 
           <ref xml:id="pl-l2d2c2-Rd1e118" target="http://scta.info/resource/adt-l5-d1e763">
             Augustinus in libro
-            <title ref="#deTrinitate">De Trinitate</title>
+            De Trinitate
           </ref> 
           dicit, quod Deus 
           fuit dominus antequam esset tempus, et non in tempore coepit esse 
@@ -15040,7 +15040,7 @@
         <head>Liber 2, Distinctio 2, Caput 6</head>
         <head type="questionTitle">Quomodo dixerit Lucifer: Ascendam in caelum</head>
       	<p>Hic quaeri solet, si in empyreo caelo fuerunt Angeli statim 
-      		quam facti sunt, quomodo legitur in <title ref="#is">Isaia</title>: Dicit Lucifer: 
+      		quam facti sunt, quomodo legitur in Isaia: Dicit Lucifer: 
       		<cit>
       			<quote source="http://scta.info/resource/is14_13">Ascendam in caelum et exaltabo solium meum, et ero similis 
       				Altissimo.</quote>
@@ -15146,7 +15146,7 @@
   				a Deo factos esse, nec aliquam fuisse moram inter creationem et 
   				lapsum, sed ab initio apostatasse; alios vero creatos fuisse plene 
   				beatos. Qui opinionem suam muniunt auctoritate <ref>
-                        Augustini <title ref="#DeGenesiAdLitteram">Super Genesim</title>
+                        Augustini Super Genesim
                     </ref> 
   				ita dicentis: 
   				<cit>
@@ -15192,7 +15192,7 @@
   			<p xml:id="pll2d3c4-d1e3584">His aliisque testimoniis utuntur qui dicunt, Angelos, qui ceciderunt, 
   				creatos fuisse malos et sine mora corruisse; eos vero qui 
   				perstiterunt, perfectos et beatos fore creatos, astruunt auctoritate 
-  				Augustini, qui <title ref="#DeGenesiAdLitteram">Super Genesim</title> dicit, per caelum significari 
+  				Augustini, qui Super Genesim dicit, per caelum significari 
   				spiritualem creaturam, quae ab exordio quo facta est, et perfecta 
   				et beata est semper.</p>
   			<p xml:id="pll2d3c4-d1e3593">Aliis autem videtur omnes Angelos creatos esse bonos et in 
@@ -15211,7 +15211,7 @@
   			
   			<p xml:id="pll2d3c4-d1e3598">Et ad confirmandum hoc, utuntur testimoni <ref>
                         Augustini, qui 
-  				<title ref="#DeGenesiAdLitteram">Super Genesim</title>
+  				Super Genesim
                     </ref> dicit, angelicam naturam primo informiter creatam 
   				et <mentioned>caelum</mentioned> dictam, postea formatam et <mentioned>lucem</mentioned> appellatam, 
   				quando ad Creatorem est conversa, perfecta dilectione ei inhaerens. 
@@ -15243,8 +15243,8 @@
   			<p xml:id="pll2d3c4-d1e3644">Ideoque Augustinus, exterminans opinionem eorum qui 
   				Angelos creatos fuisse malos putant, auctoritate et ratione probat 
   				bonos fuisse creatos; et verba praemissa beati Iob, quae illi pro 
-  				se inducebant, quomodo sint intelligenda aperit, ita dicens <title ref="#DeGenesiAdLitteram">Super 
-  					Genesim</title>: 
+  				se inducebant, quomodo sint intelligenda aperit, ita dicens Super 
+  					Genesim: 
   				<cit>
   					<quote xml:id="pll2d3c4-Qd1e3657">Omnia, inquit, fecit Deus valde bona; naturam igitur 
   						Angelorum bonam fecit. Et quia iniustum est, ut nullo merito hoc 
@@ -15375,7 +15375,7 @@
   				super eos.</p>
   			<p xml:id="pll2d4c1-d1e3520">Boni vero et qui perstiterunt forte suae beatitudinis praescii 
   				fuerunt. Unde <ref>
-                        Augustinus <title ref="#DeGenesiAdLitteram">Super Genesim</title>:</ref> 
+                        Augustinus Super Genesim:</ref> 
   				<cit>
   					<quote xml:id="pll2d4c1-Qd1e3532">Quomodo, inquit, 
   						beatus inter Angelos fuit qui futuri peccati atque supplicii 
@@ -15574,13 +15574,13 @@
   				inter quos unus fuit omnibus aliis cadentibus excellentior, 
   				nec inter stantes aliquis eo fuit dignior, sicut testimoniis auctoritatum 
   				monstratur.</p>
-  			<p xml:id="pll2d6c1-d1e3517">Ait enim <title ref="#iob">Iob</title>: 
+  			<p xml:id="pll2d6c1-d1e3517">Ait enim Iob: 
   				<cit>
   					<quote xml:id="pll2d6c1-Qd1e3524" source="http://scta.info/resource/iob40_14">Ipse est principium viarum Dei.</quote>
   					
   				</cit>
   				Et in 
-  				<title ref="#Ezekiel">Ezechiele</title> 
+  				Ezechiele 
   				legitur: 
   				<cit>
   					<quote xml:id="pll2d6c1-Qd1e3536" source="http://scta.info/resource/ez28_12">Tu signaculum similitudinis, plenus scientia  
@@ -15594,7 +15594,7 @@
   					
   				</cit>
   			</p>
-  			<p xml:id="pll2d6c1-d1e3559">Item in <title ref="#ez">Ezechiele</title> legitur: 
+  			<p xml:id="pll2d6c1-d1e3559">Item in Ezechiele legitur: 
   				<cit>
   					<quote xml:id="pll2d6c1-Qd1e3566" source="http://scta.info/resource/ez28_13">Omnis lapis pretiosus operimentum 
   						eius,</quote>
@@ -15608,17 +15608,17 @@
   					
   				</cit>
   				Unde et vocatus est Lucifer, sicut testatur 
-  				<title ref="#is">Isaias</title>: 
+  				Isaias: 
   				<cit>
   					<quote xml:id="pll2d6c1-Qd1e3594" source="http://scta.info/resource/is14_12">Quomodo, inquit, cecidisti Lucifer, qui mane oriebaris</quote>
   					
   				</cit>
   				etc.? Qui non unus ordo, sed unus spiritus accipiendus est, 
-  				qui, teste <title ref="#IsidoreOfSeville">Isidoro,</title> postquam creatus est, eminentiam naturae et 
+  				qui, teste Isidoro, postquam creatus est, eminentiam naturae et 
   				profunditatem scientiae suae perpendens, in suum Creatorem superbivit 
-  				in tantum, quod etiam Deo se aequare voluit, ut in <title ref="#is">
+  				in tantum, quod etiam Deo se aequare voluit, ut in 
                         <sic>Isaia</sic>
-                    </title> 
+                     
   				dicitur: 
   				<cit>
   					<quote xml:id="pll2d6c1-Qd1e3613" source="http://scta.info/resource/is14_13"> In caelum ascendam, super astra caeli exaltabo solium 
@@ -15638,7 +15638,7 @@
   						omnibus suae pravitatis consortibus.</quote>
   					
   				</cit>
-  				Nam, ut <title ref="#io">Ioannes</title> ait in <title ref="#ap">Apocalypsi</title>: 
+  				Nam, ut Ioannes ait in Apocalypsi: 
   				<cit>
   					<quote xml:id="pll2d6c2-Qd1e3533" source="http://scta.info/resource/ap12_3"> Draco de caelo cadens secum traxit tertiam partem 
   						stellarum,</quote>
@@ -15717,7 +15717,7 @@
   			<head xml:id="pll2d6c6-Hd1e3508">Liber 2, Distinctio 6, Caput 6</head>
   			<head xml:id="pll2d6c6-Hd1e3511" type="questionTitle">De potestate Luciferi</head>
   			<p xml:id="pll2d6c6-d1e3514">De Lucifero autem quidam opinantur, quod ibi religatus sit 
-  				et ad nos tentandos non habeat nunc accessum, quia in <title ref="#ap">Apocalypsi</title> 
+  				et ad nos tentandos non habeat nunc accessum, quia in Apocalypsi 
   				legitur: 
   				<cit>
   					<quote xml:id="pll2d6c6-Qd1e3521" source="http://scta.info/resource/ap20_7">Cum consummati fuerint mille anni, solvetur 
@@ -15807,7 +15807,7 @@
   				quam ante.</p>
   			
   			<p xml:id="pll2d7c3-d1e3519">Ut enim <ref>
-                        Augustinus tradit in <title ref="#Enchiridion">Enchiridio</title>:</ref> 
+                        Augustinus tradit in Enchiridio:</ref> 
   				<cit>
   					<quote xml:id="pll2d7c3-Qd1e3531">Non ideo 
   						carent libero arbitrio, quia male velle non possunt: multo 
@@ -15901,7 +15901,7 @@
   				probandamque iustorum patientiam.</p>
   			
   			<p xml:id="pll2d7c6-d1e3519">Unde <ref>
-                        Augustinus in libro III <title ref="#deTrinitate">De Trinitate</title>:</ref> 
+                        Augustinus in libro III De Trinitate:</ref> 
   				<cit>
   				  <quote xml:id="pll2d7c6-Qd1e3531" source="http://scta.info/resource/adt-l3">Vide, inquit, 
   						infirmae cogitationi quid possit occurrere; cur scilicet ista 
@@ -16106,7 +16106,7 @@
   			<head xml:id="pll2d8c2-Hd1e3511" type="questionTitle">De formis, quibus apparuit Deus, et de illis, in quibus Angeli apparent.</head>
   			<p xml:id="pll2d8c2-d1e3514">Nec dubitandum est, Deum in corporalibus formis apparuisse 
   				hominibus, sicut <ref>
-                        Augustinus in II libro <title ref="#DeTrinitate">De Trinitate</title> 
+                        Augustinus in II libro De Trinitate 
                     </ref> ostendit,  
   				conferens diversa Scripturae testimonia, ex quibus Deum in 
   				corporeis figuris hominibus apparuisse probat, et aliquando ex 
@@ -16127,7 +16127,7 @@
   				an corpus suum proprium verterent in species aptas actionibus 
   				suis per virtutem sibi a Deo datam.</p>
   			<p xml:id="pll2d8c3-d1e3517">Ait enim <ref>
-                        Augustinus in III libro <title ref="#deTrinitate">De Trinitate</title>:</ref> 
+                        Augustinus in III libro De Trinitate:</ref> 
   				<cit>
   				  <quote xml:id="pll2d8c3-Qd1e3529" source="http://scta.info/resource/adt-l3">Quaerendum 
   						est in illis antiquis corporalibus formis et visis, utrum ad
@@ -16171,7 +16171,7 @@
   						videbit me homo, et vivet.</quote>
   					
   				</cit>
-  				Et in <title ref="#io">Evangelio Ioannis</title> legitur: 
+  				Et in Evangelio Ioannis legitur: 
   				<cit>
   					<quote xml:id="pll2d8c3-Qd1e3580" ana="io1_18">Deum 
   						nemo vidit unquam.</quote>
@@ -16214,8 +16214,8 @@
   				et per Christum eiecta; sed utrum secundum substantiam 
   				fuerint ingressa, an propter mali effectum dicantur ingressa, non 
   				adeo perspicuum est.</p>
-  			<p xml:id="pll2d8c4-d1e3520">De hoc autem Gennadius in <title>Definitionibus ecclesiasticorum 
-  				dogmatum</title> ait: 
+  			<p xml:id="pll2d8c4-d1e3520">De hoc autem Gennadius in Definitionibus ecclesiasticorum 
+  				dogmatum ait: 
   				<cit>
   					<quote xml:id="pll2d8c4-Qd1e3530">Daemones per energicam operationem 
   						non credimus substantialiter illabi animae, sed applicatione oppressione 
@@ -16226,7 +16226,7 @@
   				Ecce hic videtur insinuari, quod substantialiter non illabantur daemones 
   				vel introeant corda hominum.</p>
   			<p xml:id="pll2d8c4-d1e3539">
-                    Beda quoque super illum locum <title ref="#act">Actuum Apostolorum</title>, ubi 
+                    Beda quoque super illum locum Actuum Apostolorum, ubi 
   				Petrus ait Ananiae: 
   				<cit>
   					<quote xml:id="pll2d8c4-Qd1e3554" source="http://scta.info/resource/act5_3">Cur implevit vel tentavit satanas cor tuum?</quote>
@@ -16503,7 +16503,7 @@
   				numerum angelorum, qui ceciderunt, ut illa caelestis civitas nec 
   				suorum civium numero privetur, nec maiori copia regnet.</p>
   			<p xml:id="pll2d9c7-d1e3545">Quod <ref>
-                        Augustinus in <title ref="#Enchiridion">Enchiridio</title>
+                        Augustinus in Enchiridio
                     </ref> sentire videtur, non asserens 
   				de hominibus plus salvari, quam corruit de Angelis, sed 
   				non minus ita dicens: 
@@ -16535,14 +16535,14 @@
   				spiritus ad exteriora nuntianda mittantur.</p>
   			<p xml:id="pll2d10c1-d1e3517">Quidam putant, aliquos in illa multitudine esse, qui foras pro 
   				officio exeunt; alios, qui semper intus assistunt, sicut scriptum est 
-  				in <title ref="#dan">Daniele</title>: 
+  				in Daniele: 
   				<cit>
   					<quote xml:id="pll2d10c1-Qd1e3524" source="http://scta.info/resource/dan7_10">Millia millium ministrabunt ei, et decies centena 
   						millia assistebant ei</quote>
   					
   				</cit>. 
   			</p>
-  			<p xml:id="pll2d10c1-d1e3534">Item, Dionysius in <title ref="#deCoelestiHierarchia">Hierarchia</title>, quae sacer principatus dicitur, 
+  			<p xml:id="pll2d10c1-d1e3534">Item, Dionysius in Hierarchia, quae sacer principatus dicitur, 
   				de praelatione spirituum ait: 
   				<cit>
   					<quote xml:id="pll2d10c1-Qd1e3544">Superiora illa agmina ab 
@@ -16553,7 +16553,7 @@
   			</p>
   			<p xml:id="pll2d10c1-d1e3553">His auctoritatibus nituntur qui Angelos mitti nisi inferiores 
   				infitiantur.</p>
-  			<p xml:id="pll2d10c1-d1e3556">Quibus <sic>obiicitur</sic> quod <title ref="#is">Isaias</title> ait: 
+  			<p xml:id="pll2d10c1-d1e3556">Quibus <sic>obiicitur</sic> quod Isaias ait: 
   				<cit>
   					<quote xml:id="pll2d10c1-Qd1e3566" source="http://scta.info/resource/is6_6">Volavit ad me unus de 
   						Seraphim</quote>
@@ -16579,7 +16579,7 @@
   				communem dispensationem oborta, qui cum Angelorum ministerium 
   				suscipiunt etiam nomina assumunt.</p>
   			
-  			<p xml:id="pll2d10c1-d1e3595">Unde in <title ref="#ps">Psalmo</title>: 
+  			<p xml:id="pll2d10c1-d1e3595">Unde in Psalmo: 
   				<cit>
   					<quote xml:id="pll2d10c1-Qd1e3602" source="http://scta.info/resource/ps103_4">Qui facit Angelos suos spiritus</quote>
   					
@@ -16638,7 +16638,7 @@
   				</cit>
   				esse Filii, et mitti in ministerium, vel per <mentioned>omnes</mentioned> non 
   				singulos ordines, sed de inferioribus ordinibus singulos Angelos complexus 
-  				est. Illud vero quod <title ref="#Isaiah">Isaias</title> dicit, per verba Dionysii 
+  				est. Illud vero quod Isaias dicit, per verba Dionysii 
   				determinant dicentis: 
   				<cit>
   					<quote xml:id="pll2d10c2-Qd1e3596">Hi spiritus, qui mittuntur, recipiunt horum 
@@ -16679,7 +16679,7 @@
   				habet. Cum enim omnes Angeli boni nostrum bonum velint 
   				communiterque saluti omnium studeant, ille tamen qui deputatus 
   				est alicui ad custodiam, eum specialiter hortatur ad bonum, sicut 
-  				legitur de Angelo Tobiae et de Angelo Petri in <title ref="#act">Actibus Apostolorum</title>; 
+  				legitur de Angelo Tobiae et de Angelo Petri in Actibus Apostolorum; 
   				similiter et mali angeli, cum desiderent malum hominum; 
   				magis tamen hominem ad malum incitat et ad nocendum fortius 
   				instat ille qui ad exercitium eius deputatus est.</p>
@@ -16738,14 +16738,14 @@
   				praemium, quia ea beati sunt.</p>
   			<p xml:id="pll2d11c2-d1e3533">Et quod Angeli proficiant in cognitione ac per hoc in beatitudine, 
   				testimoniis Sanctorum confirmant.</p>
-  			<p xml:id="pll2d11c2-d1e3537">Dicit enim <title ref="#Isaias">Isaias</title> ex persona Angelorum, Christi ascendentis 
+  			<p xml:id="pll2d11c2-d1e3537">Dicit enim Isaias ex persona Angelorum, Christi ascendentis 
   				magnificentiam admirantium: 
   				<cit>
   					<quote xml:id="pll2d11c2-Qd1e3546" source="http://scta.info/resource/is63_1">Quis est iste qui venit de Edom, 
   						tinctis vestibus de Bosra</quote>
   					
   				</cit>?
-  				Et in <title ref="#ps">Psalmo</title>:
+  				Et in Psalmo:
   				<cit>
   					<quote xml:id="pll2d11c2-Qd1e3558" source="http://scta.info/resource/ps23_8">Quis est iste rex gloriae</quote>
   					
@@ -17066,8 +17066,8 @@
   			<head xml:id="pll2d12c6-Hd1e3516" type="questionTitle">De quatuor modis divinae operationis</head>
   			<p xml:id="pll2d12c6-d1e3519">Quatuor enim modis operatur Deus, ut ait 
   				<ref>
-                        Alcuinus <title>Super 
-  					Genesim</title>
+                        Alcuinus Super 
+  					Genesim
                     </ref>: 
   				<cit>
   					<quote xml:id="pll2d12c6-Qd1e3530">Primo, in Verbo omnia disponendo; secundo, in 
@@ -17299,7 +17299,7 @@
   					
   				</cit>.
   			</p>
-  			<p xml:id="pll2d13c7-d1e3552">Super illum quoque <title ref="#ps">Psalmi</title> locum: 
+  			<p xml:id="pll2d13c7-d1e3552">Super illum quoque Psalmi locum: 
   				<cit>
   					<quote xml:id="pll2d13c7-Qd1e3559" source="http://scta.info/resource/ps32_6">Verbo Domini caeli firmati sunt</quote>
   					
@@ -17339,8 +17339,8 @@
   				per eum iudicare, quia genuit iudicem; ita et per Spiritum 
   				sanctum dicitur operari, sive Pater sive Filius, quia ab utroque 
   				procedit Spiritus sanctus, factor omnium.</p>
-  			<p xml:id="pll2d13c7-d1e3601">Unde Ioannes Chrysostomus in <title>Expositione Epistolae 
-  				ad Hebraeos</title> sic ait: 
+  			<p xml:id="pll2d13c7-d1e3601">Unde Ioannes Chrysostomus in Expositione Epistolae 
+  				ad Hebraeos sic ait: 
   				<cit>
   					<quote xml:id="pll2d13c7-Qd1e3611">Non, ut haereticus inaniter suspicatur, tanquam 
   						aliquod instrumentum Patris exstiterit Filius; neque per 
@@ -17922,7 +17922,7 @@
         <p xml:id="pll2d16c2-d1e3519">Ideoque superest, ut qualis vel quomodo factus sit,
           discutiamus.</p>
         <p xml:id="pll2d16c2-d1e3522">
-          In <title ref="#gen">Genesi</title> legitur:
+          In Genesi legitur:
           <cit>
             <quote xml:id="pll2d16c2-Qd1e3529" source="http://scta.info/resource/gen1_26"> Faciamus
               hominem ad imaginem et similitudinem nostram</quote>
@@ -18048,7 +18048,7 @@
   				nullo dissimilis; homo creatus est a Deo, non genitus, non parilitate 
   				aequalis, sed quadam similtudine accedens ei.</p>
   			<p xml:id="pll2d16c4-d1e3524">Unde <ref>
-                        Augustinus in libro VII <title ref="#deTrinitate">De Trinitate</title>
+                        Augustinus in libro VII De Trinitate
                     </ref>: 
   				<cit>
   				  <quote xml:id="pll2d16c4-Qd1e3535" source="http://scta.info/resource/adt-l1">In Genesi legitur: 
@@ -18106,7 +18106,7 @@
   				scrupulosa quaestio est.</p>
   			<p xml:id="pll2d17c2-d1e3522">
   				<ref>
-  					Augustinus enim <title ref="#DeGenesiAdLitteram">Super Genesim</title>
+  					Augustinus enim Super Genesim
   				</ref> 
   				tradit, animam cum Angelis 
   				sine corpore fuisse creatam, postea vero ad corpus accessisse: 
@@ -18147,7 +18147,7 @@
   				in matris utero.</p>
   			<p xml:id="pll2d17c3-d1e3522">
                     <ref>
-                        Augustinus <title ref="#DeGenesiAdLitteram">Super Genesim</title>
+                        Augustinus Super Genesim
                     </ref> dicit, quod Adam in virili 
   				aetate continuo factus est, et hoc secundum superiores, non inferiores 
   				causas, id est secundum voluntatem et potentiam Dei, quam 
@@ -22629,8 +22629,8 @@
           divinitatis accendit perditumque hominem reparavit, nomine regis et imagine insignitum. </p>
         <p xml:id="pl-l3d1c1-d1e132"> Ideo etiam Filius missus est, et non Pater, quia congruentius mitti debebat qui est ab
           alio, quam qui est a nullo; Filius autem a Patre est, Pater vero a nullo alio est. </p>
-        <p xml:id="pl-l3d1c1-d1e136"> Ut enim ait Augustinus in libro <title>De
-            Trinitate</title>: <quote xml:id="pl-l3d1c1-Qd1e144"> Non habet de quo sit </quote>. <quote xml:id="pl-l3d1c1-Qd1e147"> Sicut ergo Pater
+        <p xml:id="pl-l3d1c1-d1e136"> Ut enim ait Augustinus in libro De
+            Trinitate: <quote xml:id="pl-l3d1c1-Qd1e144"> Non habet de quo sit </quote>. <quote xml:id="pl-l3d1c1-Qd1e147"> Sicut ergo Pater
             genuit, Filius genitus est, ita congrue Pater misit, Filius missus est</quote>. <quote xml:id="pl-l3d1c1-Qd1e150">
             Ab illo enim convenienter mittitur Dei Verbum, cuius est Verbum; ab illo mittitur, de
             quo natum est; mittitur quod genitum est; Pater vero, qui misit a nullo est</quote>.
@@ -22699,8 +22699,8 @@
         <p xml:id="pl-l3d2c1-d1e117"> Et quia in homine tota humana natura vitio corrupta erat,
           lotam assumsit, id est animam et carnem, ut totam curaret et sanctificaret. </p>
         <p xml:id="pl-l3d2c1-d1e120"> Quod autem humanae naturae sive humanitatis vocabulo anima et
-          caro intelligi debeant, aperte docet Hieronymus in <title>Expositione
-          catholicae fidei</title> dicens: <quote xml:id="pl-l3d2c1-Qd1e128">Sic confitemur in
+          caro intelligi debeant, aperte docet Hieronymus in Expositione
+          catholicae fidei dicens: <quote xml:id="pl-l3d2c1-Qd1e128">Sic confitemur in
           Christo unam Filii esse personam, ut dicamus, duas perfectas et integras esse substantias,
           id est deitatis et humanitatis, quae ex anima continetur et corpore </quote>. Ecce aperte
           ostendit, humanitatis nomine animam et corpus- intelligi, quae duo assumsisse Dei Filius
@@ -22851,8 +22851,8 @@
           decimatus, quia licet ibi fuerit secundum carnem, non tamen inde descendit secundum legem
           communem, scilicet per carnis libidinem; sicut etiam in Adam omnes peccaverunt, sed non
           Christus. </p>
-        <p xml:id="pl-l3d3c3-d1e123"> Unde Augustinus <title>Super
-          Genesim</title>: <quote xml:id="pl-l3d3c3-Qd1e131">Sicut, Adam pec- cante, qui in lumbis
+        <p xml:id="pl-l3d3c3-d1e123"> Unde Augustinus Super
+          Genesim: <quote xml:id="pl-l3d3c3-Qd1e131">Sicut, Adam pec- cante, qui in lumbis
           eius erant, peccaverunt, sic Abraham decimas dante, qui in lumbis eius erant, decimati
           sunt. Sed hoc non sequitur in Christo, licet in lumbis Adae et Abrahae fuerit, quia non
           secundum concupiscentiam carnis inde descendit. Cum ergo Levi et Christus secundum carnem
@@ -23058,7 +23058,7 @@
         <p xml:id="pl-l3d5c1-d1e206"> Hac auctoritate videtur tradi, quod divina natura humanam
           suscepit; ubi vehementer moveri possumus, quod eam genitam aeternaliter ex Patre dicit,
           nisi forte naturam pro persona hic ac¬ cipiat; alioquin, si dixerimus, naturam tribus
-          personis communem genitam esse, occurrunt nobis ex adverso quae in tractatu <title ref="#deTrinitate">De Trinitate</title> disseruimus, ubi diximus, non naturam naturam, sed
+          personis communem genitam esse, occurrunt nobis ex adverso quae in tractatu De Trinitate disseruimus, ubi diximus, non naturam naturam, sed
           personam personam genuisse; quia, si natura genuisset naturam, cum una eademque sit natura
           Trinitatis, eadem res se ipsam genuisset; quod Augustinus posse fieri negat. </p>
         <p xml:id="pl-l3d5c1-d1e212"> Sed alibi certum reperimus documentum, quo natura naturam
@@ -23067,7 +23067,7 @@
           Ait enim 
           <ref>
             Augustinus in libro I
-            <title ref="#deTrinitate">De Trinitate</title>
+            De Trinitate
           </ref>: 
           <cit>
             <quote xml:id="pl-l3d5c1-Qd1e224" source="http://scta.info/resource/adt-l1-d1e68">
@@ -23084,14 +23084,14 @@
           Cum, inquit, de Christo audis, quia in forma Dei erat, oportet te agnoscere firmissimeque
           tenere, in illo formae nomine naturalem plenitudinem debere intelligi. In forma igitur Dei
           , erat, quia in natura Dei Patris semper erat, de quo natus erat </quote>. </p>
-        <p xml:id="pl-l3d5c1-d1e243"> Hilarius quoque in libro XII <title>De
-          Trinitate</title> ait: <quote xml:id="pl-l3d5c1-Qd1e251">Esse in forma Dei non alia
+        <p xml:id="pl-l3d5c1-d1e243"> Hilarius quoque in libro XII De
+          Trinitate ait: <quote xml:id="pl-l3d5c1-Qd1e251">Esse in forma Dei non alia
           intelligentia est, quam in Dei manere natura</quote>. </p>
         <p xml:id="pl-l3d5c1-d1e255"> Didicisti, nomine formae intelligentiam fieri naturae, et
           audisti, quod forma Dei formam servi suscepit; unde consequens est, quod natura divina
           naturam humanam susceperit. </p>
-        <p xml:id="pl-l3d5c1-d1e258"> Quod etiam Hieronymus in <title>Explanatione
-          fidei</title> evidenter insinuat inquiens: <quote xml:id="pl-l3d5c1-Qd1e266"> Passus est
+        <p xml:id="pl-l3d5c1-d1e258"> Quod etiam Hieronymus in Explanatione
+          fidei evidenter insinuat inquiens: <quote xml:id="pl-l3d5c1-Qd1e266"> Passus est
           Filius Dei non putative, sed vere; secundum illud passus est, quod pati poterat, id est
           non secundum illam substantiam, quae assumsit, sed secundum illam, quae assumta
           est</quote>. Ex quo apparet, divinam substantiam assumsisse hu¬ manam. </p>
@@ -23262,21 +23262,21 @@
           aequalis est Patri, et humanam, qua minor est Patre ; utrumque autem simul, non duo, sed
           unus est Christus, ne sit quaternitas, non trinitas Deus. Ac per hoc Christus est Deus,
           anima rationalis et caro</quote>. </p>
-        <p xml:id="pl-l3d6c2-d1e169"> Idem quoque in libro <title>De praedestinatione
-          Sanctorum</title>: <quote xml:id="pl-l3d6c2-Qd1e174">Ille homo, ut a Verbo, Patri
+        <p xml:id="pl-l3d6c2-d1e169"> Idem quoque in libro De praedestinatione
+          Sanctorum: <quote xml:id="pl-l3d6c2-Qd1e174">Ille homo, ut a Verbo, Patri
           coaeterno, in unitatem personae assumtus, Filius Dei unigenitus esset, unde hoc meruit?
           Quod eius bonum praecessit, ut ad hanc ineffabilem excellentiam perveniret ? Facienle ac
           suscipiente Deo-Verbo , ipse homo, ex quo esse coepit, Filius Dei unicus esse coepit
           </quote>. </p>
         <p xml:id="pl-l3d6c2-d1e178"> Item: <quote xml:id="pl-l3d6c2-Qd1e180">Homo quicumque ita
           gratia fit Christianus, sicut gratia homo ille ab initio factus est Christus</quote>. </p>
-        <p xml:id="pl-l3d6c2-d1e184"> Idem in libro XIII <title ref="#deTrinitate">De
-          Trinitate</title>: <quote xml:id="pl-l3d6c2-Qd1e189" source="http://scta.info/resource/adt-l13">Gratia Dei nobis in homine Christo commendatur;
+        <p xml:id="pl-l3d6c2-d1e184"> Idem in libro XIII De
+          Trinitate: <quote xml:id="pl-l3d6c2-Qd1e189" source="http://scta.info/resource/adt-l13">Gratia Dei nobis in homine Christo commendatur;
           quia nec ipse, ut, tanta unitate Deo vero coniunctus , una cum illo persona Filius Dei
           fieret, ullis est praecedentibus meritis assecuius, sed ex quo homo esse coepit, ex illo
           est et Deus. Unde dictum est: Verbum caro facium est</quote>. </p>
-        <p xml:id="pl-l3d6c2-d1e194"> Hilarius quoque in X libro <title>De
-          Trinitate</title> ait: <quote xml:id="pl-l3d6c2-Qd1e202">Christum non ambigimus esse
+        <p xml:id="pl-l3d6c2-d1e194"> Hilarius quoque in X libro De
+          Trinitate ait: <quote xml:id="pl-l3d6c2-Qd1e202">Christum non ambigimus esse
           Deum-Verbum, neque rursus Filium hominis ex anima et corpore constitisse
           ignoramus</quote>. </p>
         <p xml:id="pl-l3d6c2-d1e206"> His aliisque auctoritatibus utuntur, qui hominem quendam, ex
@@ -23334,13 +23334,13 @@
           circum- scriptibile, et incircumscriptibile incircumscriptibile; et hoc quidem refulget
           miraculis</quote>. </p>
         <p xml:id="pl-l3d6c3-d1e151"> De hoc etiam Augustinus in libro
-          <title ref="#deTrinitate">De Trinitate</title> ait: <quote xml:id="pl-l3d6c3-Qd1e159">
+          De Trinitate ait: <quote xml:id="pl-l3d6c3-Qd1e159">
           Quemadmodum secundum deitatem una est Patris Filiique natura, ita etiam, iuxta
           humanitatem, eadem est Matris et Filii natura. Ex utraque autem substantia, et divinitatis
           et humanitatis , unus atque idem est Deus, Dei et hominis Filius, lesus Christus, ut Deus
           verus, ita etiam homo verus </quote>. </p>
-        <p xml:id="pl-l3d6c3-d1e163"> Idem in libro XIII <title ref="#deTrinitate">De
-          Trinitate</title>: <quote xml:id="pl-l3d6c3-Qd1e168" source="http://scta.info/resource/adt-l13">Sic Deo coniungi potuit humana natura, ut ex
+        <p xml:id="pl-l3d6c3-d1e163"> Idem in libro XIII De
+          Trinitate: <quote xml:id="pl-l3d6c3-Qd1e168" source="http://scta.info/resource/adt-l13">Sic Deo coniungi potuit humana natura, ut ex
           duabus substantiis fieret una persona; ac per hoc iam ex tribus: Deo, anima et carne
           </quote>. </p>
         <p xml:id="pl-l3d6c3-d1e172"> His aliisque pluribus se muniunt auctoritatibus, qui dicunt,
@@ -23427,7 +23427,7 @@
         <p xml:id="pl-l3d6c6-d1e163"> His verbis aperte innuere videtur Augustinus,
           Deum dici factum hominem secundum habitum. </p>
         <p xml:id="pl-l3d6c6-d1e169"> Qui etiam ipsius incarnationis modum volens exprimere,
-          quaerentibus in IV libro <title ref="#deTrinitate">De Trinitate</title> ait: <quote xml:id="pl-l3d6c6-Qd1e174" source="http://scta.info/resource/adt-l4">Si quaeritur, ipsa
+          quaerentibus in IV libro De Trinitate ait: <quote xml:id="pl-l3d6c6-Qd1e174" source="http://scta.info/resource/adt-l4">Si quaeritur, ipsa
           incarnatio quo modo facta sit, ipsum Verbum Dei dico carnem factum, id est hominem factum,
           non tamen in hoc, quod factum est, conversam atque mutatum </quote>, sed carne, ut
           carnalibus congruenter appareret, indutum. <quote xml:id="pl-l3d6c6-Qd1e177">Ita sane
@@ -23448,8 +23448,8 @@
           Dominum verum hominem suscepisse credimus, et in ipso visibiliter invisibilem hominibus
           apparuisse, in ipso inter <quote xml:id="pl-l3d6c6-Qd1e213">homines conversatum
           fuisse</quote> , in ipso ab hominibus humana pertulisse, in ipso homines docuisse</quote>. </p>
-        <p xml:id="pl-l3d6c6-d1e218"> Hilarius quoque in libro X <title>De
-          Trinitate</title> ait: <quote xml:id="pl-l3d6c6-Qd1e226">Quomodo Dei Filius natus ex Maria
+        <p xml:id="pl-l3d6c6-d1e218"> Hilarius quoque in libro X De
+          Trinitate ait: <quote xml:id="pl-l3d6c6-Qd1e226">Quomodo Dei Filius natus ex Maria
           est, nisi quod <quote xml:id="pl-l3d6c6-Qd1e228">Verbum caro factum est,</quote> scilicet
           quod Filius Dei, cum <quote xml:id="pl-l3d6c6-Qd1e231">in forma Dei esset, formam servi
           accepit</quote> ? Unum tamen eundemque non Dei defectione, sed hominis assumtione
@@ -23485,7 +23485,7 @@
           duabus naturis coepit esse Deus; vel potius homo factus Deus, et e converso dicitur, quia
           Dens assumsit hominem, et homo assumtus est a Deo. </p>
         <p xml:id="pl-l3d7c1-d1e136"> Unde Augustinus dicit in libro
-          <title ref="#deTrinitate">De Trinitate</title>: <quote xml:id="pl-l3d7c1-Qd1e144">Talis
+          De Trinitate: <quote xml:id="pl-l3d7c1-Qd1e144">Talis
           fuit illa susceptio, quae hominem faceret Deum, et Deum hominem </quote>. </p>
         <p xml:id="pl-l3d7c1-d1e148"> Variatur autem intelligentia, cum dicitur: Deus est homo, et
           homo est Deus. Dicitur enim Deus esse persona subsistens in duabus et ex duabus naturis;
@@ -23512,8 +23512,8 @@
           unum et idem, non aliud et aliud, sicut nec alium et alium. </p>
         <p xml:id="pl-l3d7c2-d1e123"> Sed his videntur adversari quae subditis continentur
           capitulis. </p>
-        <p xml:id="pl-l3d7c2-d1e127"> Ait enim Augustinus <title>Super
-          Ioannem</title> : <quote xml:id="pl-l3d7c2-Qd1e135">Aliud est Verbum Dei, aliud homo; sed
+        <p xml:id="pl-l3d7c2-d1e127"> Ait enim Augustinus Super
+          Ioannem : <quote xml:id="pl-l3d7c2-Qd1e135">Aliud est Verbum Dei, aliud homo; sed
           Verbum caro factum est, id est homo; non itaque alia Verbi, alia est hominis persona,
           quoniam utrumque Christus et una persona </quote>. </p>
         <p xml:id="pl-l3d7c2-d1e139"> Idem Ad Felicianum: <quote xml:id="pl-l3d7c2-Qd1e144">Aliud Dei Filius, aliud' hominis filius; sed non alius</quote>. </p>
@@ -23522,8 +23522,8 @@
         <p xml:id="pl-l3d7c2-d1e154">
           Idem in 
           <ref xml:id="pl-l3d7c2-Rasdf3d" corresp="#pl-l3d7c2-Qd1e159">
-            libro I <title ref="#deTrinitate">De
-            Trinitate</title>
+            libro I De
+            Trinitate
           </ref>: 
           <cit>
             <quote xml:id="pl-l3d7c2-Qd1e159" source="http://scta.info/resource/adt-l1-d1e116">
@@ -23555,8 +23555,8 @@
           quia. alterius est substantiae vel naturae, in quantum Filius Dei ; alterius, in quantum
           est filius hominis; non quod ipse Filius Dei et hominis sit duo illa diversa, id est duae
           diversae naturae. </p>
-        <p xml:id="pl-l3d7c2-d1e182"> Aperte enim Hilarius in IX libro <title>De
-          Trinitate</title> ait: <quote xml:id="pl-l3d7c2-Qd1e190">Cum non aliud sil filius hominis,
+        <p xml:id="pl-l3d7c2-d1e182"> Aperte enim Hilarius in IX libro De
+          Trinitate ait: <quote xml:id="pl-l3d7c2-Qd1e190">Cum non aliud sil filius hominis,
           neque aliud Filius Dei — <quote xml:id="pl-l3d7c2-Qd1e192">Verbum enim caro factum
           est</quote> — et cum qui Filius Dei est, ipse et hominis sit filius, requiro, quis in hoc
           filio hominis glorificatus sit</quote>. Evidenter dicit, non aliud esse Filium Dei et
@@ -23565,7 +23565,7 @@
           movere potest lectorem; sicut et illud quod 
           <ref xml:id="pl-l3d7c2-Rsdf3va" corresp="#pl-l3d7c2-Qd1e205">
             Augustinus dicit
-            in libro 1 <title ref="#deTrinitate">De Trinitate</title>
+            in libro 1 De Trinitate
           </ref>: 
           <cit>
             <quote xml:id="pl-l3d7c2-Qd1e205" source="http://scta.info/resource/adt-l1-d1e71"> Quia forma Dei
@@ -23574,8 +23574,8 @@
           </quote>
           </cit>. 
         </p>
-        <p xml:id="pl-l3d7c2-d1e209"> Et illud quod idem ait in libro <title>De bono
-          perseverantiae</title> : <quote xml:id="pl-l3d7c2-Qd1e214"> Qui fidelis est, in eo veram
+        <p xml:id="pl-l3d7c2-d1e209"> Et illud quod idem ait in libro De bono
+          perseverantiae : <quote xml:id="pl-l3d7c2-Qd1e214"> Qui fidelis est, in eo veram
           naturam humanam credit , susci- piente Deo Verbo, ita sublimatam, ut qui suscepit et quod
           suscepit una esset in Trinitate persona, assumtione illa ineffabiliter faciente personae
           unius in Deo et homine veritatem </quote>. Si autem qui suscepit et quod suscepit una est
@@ -23586,8 +23586,8 @@
           suscipienti est sociatum in unitate personae, id est ita, quod unitas personae permansit,
           non ita, ut caro et anima sint Deus, quia, ut ait Hieronymus, Verbum est
           Deus, non caro assumta. </p>
-        <p xml:id="pl-l3d7c2-d1e224"> Et Ambrosius in libro III <title>De Spiritu
-          sancto </title>ait: <quote xml:id="pl-l3d7c2-Qd1e232">Aliud est quod assumsit, et aliud
+        <p xml:id="pl-l3d7c2-d1e224"> Et Ambrosius in libro III De Spiritu
+          sancto ait: <quote xml:id="pl-l3d7c2-Qd1e232">Aliud est quod assumsit, et aliud
           quod assumtum est</quote>. </p>
         <p xml:id="pl-l3d7c2-d1e237"> Est autem et aliud, quod huic sententiae plurimum videtur
           obviare. </p>
@@ -23636,7 +23636,7 @@
         <p xml:id="pl-l3d7c2-d1e295"> Unde 
           <ref xml:id="pl-l3d7c2-Rpav3da" corresp="#pl-l3d7c2-Qd1e303">
             Augustinus in libro I
-            <title ref="#deTrinitate">De Trinitate</title>
+            De Trinitate
           </ref>: 
           <cit>
             <quote xml:id="pl-l3d7c2-Qd1e303" source="http://scta.info/resource/adt-l1-d1e71">
@@ -23898,10 +23898,10 @@
           vel creatum, vel creaturam. </p>
         <p xml:id="pl-l3d11c1-d1e120"> Ad quod dici potest, hoc simpliciter et absque determinatione minus congruenter dici; et
           si quandoque brevitatis causa simpliciter enuntietur, nunquam tamen simpliciter debet
-          intelligi: quia, ut Augustinus in I libro <title ref="#deTrinitate">De Trinitate</title> ait, <quote xml:id="pl-l3d11c1-Qd1e128" source="http://scta.info/resource/adt-l1">cum de Christo loquimur, quid,
+          intelligi: quia, ut Augustinus in I libro De Trinitate ait, <quote xml:id="pl-l3d11c1-Qd1e128" source="http://scta.info/resource/adt-l1">cum de Christo loquimur, quid,
             secundum quid, et propter quid dicatur, prudens et diligens ac pius lector intelligere
             debet </quote>. </p>
-        <p xml:id="pl-l3d11c1-d1e132"> Qui Christum vel Dei Filium non esse factum, vel creaturam, in I libro <title ref="#deTrinitate">De Trinitate </title> ostendit ita inquiens: <quote xml:id="pl-l3d11c1-Qd1e137">
+        <p xml:id="pl-l3d11c1-d1e132"> Qui Christum vel Dei Filium non esse factum, vel creaturam, in I libro De Trinitate  ostendit ita inquiens: <quote xml:id="pl-l3d11c1-Qd1e137">
           <quote xml:id="pl-l3d11c1-Qd1e139" source="http://scta.info/resource/adt-l1">In principio erat Verbum; et Verbum curo factum est; et omnia per ipsum facta
               sunt.</quote> Neque dicit <mentioned>omnia,</mentioned> nisi quae facta sunt, id est
             omnem creaturam. Unde liquido apparet, ipsum factum non esse, per quem facta sunt omnia;
@@ -23955,8 +23955,8 @@
         <p xml:id="pl-l3d11c2-d1e179"> Ex his evidenter traditur qua intelligentia accipiendum sit, cum dicitur Christus factus
           , vel simpliciter, vel cum additamento, ut factura scilicet vel creatura non ad assumentem
           Deum, sed ad assumtum hominem referatur. </p>
-        <p xml:id="pl-l3d11c2-d1e183"> In Deo enim creatura esse non potest, ut ait Ambrosius in I libro <title>De
-            Trinitate</title> : <quote xml:id="pl-l3d11c2-Qd1e191"> Nuriquid dicto factus est Christus? Nunquid mandato creatus
+        <p xml:id="pl-l3d11c2-d1e183"> In Deo enim creatura esse non potest, ut ait Ambrosius in I libro De
+            Trinitate : <quote xml:id="pl-l3d11c2-Qd1e191"> Nuriquid dicto factus est Christus? Nunquid mandato creatus
             est Christus? Quomodo autem in Deo creatura esse potest ? Etenim Deus naturae simplicis
             est, non coniunctae atque compositae, cui nihil accidat, sed solum quod divinum est in
             natura habeat sua </quote>. </p>
@@ -24000,7 +24000,7 @@
             rebus per tempus ortis illa summa gratia est, quod homo in unitate personae coniunctus
             est Deo</quote>. Potuit igitur Deus aliam animam et aliam carnem sumere , et carnem
           utique aliunde quam de genere Adam. </p>
-        <p xml:id="pl-l3d12c1-d1e126"> Unde Augustinus, in libro XIII <title ref="#deTrinitate">De Trinitate </title>:
+        <p xml:id="pl-l3d12c1-d1e126"> Unde Augustinus, in libro XIII De Trinitate :
           <quote xml:id="pl-l3d12c1-Qd1e131" source="http://scta.info/resource/adt-l13">Poterat utique Deus hominem aliunde suscipere, in quo esset me- diator Dei et
             hominum, non de genere illius Adam, qui peccato suo genus obligavit humanum, sicut
             ipsum, quem primum creavit, non de genere alicuius creavit. Potuit ergo vel sic, vel
@@ -24220,8 +24220,8 @@
           praesentius omni creatura contemplatur, ut ei unita, in quo etiam Angeli et quae Dei sunt
           et quae futura sunt, cognoscunt. </p>
         <p xml:id="pl-l3d14c2-d1e120"> Sed si anima illa non habet tantam potentiam, quantam et Deus, nec homo assumtus tantam
-          potentiam, quantam et Deus, quomodo ergo intelligitur illud Ambrosii <title>Super
-            Lucam</title>, ubi Angelus de nascituro Filio Virginis ait: <quote xml:id="pl-l3d14c2-Qd1e125">
+          potentiam, quantam et Deus, quomodo ergo intelligitur illud Ambrosii Super
+            Lucam, ubi Angelus de nascituro Filio Virginis ait: <quote xml:id="pl-l3d14c2-Qd1e125">
             <quote xml:id="pl-l3d14c2-Qd1e127">Hic erit magnus et Filius Altissimi vocabitur?</quote> Non ideo, inquit, erit
             magnus, quod ante partum Virginis magnus non fuerit, sed quia potentiam, quam Dei Filius
             naturaliter habet, homo erat ex tempore accepturus, ut una sit persona homo et
@@ -24272,8 +24272,8 @@
           quaedam, quorum scientia non affert, vel ignorantia non impedit salutem; et forte talium
           rerum ignorantia defectus non est. Constat autem, in nobis esse ignorantiam atque
           difficultatem volendi vel faciendi bonum, quae ad miseriam nostram pertinent. </p>
-        <p xml:id="pl-l3d15c1-d1e145"> Unde Augustinus in libro III <title>De libero arbitrio
-            :</title>
+        <p xml:id="pl-l3d15c1-d1e145"> Unde Augustinus in libro III De libero arbitrio
+            :
           <quote xml:id="pl-l3d15c1-Qd1e153">Approbare, inquit, falsa pro veris, ut erret invitus, et resistente atque torquente
             dolore carnalis vinculi, non posse a libidinosis operibus temperare, non est natura
             instituti hominis, sed poena damnati</quote>. <quote xml:id="pl-l3d15c1-Qd1e156">Ex qua miseria, peccantibus
@@ -24651,8 +24651,8 @@
         <head xml:id="pl-l3d17c3-Hd1e114" type="question-title"> De capitulis quibusdam Ambrosii et. Hilarii, ubi de dubitatione
           et timore Christi agitur. </head>
         <p xml:id="pl-l3d17c3-d1e117"> Ceterum non parum nos movent verba Ambrosii, quibus significare videtur, Christum,
-          secundum humanum affectum, de potentia Patris dubitasse, sic dicens in libro II <title>De
-            Trinitate </title>: <quote xml:id="pl-l3d17c3-Qd1e122">De quo dubitat? De se, an de Patre? De eo utique, cui dicit:
+          secundum humanum affectum, de potentia Patris dubitasse, sic dicens in libro II De
+            Trinitate : <quote xml:id="pl-l3d17c3-Qd1e122">De quo dubitat? De se, an de Patre? De eo utique, cui dicit:
               <quote xml:id="pl-l3d17c3-Qd1e124">Transfer</quote> , dubitat hominis affectu. Nam Deus de Patre non dubitat, nec
             de morte formidat. Propheta etiam non dubitat, qui nihil <quote xml:id="pl-l3d17c3-Qd1e127">Deo esse
               impossibile</quote> asserit. Num intra homines constitues Deum ? Propheta non dubitat,
@@ -25563,8 +25563,8 @@
         <p xml:id="pl-l3d23c9-d1e124">Unde Augustinus : <quote xml:id="pl-l3d23c9-Qd1e129">Respice ad munera Ecclesiae, et <quote xml:id="pl-l3d23c9-Qd1e131"> </quote>universis excellentius caritatis munus cognosces
           </quote>, <quote xml:id="pl-l3d23c9-Qd1e135"> quae ut oleum non potest premi in imo, sed
           superexsilit </quote>. Non ergo eius causa, vel fundamentum fides est.</p>
-        <p xml:id="pl-l3d23c9-d1e140"> Gregorius tamen <title>Super
-          Ezechielem</title> dicit <quote xml:id="pl-l3d23c9-Qd1e148"> quia, nisi prius fides
+        <p xml:id="pl-l3d23c9-d1e140"> Gregorius tamen Super
+          Ezechielem dicit <quote xml:id="pl-l3d23c9-Qd1e148"> quia, nisi prius fides
           teneatur, nullatenus ad spiritualem amorem attingitur: non enim caritas fidem, sed fides
           caritatem praecedit, quia nemo potest amare quod non crediderit </quote>, sicut nec
           sperare.</p>
@@ -25660,8 +25660,8 @@
           distinguit: <quote xml:id="pl-l3d24c3-Qd1e141">Alia sunt, inquit, quae nisi intelligamus,
           non credimus; alia, quae nisi credamus, non intelligemus </quote>. Nemo tamen potest
           credere in Deum, nisi aliquid intelligat, cum fides sit ex auditu praedicationis.</p>
-        <p xml:id="pl-l3d24c3-d1e146">Idem in libro <title ref="#deTrinitate">De Trinitate
-          :</title> <quote xml:id="pl-l3d24c3-Qd1e151" source="http://scta.info/resource/adt-l9">Certa fides utcumque inchoat cognitionem;
+        <p xml:id="pl-l3d24c3-d1e146">Idem in libro De Trinitate
+          : <quote xml:id="pl-l3d24c3-Qd1e151" source="http://scta.info/resource/adt-l9">Certa fides utcumque inchoat cognitionem;
           cognitio vero certa non perficitur nisi post hanc vitam</quote>.</p>
         <p xml:id="pl-l3d24c3-d1e155"> Ambrosius quoque ait: <quote xml:id="pl-l3d24c3-Qd1e160">Ubi fides, non statim cognitio; ubi cognitio , fides praecedit
           </quote>.</p>
@@ -25736,8 +25736,8 @@
           sicut credimus, Christum in carne venisse, ita illi venturum; et sicut nos mortuum, ita
           illi moriturum; et sicut nos resurrexisse, ita illi resurrecturum; et uos et illi, ad
           indicium vivorum et mortuorum venturum </quote>.</p>
-        <p xml:id="pl-l3d25c1-d1e167"> Gregorius <title>Super
-          Ezechielem</title> : <quote>
+        <p xml:id="pl-l3d25c1-d1e167"> Gregorius Super
+          Ezechielem : <quote>
                         <quote xml:id="pl-l3d25c1-Qd1e175" source="http://scta.info/resource/mc11_9"> Et qui praeibant et qui
           sequebantur clamabant dicentes: Hosanna filio David</quote>, etc., quia omnes electi, qui
           in ludaea esse potuerunt, sive qui nunc in Ecclesia sunt, in Mediatorem Dei et hominum
@@ -26409,19 +26409,19 @@
           <quote xml:id="pl-l3d31c1-Qd1e144">Fons aquae vivae sil tibi proprius, et nemo alienus
           communicet tibi</quote> </quote>. Si autem alieni sunt qui audituri sunt illam vocem, non
           ergo huic fonti communicant damnandi.</p>
-        <p xml:id="pl-l3d31c1-d1e149">Item, Augustinus <title>Super
-          Epistolam loannis</title> : <quote xml:id="pl-l3d31c1-Qd1e157"> Radicata est caritas,
+        <p xml:id="pl-l3d31c1-d1e149">Item, Augustinus Super
+          Epistolam loannis : <quote xml:id="pl-l3d31c1-Qd1e157"> Radicata est caritas,
           securus esto; nihil mali procedere potest </quote>.</p>
         <p xml:id="pl-l3d31c1-d1e161">Item, Gregorius in <quote xml:id="pl-l3d31c1-Qd1e166">Moralibus</quote> <sup/>: <quote xml:id="pl-l3d31c1-Qd1e171">
           <quote xml:id="pl-l3d31c1-Qd1e173">Valida est ut mors dilectio</quote> . Virtuti enim
           mortis dilectio comparatur, quia nimirum mentem quam semel ceperit, a dilectione mundi
           funditus occidit</quote>.</p>
-        <p xml:id="pl-l3d31c1-d1e178">Item, Augustinus <title>Super
-          Epistolam loannis</title> : <quote xml:id="pl-l3d31c1-Qd1e186"> Unctio invisibilis caritas
+        <p xml:id="pl-l3d31c1-d1e178">Item, Augustinus Super
+          Epistolam loannis : <quote xml:id="pl-l3d31c1-Qd1e186"> Unctio invisibilis caritas
           est, quae in quocumque fuerit, radix illi erit, quae ardente sole arescere non potest:
           nutritur calore solis, non arescit</quote>.</p>
-        <p xml:id="pl-l3d31c1-d1e190">Item, Beda <title>Super
-          Ioannem</title>: <quote xml:id="pl-l3d31c1-Qd1e198">Quaerendum est, quomodo speciale Filii
+        <p xml:id="pl-l3d31c1-d1e190">Item, Beda Super
+          Ioannem: <quote xml:id="pl-l3d31c1-Qd1e198">Quaerendum est, quomodo speciale Filii
           Dei agnoscendi signum fuerit, quod super eum descenderit et manserit Spiritus. Quid magni
           est Filio Dei, quod in ipso manere Spiritus astruitur? Notandumque quod semper in Domino
           manserit Spiritus, in Sanctis vero, quamdiu mortale corpus gestaverint, partim semper
@@ -26639,8 +26639,8 @@
           necessaria, sicut fides, ad quam referenda sunt, in praeteritis habebuntur</quote>.</p>
         <p xml:id="pl-l3d33c3-d1e139">Ecce aperte hic dicit Augustinus, quod praedictae virtutes in futuro erunt, sed alios usus tunc habebunt
           quam modo.</p>
-        <p xml:id="pl-l3d33c3-d1e145">Cui Beda consentit, <title>Super
-          Exodum</title> ita dicens: <quote xml:id="pl-l3d33c3-Qd1e153">Columnae, ante quas appensum
+        <p xml:id="pl-l3d33c3-d1e145">Cui Beda consentit, Super
+          Exodum ita dicens: <quote xml:id="pl-l3d33c3-Qd1e153">Columnae, ante quas appensum
           est velum, potestates caeli sunt quatuor eximiis virtutibus praeclarae, id est
           fortitudine, prudentia, temperantia, iustitia, quae aliter in caelis servantur ab Angelis
           et animabus sanctis, quam hic a fidelibus</quote>. Et consequenter assignat Beda usus illarum virtutum secundum praesentem et futurum statum,
@@ -31748,8 +31748,8 @@
           habetur nisi per sacerdotis iudicium. In solvendis igitur culpis vel retinendis ita
           operatur sacerdos evangelicus et indicat, sicut olim legalis in illis qui contaminati
           erant lepra, quae peccatum figurat </p>
-        <p xml:id="pl-l4d18c6-d1e118">Unde Hieronymus <title>Super
-          Matthaeum,</title> ubi Dominus ait Petro: <quote xml:id="pl-l4d18c6-Qd1e126">Tibi dabo
+        <p xml:id="pl-l4d18c6-d1e118">Unde Hieronymus Super
+          Matthaeum, ubi Dominus ait Petro: <quote xml:id="pl-l4d18c6-Qd1e126">Tibi dabo
           claves regni caelorum, et quodcumque ligaveris super terram, erit ligatum et in caelis; et
           quodcumque solveris super terram, erit solutum et in caelis:</quote> <quote xml:id="pl-l4d18c6-Qd1e129"> Hunc, inquit, locum quidam non intelligentes, aliquid sumunt
           de supercilio Pharisaeorum, ut damnare innoxios vel solvere se putent noxios, cum apud
@@ -34557,8 +34557,8 @@
         <p xml:id="pl-l4d35c3-d1e161">Ex his ostenditur, quod si causa fornicationis fit separatio,
           non potest vir vel mulier in aliam transire copulam; possunt autem reconciliari et
           cohabitare, sicut prius, si dimissum alter revocare voluerit.</p>
-        <p xml:id="pl-l4d35c3-d1e164">Dicit tamen Ioannes Chrysostomus <title>Super
-          Matthaeum:</title> <quote xml:id="pl-l4d35c3-Qd1e169">Sicut crudelis et iniquus est qui
+        <p xml:id="pl-l4d35c3-d1e164">Dicit tamen Ioannes Chrysostomus Super
+          Matthaeum: <quote xml:id="pl-l4d35c3-Qd1e169">Sicut crudelis et iniquus est qui
           castam dimittit, sic fatuus est et iniquus qui retinet meretricem: patronus enim
           turpitudinis est qui celat crimen uxoris</quote>.</p>
         <p xml:id="pl-l4d35c3-d1e173">Item Hieronymus: <quote xml:id="pl-l4d35c3-Qd1e178">Cum mulier unam carnem in aliam diviserit et se fornicatione a
@@ -36116,8 +36116,8 @@
           dicuntur misericordia et veritas.</head>
         <p xml:id="pl-l4d46c5-d1e115">Post haec considerari oportet, ex quo sensu <quote xml:id="pl-l4d46c5-Qd1e117">universae viae Domini</quote> dicantur <quote xml:id="pl-l4d46c5-Qd1e120">misericordia et veritas.</quote> </p>
         <p xml:id="pl-l4d46c5-d1e124">Hoc multiplicem recipit expositionem. Universae enim viae
-          Domini, quibus ad nos venit, ut ait Augustinus <title>Super
-          Psalmum,</title> intelliguntur duo adventus: primus, in qua manifestam et multiplicem
+          Domini, quibus ad nos venit, ut ait Augustinus Super
+          Psalmum, intelliguntur duo adventus: primus, in qua manifestam et multiplicem
           misericordiam nobis exhibuit; et secundus, in quo requirendo merita iustitiam exhibebit.
           Universae etiam viae Domini, id est, quibus ad Deum ascendimus, sunt iustitia, qua a malo
           declinamus, et misericordia, qua bonum facimus: in his enim duabus omne bonum meritum

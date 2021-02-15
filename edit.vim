@@ -21,11 +21,12 @@
 :g/<name.\{-}>\(.\{-}\)<\/name>/s//\1/g
 :w
 " remove title tags:
-:g/<title>\(.\{-}\)<\/title>/s//\1/g
+:g/<title.\{-}>\(\_.\{-}\)<\/title>/s//\1/g
 " removes tags from title in title statement in TEI header at line 5:
 " <title>http://scta.info/resoure/lombardsententia/critical/transcription</title>
 " restore by hand
 :w
+
 " remove empty <bibl/> tags:
 :g/<bibl\/>/s///g
 :w
