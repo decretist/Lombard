@@ -1,5 +1,5 @@
 " Paul Evans (paul.evans@aya.yale.edu
-" 11-15 February 2012
+" February 2012
 "
 " remove comments:
 :g/<!--.\{-}-->/s///g
@@ -31,6 +31,11 @@
 :w
 " remove <bibl> and </bibl> tags along with contents:
 :g/<bibl>\_.\{-}<\/bibl>/s///g
+:w
+" remove <mentioned> and </mentioned> tags:
+" :g/<mentioned>\(.\{-}\)<\/mentioned>/s//\1/g
+" :g/<mentioned>\(\_.\{-}\)<\/mentioned>/s//\1/g
+:g/<mentioned.\{-}>\(\_.\{-}\)<\/mentioned>/s//\1/g
 :w
 " remove <sic> and </sic> tags:
 :g/<sic>\(.\{-}\)<\/sic>/s//\1/g
