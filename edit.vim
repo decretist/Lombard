@@ -29,11 +29,14 @@
 " remove empty <bibl/> tags:
 :g/<bibl\/>/s///g
 :w
-" remove <bibl> tags and contents:
+" remove <bibl> and </bibl> tags along with contents:
 :g/<bibl>\_.\{-}<\/bibl>/s///g
 :w
 " remove empty <sup/> tags:
 :g/<sup\/>/s///g
 " remove <sup> and </sup> tags along with contents:
 :g/<sup>.\{-}<\/sup>/s///g
+:w
+" remove <unclear> and </unclear> tags:
+:g/<unclear>\(.\{-}\)<\/unclear>/s//\1/g
 :w
