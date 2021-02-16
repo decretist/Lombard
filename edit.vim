@@ -22,8 +22,8 @@
 :w
 " remove title tags:
 :g/<title.\{-}>\(\_.\{-}\)<\/title>/s//\1/g
-" removes tags from title in title statement in TEI header at line 5:
-" <title>http://scta.info/resoure/lombardsententia/critical/transcription</title>
+" removes <titleStmt> in TEI header at line 4
+" removes </title> in title statement at end of line 5
 " restore by hand
 :w
 " remove empty <bibl/> tags:
@@ -34,8 +34,14 @@
 :w
 " remove <mentioned> and </mentioned> tags:
 " :g/<mentioned>\(.\{-}\)<\/mentioned>/s//\1/g
-" :g/<mentioned>\(\_.\{-}\)<\/mentioned>/s//\1/g
+:g/<mentioned>\(\_.\{-}\)<\/mentioned>/s//\1/g
+:w
 :g/<mentioned.\{-}>\(\_.\{-}\)<\/mentioned>/s//\1/g
+:w
+" remove <ref> and </ref> tags:
+:g/<ref>\(\_.\{-}\)<\/ref>/s//\1/g
+:w
+:g/<ref.\{-}>\(\_.\{-}\)<\/ref>/s//\1/g
 :w
 " remove <sic> and </sic> tags:
 :g/<sic>\(.\{-}\)<\/sic>/s//\1/g
