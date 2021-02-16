@@ -46,6 +46,9 @@
 " remove <sic> and </sic> tags:
 :g/<sic>\(.\{-}\)<\/sic>/s//\1/g
 :w
+" remove <span> and </span> tags:
+:g/<span.\{-}>\(.\{-}\)<\/span>/s//\1/gp
+:w
 " remove empty <sup/> tags:
 :g/<sup\/>/s///g
 " remove <sup> and </sup> tags along with contents:
