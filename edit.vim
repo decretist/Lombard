@@ -47,7 +47,7 @@
 :g/<sic>\(.\{-}\)<\/sic>/s//\1/g
 :w
 " remove <span> and </span> tags:
-:g/<span.\{-}>\(.\{-}\)<\/span>/s//\1/gp
+:g/<span.\{-}>\(.\{-}\)<\/span>/s//\1/g
 :w
 " remove empty <sup/> tags:
 :g/<sup\/>/s///g
