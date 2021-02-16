@@ -43,6 +43,13 @@
 :w
 :g/<ref.\{-}>\(\_.\{-}\)<\/ref>/s//\1/g
 :w
+" remove <seg> and </seg> tags:
+:g/<seg>\(\_.\{-}\)<\/seg>/s//\1/g " works
+:w
+:g/<seg.\{-}>\(.\{-}\)<\/seg>/s//\1/g " works
+:w
+:g/<seg.\{-}>\(\_.\{-}\)<\/seg>/s//\1/g " works
+:w
 " remove <sic> and </sic> tags:
 :g/<sic>\(.\{-}\)<\/sic>/s//\1/g
 :w
@@ -51,6 +58,7 @@
 :w
 " remove empty <sup/> tags:
 :g/<sup\/>/s///g
+:w
 " remove <sup> and </sup> tags along with contents:
 :g/<sup>.\{-}<\/sup>/s///g
 :w
