@@ -32,6 +32,9 @@
 " remove <bibl> and </bibl> tags along with contents:
 :g/<bibl>\_.\{-}<\/bibl>/s///g
 :w
+" remove <sic> and </sic> tags:
+:g/<sic>\(.\{-}\)<\/sic>/s//\1/g
+:w
 " remove empty <sup/> tags:
 :g/<sup\/>/s///g
 " remove <sup> and </sup> tags along with contents:
