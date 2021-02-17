@@ -2,7 +2,7 @@
 
 February 2021
 
-![PL](https://en.wikipedia.org/wiki/Peter_Lombard#/media/File:PeterLombar01Medieval.png)
+![PL](/img/PL.png)
 
 Repository for parsing an XML file of Peter Lombard's _Sentences_.
 
