@@ -20,6 +20,9 @@ def main():
         for child in div:
             # div contains only head and p tags
             if child.tag == head_tag:
+                # child.attrib is a dictionary
+                # <head type="questionTitle"> starts at 1.46.4.
+                # print(child.attrib.get('type'))
                 pass
             elif child.tag == p_tag:
                 print(child.text)
