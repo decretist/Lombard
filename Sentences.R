@@ -9,5 +9,6 @@ stylo.results = stylo(
   delete.pronouns = TRUE,
   analysis.type = "PCR",
   sampling = "normal.sampling",
-  sample.size = 3000,
+  sample.size = 3600,
 )
+print(stylo.results$features.actually.used)
