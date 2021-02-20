@@ -7,7 +7,7 @@
 et
 in
 non
-est
+# est
 quod
 sed
 de
@@ -22,18 +22,18 @@ quia
 a
 ex
 unde
-esse
+# esse
 autem
-sunt
+# sunt
 etiam
 per
 uero
 nec
 quae
-ait
+# ait
 hoc
 sicut
-sit
+# sit
 ab
 ergo
 tamen
@@ -46,14 +46,14 @@ his
 illud
 nisi
 dei
-potest
+# potest
 peccatum
 deus
 quo
 id
 pro
 eius
-dicitur
+# dicitur
 sine
 que
 secundum
@@ -69,7 +69,7 @@ deo
 ante
 libro
 ecclesiae
-uidetur
+# uidetur
 eo
 ideo
 tantum
@@ -79,8 +79,8 @@ eis
 christi
 peccata
 super
-dicens
-erat
+# dicens
+# erat
 quis
 ea
 siue
@@ -89,13 +89,13 @@ ne
 papa
 causa
 hic
-legitur
+# legitur
 aliud
 idem
 propter
 licet
-scribit
-sint
+# scribit
+# sint
 ei
 eum
 atque
