@@ -7,7 +7,7 @@
 et
 non
 in
-est
+# est
 quod
 sed
 ut
@@ -19,23 +19,23 @@ qui
 ad
 enim
 quae
-esse
+# esse
 cum
 ex
 a
 per
-sunt
+# sunt
 etiam
 nec
 uero
 autem
 hoc
 sicut
-sit
+# sit
 augustinus
 tamen
 ita
-ait
+# ait
 dei
 unde
 deus
@@ -43,9 +43,9 @@ quam
 peccatum
 id
 homo
-potest
+# potest
 ergo
-dicitur
+# dicitur
 secundum
 illa
 se
@@ -58,7 +58,7 @@ his
 sine
 qua
 deo
-uidetur
+# uidetur
 christi
 pro
 bonum
@@ -68,13 +68,13 @@ tantum
 post
 quibus
 sic
-erat
+# erat
 ante
 hominis
 eius
 igitur
 haec
-dicit
+#dicit
 hominem
 hic
 christus
@@ -86,7 +86,7 @@ super
 gratia
 corpus
 deum
-fuit
+# fuit
 eo
 propter
 omnes
@@ -108,19 +108,19 @@ nobis
 modo
 atque
 ei
-habet
+# habet
 ipsa
 aliud
 an
-dicunt
+# dicunt
 peccato
-fit
+# fit
 alia
 caro
 eis
 ibi
 uoluntas
-sint
+# sint
 aliis
 inter
 ipse
@@ -129,9 +129,9 @@ eorum
 fides
 spiritus
 omnia
-dici
+# dici
 ille
-fuerit
+# fuerit
 malum
 illo
 sibi
