@@ -38,17 +38,17 @@ ita
 tamen
 ab
 # sit
-augustinus
+# augustinus
 quam
 se
 item
 his
 illud
 nisi
-dei
+# dei
 # potest
-peccatum
-deus
+# peccatum
+# deus
 id
 quo
 pro
@@ -60,11 +60,11 @@ secundum
 sic
 quibus
 illa
-homo
+# homo
 qua
-deo
+# deo
 post
-libro
+# libro
 sibi
 ante
 # uidetur
@@ -73,23 +73,23 @@ tantum
 eo
 scilicet
 eorum
-ecclesiae
-christi
-peccata
+# ecclesiae
+# christi
+# peccata
 super
 eis
 # dicens
 # erat
 quis
-bonum
+# bonum
 siue
 ne
-papa
+# papa
 ea
 # legitur
 an
 aliud
-causa
+# causa
 idem
 propter
 # scribit
@@ -100,33 +100,33 @@ atque
 ei
 igitur
 quid
-christus
+# christus
 inter
-omnibus
+# omnibus
 # fuerit
 quantum
 quoque
 # sint
 aut
 # dicit
-hominis
-concilio
-auctoritate
-deum
+# hominis
+# concilio
+# auctoritate
+# deum
 alia
-bona
-hominem
-gratia
+# bona
+# hominem
+# gratia
 ille
 # fuit
 haec
-peccati
-omnes
-gregorius
+# peccati
+# omnes
+# gregorius
 aliis
-filius
+# filius
 nos
-peccato
+# peccato
 # possunt
 tunc
 modo
