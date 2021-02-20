@@ -102,26 +102,26 @@ atque
 inter
 quid
 igitur
-fuerit
-christus
-omnibus
+# fuerit
+# christus
+# omnibus
 quoque
 quantum
 aut
-dicit
-hominis
-auctoritate
+# dicit
+# hominis
+# auctoritate
 alia
-concilio
-deum
+# concilio
+# deum
 ille
-bona
-hominem
-gratia
-fuit
+# bona
+# hominem
+# gratia
+# fuit
 aliis
 haec
-peccati
+# peccati
 omnes
 filius
 gregorius
