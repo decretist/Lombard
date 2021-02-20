@@ -17,5 +17,6 @@ stylo.results = stylo(
   analysis.type = "PCR",
   sampling = "normal.sampling",
   sample.size = 3600,
+  pca.visual.flavour = "symbols",
 )
 print(stylo.results$features.actually.used)
