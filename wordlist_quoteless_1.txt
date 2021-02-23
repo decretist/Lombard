@@ -29,7 +29,7 @@ etiam
 per
 uero
 # ait
-augustinus
+# augustinus
 nec
 quae
 hoc
@@ -43,7 +43,7 @@ tamen
 illud
 his
 quam
-peccatum
+# peccatum
 se
 nisi
 # potest
@@ -57,9 +57,9 @@ quibus
 illa
 sic
 sine
-libro
-deus
-dei
+# libro
+# deus
+# dei
 secundum
 eius
 qua
@@ -67,53 +67,53 @@ sibi
 # uidetur
 post
 ante
-papa
+# papa
 # dicens
-homo
-ecclesiae
-deo
+# homo
+# ecclesiae
+# deo
 # scribit
 tantum
 # legitur
-bonum
+# bonum
 eo
 scilicet
 eorum
 ideo
 eis
 idem
-peccata
+# peccata
 super
 siue
 hic
-concilio
-causa
+# concilio
+# causa
 # sint
 ea
 quoque
-auctoritate
-gregorius
+# auctoritate
+# gregorius
 aliud
 licet
-erat
-bona
+# erat
+# bona
 quantum
-peccati
+# peccati
 atque
 # dicit
 inter
 alia
-christi
+# christi
 aliis
-episcopo
-peccato
+# episcopo
+# peccato
 ei
-omnibus
+# omnibus
 hinc
 propter
 # possunt
-fuit
-gratia
+# fuit
+# gratia
 igitur
 # fuerit
 haec
