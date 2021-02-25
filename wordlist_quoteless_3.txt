@@ -102,9 +102,9 @@ quid
 eius
 propter
 siue
-aliis
+# aliis
 ea
-alia
+# alia
 # deum
 # christus
 # corpus
@@ -124,7 +124,7 @@ nobis
 quoque
 # poena
 ac
-aliud
+# aliud
 omnia
 quaeri
 apostolus
@@ -133,7 +133,7 @@ ei
 persona
 posse
 causa
-alii
+# alii
 quaedam
 eis
 eorum

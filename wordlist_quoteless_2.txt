@@ -90,7 +90,7 @@ quoque
 # auctoritate
 # causa
 # gregorius
-aliud
+# aliud
 licet
 ea
 # erat
@@ -101,11 +101,11 @@ quantum
 # peccati
 # dicit
 # christi
-alia
+# alia
 atque
 # peccato
 inter
-aliis
+# aliis
 # omnibus
 hinc
 propter

@@ -110,18 +110,18 @@ atque
 ei
 # habet
 ipsa
-aliud
+# aliud
 an
 # dicunt
 # peccato
 # fit
-alia
+# alia
 # caro
 eis
 ibi
 # uoluntas
 # sint
-aliis
+# aliis
 inter
 ipse
 tunc

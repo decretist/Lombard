@@ -88,7 +88,7 @@ ne
 ea
 # legitur
 an
-aliud
+# aliud
 # causa
 idem
 propter
@@ -113,7 +113,7 @@ aut
 # concilio
 # auctoritate
 # deum
-alia
+# alia
 # bona
 # hominem
 # gratia
@@ -123,7 +123,7 @@ haec
 # peccati
 # omnes
 # gregorius
-aliis
+# aliis
 # filius
 nos
 # peccato

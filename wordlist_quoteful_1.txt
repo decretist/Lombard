@@ -90,7 +90,7 @@ ne
 # causa
 hic
 # legitur
-aliud
+# aliud
 idem
 propter
 licet
@@ -111,7 +111,7 @@ aut
 # dicit
 # hominis
 # auctoritate
-alia
+# alia
 # concilio
 # deum
 ille
@@ -119,7 +119,7 @@ ille
 # hominem
 # gratia
 # fuit
-aliis
+# aliis
 haec
 # peccati
 omnes

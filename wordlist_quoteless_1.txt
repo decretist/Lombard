@@ -93,7 +93,7 @@ ea
 quoque
 # auctoritate
 # gregorius
-aliud
+# aliud
 licet
 # erat
 # bona
@@ -102,9 +102,9 @@ quantum
 atque
 # dicit
 inter
-alia
+# alia
 # christi
-aliis
+# aliis
 # episcopo
 # peccato
 ei
