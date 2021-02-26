@@ -2,7 +2,7 @@
 
 February 2021
 
-![PL](/img/PL.png)
+![PL](/images/PL.png)
 
 Repository for parsing an XML file of Peter Lombard's _Sentences_.
 
