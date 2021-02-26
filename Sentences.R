@@ -10,7 +10,7 @@ files.to.analyze <- c("Gratian0.txt", "Gratian1.txt", "Gratian2.txt",
 writeLines(files.to.analyze, "files_to_analyze.txt")
 stylo.results = stylo(
   gui = FALSE,
-  features = "wordlist_quoteful_0.txt",
+  features = "./wordlists/wordlist_quoteful_0.txt",
   corpus.dir = "./corpora/quoteful",
   corpus.lang = "Latin.corr",
   mfw.min = 65, mfw.max = 65,
@@ -28,7 +28,7 @@ files.to.analyze <- c("Gratian0.txt", "Gratian1.txt", "Gratian2.txt",
 writeLines(files.to.analyze, "files_to_analyze.txt")
 stylo.results = stylo(
   gui = FALSE,
-  features = "wordlist_quoteful_1.txt",
+  features = "./wordlists/wordlist_quoteful_1.txt",
   corpus.dir = "./corpora/quoteful",
   corpus.lang = "Latin.corr",
   mfw.min = 65, mfw.max = 65,
@@ -46,7 +46,7 @@ files.to.analyze <- c("Gratian1.txt", "Gratian2.txt",
 writeLines(files.to.analyze, "files_to_analyze.txt")
 stylo.results = stylo(
   gui = FALSE,
-  features = "wordlist_quoteful_2.txt",
+  features = "./wordlists/wordlist_quoteful_2.txt",
   corpus.dir = "./corpora/quoteful",
   corpus.lang = "Latin.corr",
   mfw.min = 65, mfw.max = 65,
@@ -63,7 +63,7 @@ files.to.analyze <- c("Lombard2.txt", "Lombard3.txt", "Lombard4.txt")
 writeLines(files.to.analyze, "files_to_analyze.txt")
 stylo.results = stylo(
   gui = FALSE,
-  features = "wordlist_quoteful_3.txt",
+  features = "./wordlists/wordlist_quoteful_3.txt",
   corpus.dir = "./corpora/quoteful",
   corpus.lang = "Latin.corr",
   mfw.min = 65, mfw.max = 65,
@@ -83,7 +83,7 @@ files.to.analyze <- c("Gratian0.txt", "Gratian1.txt", "Gratian2.txt",
 writeLines(files.to.analyze, "files_to_analyze.txt")
 stylo.results = stylo(
   gui = FALSE,
-  features = "wordlist_quoteless_0.txt",
+  features = "./wordlists/wordlist_quoteless_0.txt",
   corpus.dir = "./corpora/quoteless",
   corpus.lang = "Latin.corr",
   mfw.min = 65, mfw.max = 65,
@@ -101,7 +101,7 @@ files.to.analyze <- c("Gratian0.txt", "Gratian1.txt", "Gratian2.txt",
 writeLines(files.to.analyze, "files_to_analyze.txt")
 stylo.results = stylo(
   gui = FALSE,
-  features = "wordlist_quoteless_1.txt",
+  features = "./wordlists/wordlist_quoteless_1.txt",
   corpus.dir = "./corpora/quoteless",
   corpus.lang = "Latin.corr",
   mfw.min = 65, mfw.max = 65,
@@ -119,7 +119,7 @@ files.to.analyze <- c("Gratian1.txt", "Gratian2.txt",
 writeLines(files.to.analyze, "files_to_analyze.txt")
 stylo.results = stylo(
   gui = FALSE,
-  features = "wordlist_quoteless_2.txt",
+  features = "./wordlists/wordlist_quoteless_2.txt",
   corpus.dir = "./corpora/quoteless",
   corpus.lang = "Latin.corr",
   mfw.min = 65, mfw.max = 65,
@@ -136,7 +136,7 @@ files.to.analyze <- c("Lombard2.txt", "Lombard3.txt", "Lombard4.txt")
 writeLines(files.to.analyze, "files_to_analyze.txt")
 stylo.results = stylo(
   gui = FALSE,
-  features = "wordlist_quoteless_3.txt",
+  features = "./wordlists/wordlist_quoteless_3.txt",
   corpus.dir = "./corpora/quoteless",
   corpus.lang = "Latin.corr",
   mfw.min = 65, mfw.max = 65,
