@@ -1,7 +1,7 @@
 et
 in
 non
-est
+# est
 quod
 de
 sed
@@ -10,7 +10,7 @@ ad
 ut
 qui
 quia
-esse
+# esse
 si
 cum
 enim
@@ -19,22 +19,22 @@ a
 ex
 autem
 etiam
-sunt
-ait
+# sunt
+# ait
 per
 uero
 augustinus
 quae
 nec
 ita
-sit
+# sit
 hoc
 ergo
 tamen
 sicut
 ab
-dicitur
-potest
+# dicitur
+# potest
 item
 quam
 deus
@@ -59,12 +59,12 @@ eius
 sic
 deo
 sine
-uidetur
+# uidetur
 tantum
 spiritus
 scilicet
 pater
-dicens
+# dicens
 idem
 eo
 ideo
@@ -77,20 +77,20 @@ siue
 post
 homo
 papa
-dicit
+# dicit
 eorum
 eis
 super
 ecclesiae
-legitur
-sint
+# legitur
+# sint
 quoque
 alia
 aliud
-scribit
+# scribit
 licet
 modo
-fieri
+# fieri
 causa
 deum
 bona
@@ -106,17 +106,17 @@ concilio
 eum
 omnia
 propter
-erat
+# erat
 gregorius
 ei
 aliis
-posse
-dici
+# posse
+# dici
 aliquid
 omnibus
 ecce
 quantum
-facit
+# facit
 inter
 quid
 uoluntas
