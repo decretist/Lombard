@@ -28,40 +28,40 @@ uero
 hoc
 ita
 # sit
-augustinus
+# augustinus
 ergo
 tamen
 sicut
 ab
 quam
-deus
+# deus
 se
 # potest
 # dicitur
-dei
+# dei
 item
 his
 id
 illud
 nisi
-libro
+# libro
 quo
 secundum
 eius
-peccatum
+# peccatum
 qua
 pro
-filius
+# filius
 sine
 illa
-deo
+# deo
 quibus
 sic
 que
 an
 tantum
-spiritus
-homo
+# spiritus
+# homo
 # uidetur
 scilicet
 ideo
@@ -69,7 +69,7 @@ eo
 sibi
 post
 ea
-pater
+# pater
 ante
 hic
 siue
@@ -78,51 +78,51 @@ idem
 eorum
 super
 eis
-ecclesiae
-bonum
+# ecclesiae
+# bonum
 # dicit
-deum
-aliud
-christi
-peccata
+# deum
+# aliud
+# christi
+# peccata
 # erat
 eum
 propter
 # sint
 ne
-alia
+# alia
 modo
 quis
 igitur
 licet
-causa
+# causa
 atque
 ei
-papa
+# papa
 quoque
 # fieri
 haec
 # legitur
 quid
-omnia
-bona
-omnibus
+# omnia
+# bona
+# omnibus
 # scribit
 aut
 inter
 nos
 # habet
 ipse
-sanctus
+# sanctus
 nobis
 utrum
-christus
+# christus
 # fuerit
 quantum
 ipsa
 auctoritate
 hominis
-aliis
+# aliis
 ubi
 facit
 trinitate
