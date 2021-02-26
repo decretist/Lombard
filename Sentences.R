@@ -19,6 +19,8 @@ stylo.results = stylo(
   analysis.type = "PCR",
   sampling = "normal.sampling",
   sample.size = 3600,
+  write.jpg.file = TRUE,
+  custom.graph.filename = "./graphs/Quoteful_0",
   pca.visual.flavour = "symbols",
 )
 print(stylo.results$features.actually.used)
@@ -37,6 +39,8 @@ stylo.results = stylo(
   analysis.type = "PCR",
   sampling = "normal.sampling",
   sample.size = 3600,
+  write.jpg.file = TRUE,
+  custom.graph.filename = "./graphs/Quoteful_1",
   pca.visual.flavour = "symbols",
 )
 print(stylo.results$features.actually.used)
@@ -55,6 +59,8 @@ stylo.results = stylo(
   analysis.type = "PCR",
   sampling = "normal.sampling",
   sample.size = 3600,
+  write.jpg.file = TRUE,
+  custom.graph.filename = "./graphs/Quoteful_2",
   pca.visual.flavour = "symbols",
 )
 print(stylo.results$features.actually.used)
@@ -72,6 +78,8 @@ stylo.results = stylo(
   analysis.type = "PCR",
   sampling = "normal.sampling",
   sample.size = 3600,
+  write.jpg.file = TRUE,
+  custom.graph.filename = "./graphs/Quoteful_3",
   pca.visual.flavour = "symbols",
 )
 print(stylo.results$features.actually.used)
@@ -92,6 +100,8 @@ stylo.results = stylo(
   analysis.type = "PCR",
   sampling = "normal.sampling",
   sample.size = 3600,
+  write.jpg.file = TRUE,
+  custom.graph.filename = "./graphs/Quoteless_0",
   pca.visual.flavour = "symbols",
 )
 print(stylo.results$features.actually.used)
@@ -110,6 +120,8 @@ stylo.results = stylo(
   analysis.type = "PCR",
   sampling = "normal.sampling",
   sample.size = 3600,
+  write.jpg.file = TRUE,
+  custom.graph.filename = "./graphs/Quoteless_1",
   pca.visual.flavour = "symbols",
 )
 print(stylo.results$features.actually.used)
@@ -128,6 +140,8 @@ stylo.results = stylo(
   analysis.type = "PCR",
   sampling = "normal.sampling",
   sample.size = 3600,
+  write.jpg.file = TRUE,
+  custom.graph.filename = "./graphs/Quoteless_2",
   pca.visual.flavour = "symbols",
 )
 print(stylo.results$features.actually.used)
@@ -145,6 +159,8 @@ stylo.results = stylo(
   analysis.type = "PCR",
   sampling = "normal.sampling",
   sample.size = 3600,
+  write.jpg.file = TRUE,
+  custom.graph.filename = "./graphs/Quoteless_3",
   pca.visual.flavour = "symbols",
 )
 print(stylo.results$features.actually.used)

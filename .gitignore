@@ -1,3 +1,4 @@
+*.jpg
 *.pdf
 .DS_Store
 .RData
