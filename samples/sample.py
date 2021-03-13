@@ -1,12 +1,19 @@
 #!/usr/local/bin/python3
 #
 # Paul Evans (paul.evans@aya.yale.edu)
-# February 2021
+# March 2021
 #
+import argparse
 import xml.etree.ElementTree as ET
 
 ''' generate sample from edited TEI text '''
 def main():
+    parser = argparse.ArgumentParser()
+    parser.add_argument('-q', '--quotes', action='store_true')
+    args = parser.parse_args()
+    if args.quotes: quotes = True
+    else: quotes = False
+    #
     tree = ET.parse('./edited.xml')
     root = tree.getroot()
     # teiHeader = root[0]
@@ -26,11 +33,10 @@ def main():
                 pass
             elif child.tag == p_tag:
                 print(child.text)
-                for subchild in child:
-                    if subchild.tag == quote_tag:
-                        # uncomment to include quotes:
-                        print(subchild.text)
-                        # pass
+                if quotes:
+                    for subchild in child:
+                        if subchild.tag == quote_tag:
+                            print(subchild.text)
 
 if __name__ == '__main__':
     main()
