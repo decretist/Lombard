@@ -11,8 +11,13 @@ def main():
     parser = argparse.ArgumentParser()
     parser.add_argument('-q', '--quotes', action='store_true')
     args = parser.parse_args()
-    if args.quotes: quotes = True
-    else: quotes = False
+    if args.quotes:
+        quotes = True
+        output_filename = './new_quoteful_sample.txt'
+    else:
+        quotes = False
+        output_filename = './new_quoteless_sample.txt'
+    output_file = open(output_filename, 'w')
     #
     tree = ET.parse('./edited.xml')
     root = tree.getroot()
@@ -29,14 +34,20 @@ def main():
             if child.tag == head_tag:
                 # child.attrib is a dictionary
                 # <head type="questionTitle"> starts at 1.46.4.
+                # equivalent to:
                 # print(child.attrib.get('type'), end='')
+                # output_file.write(child.attrib.get('type'))
                 pass
             elif child.tag == p_tag:
-                print(child.text, end='')
+                # equivalent to:
+                # print(child.text, end='')
+                output_file.write(child.text)
                 if quotes:
                     for subchild in child:
                         if subchild.tag == quote_tag:
-                            print(subchild.text, end='')
+                            # equivalent to:
+                            # print(subchild.text, end='')
+                            output_file.write(subchild.text)
 
 if __name__ == '__main__':
     main()
