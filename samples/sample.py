@@ -29,14 +29,14 @@ def main():
             if child.tag == head_tag:
                 # child.attrib is a dictionary
                 # <head type="questionTitle"> starts at 1.46.4.
-                # print(child.attrib.get('type'))
+                # print(child.attrib.get('type'), end='')
                 pass
             elif child.tag == p_tag:
-                print(child.text)
+                print(child.text, end='')
                 if quotes:
                     for subchild in child:
                         if subchild.tag == quote_tag:
-                            print(subchild.text)
+                            print(subchild.text, end='')
 
 if __name__ == '__main__':
     main()
