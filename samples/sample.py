@@ -13,10 +13,10 @@ def main():
     args = parser.parse_args()
     if args.quotes:
         quotes = True
-        output_filename = './new_quoteful_sample.txt'
+        output_filename = './quoteful_sample.txt'
     else:
         quotes = False
-        output_filename = './new_quoteless_sample.txt'
+        output_filename = './quoteless_sample.txt'
     output_file = open(output_filename, 'w')
     #
     tree = ET.parse('./edited.xml')
@@ -34,20 +34,14 @@ def main():
             if child.tag == head_tag:
                 # child.attrib is a dictionary
                 # <head type="questionTitle"> starts at 1.46.4.
-                # equivalent to:
-                # print(child.attrib.get('type'), end='')
-                # output_file.write(child.attrib.get('type'))
+                # output_file.write(child.attrib.get('type') + '\n')
                 pass
             elif child.tag == p_tag:
-                # equivalent to:
-                # print(child.text, end='')
-                output_file.write(child.text)
+                output_file.write(child.text + '\n')
                 if quotes:
                     for subchild in child:
                         if subchild.tag == quote_tag:
-                            # equivalent to:
-                            # print(subchild.text, end='')
-                            output_file.write(subchild.text)
+                            output_file.write(subchild.text + '\n')
 
 if __name__ == '__main__':
     main()
