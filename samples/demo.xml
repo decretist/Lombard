@@ -1,0 +1,1461 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>http://scta.info/resoure/lombardsententia/critical/transcription</title>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div xml:id="pl-l1prol">
+        <head xml:id="pl-l1prol-Hd1e128">Liber 1, Prologus</head>
+        <p xml:id="pll1prol-cadzdd">
+
+
+
+
+          <cit>
+            <quote xml:id="pl-l1prol-Qd1e143" source="http://scta.info/resource/lc21_2 http://scta.info/resource/mc12_42" type="paraphrase">
+              Cupientes aliquid de penuria ac tenuitate nostra cum paupercula
+              in gazophylacium Domini mittere
+            </quote>
+
+          </cit>,
+
+
+          ardua scandere, opus
+          ultra vires nostras agere praesumsimus, consummationis fiduciam
+          laborique mercedem
+          <cit>
+            <quote xml:id="pl-l1prol-Qd1e160" source="http://scta.info/resource/lc10_35" type="paraphrase">in Samaritano</quote>
+
+          </cit>
+          statuentes, qui, prolatis in
+          curationem semivivi duobus denariis, supereroganti cuncta reddere
+          professus est. Delectat nos veritas pollicentis, sed terret immensitas
+          laboris; desiderium hortatur proficiendi, sed dehortatur infirmitas
+          deficiendi, quam vincit zelus domus Dei.
+        </p>
+        <p xml:id="pll1prol-qifacc">
+          <cit>
+            <quote xml:id="pl-l1prol-Qd1e172" source="http://scta.info/resource/adt-l3-d1e362">
+              Quo inardescentes, fidem nostram adversus errores carnalium
+              atque animalium hominum
+            </quote>
+
+          </cit>
+          Davidicae turris clypeis munire
+          vel potius munitam ostendere ac theologicarum inquisitionum
+          abdita aperire nec non et sacramentorum ecclesiasticorum pro modulo
+          intelligentiae nostrae notitiam tradere studuimus,
+          <cit>
+            <quote xml:id="pl-l1prol-Qd1e181" source="http://scta.info/resource/adt-l3-d1e362">
+              non valentes
+              studiosorum fratrum votis iure resistere, eorum in Christo
+              laudabilibus studiis lingua ac stilo nos servire flagitantium. Quas
+              bigas in nobis agitat Christi caritas
+            </quote>
+
+          </cit>.
+        </p>
+
+        <p xml:id="pll1prol-qnavet">
+          <cit>
+            <quote xml:id="pl-l1prol-Qd1e195">Quamvis non ambigamus omnem humani eloquii sermonem
+            calumniae atque contradictioni aemulorum semper fuisse obnoxium,
+            quia, dissentientibus voluntatum motibus, dissentiens quoque
+            fit animorum sensus</quote>
+
+          </cit>
+          <cit>
+            <quote xml:id="pl-l1prol-Qd1e204">ut, cum omne dictum veri ratione
+            perfectum sit, tamen, dum aliud aliis aut videtur aut complacet,
+            veritati vel non intellectae vel offendenti impietatis eror obnitatur,
+            ac voluntatis invidia resultet</quote>
+
+          </cit>
+          <cit>
+            <quote xml:id="pl-l1prol-Qd1e213">quam
+              <cit>
+                <quote xml:id="pl-l1prol-Qd1e217" source="http://scta.info/resource/IIcor4_4 http://scta.info/resource/eph2_2">Deus huius saeculi
+                operatur in illis diffidentiae filiis</quote>
+
+              </cit>
+              qui non rationi voluntatem
+              subiiciunt nec doctrinae studium impendunt, sed his quae somniarunt
+              sapientiae verba coaptare nituntur, non veri, sed placiti rationem
+              sectantes, quos iniqua voluntas non ad intelligentiam veritatis,
+              sed ad defensionem placentium
+
+              incitat, non desiderantes
+              doceri veritatem, sed ab ea
+              <cit>
+                <quote xml:id="pl-l1prol-Qd1e228" source="http://scta.info/resource/IItim4_4">
+                  ad fabulas convertentes auditum
+                </quote>
+
+              </cit>;
+            	quorum professio est magis
+
+              placita quam docenda conquirere, nec
+              docenda desiderare, sed desideratis doctrinam coaptare.
+              <cit>
+                <quote xml:id="pl-l1prol-Qd1e240" source="http://scta.info/resource/col2_23">
+                  Habent rationem sapientiae in superstitione</quote>
+
+              </cit>:
+              quia fidei defectionem sequitur
+              hypocrisis mendax, ut sit vel in verbis pietas, quam amiserit
+              conscientia, ipsamque simulatam pietatem omni verborum
+              mendacio impiam reddunt, falsae doctrinae institutis fidei sanctitatem
+              corrumpere molientes, auriumque pruriginem sub novello sui
+
+              desiderii dogmate aliis ingerentes, qui contentioni studentes contra
+              veritatem sine foedere bellant.
+            </quote>
+
+          </cit>
+          <cit>
+            <quote xml:id="pl-l1prol-Qd1e256">Inter veri namque assertionem
+              et placiti defensionem pertinax pugna est, dum
+
+              se et veritas tenet,
+              et se voluntas erroris tuetur.
+            </quote>
+
+          </cit>
+        </p>
+        <p xml:id="pll1prol-hidqld">
+          Horum igitur Deo odibilem ecclesiam evertere atque ora
+          oppilare, ne virus nequitiae in alios effundere queant,
+          <cit>
+            <quote xml:id="pl-l1prol-Qd1e274" source="http://scta.info/resource/mt5_15" type="paraphrase">
+              et lucernam
+              veritatis in candelabro exaltare volentes
+            </quote>
+
+          </cit>
+          in labore multo ac
+          sudore volumen, Deo
+
+          praestante, compegimus ex testimoniis veritatis
+          in aeternum fundatis, in quatuor libris distinctum.
+        </p>
+        <p xml:id="pll1prol-iqmpdl">
+          In quo maiorum exempla doctrinamque reperies, in quo per
+          dominicae fidei sinceram professionem vipereae doctrinae fraudulentiam
+          prodidimus, aditum demonstrandae veritatis complexi nec
+          periculo impiae professionis inserti, temperato inter utrumque moderamine
+          utentes. Sicubi vero parum vox nostra insonuit, non
+          a paternis discessit limitibus.
+        </p>
+        <p xml:id="pll1prol-nidqhc">
+          <cit>
+            <quote xml:id="pl-l1prol-Qd1e292" source="http://scta.info/resource/adt-l3-d1e362">
+              Non igitur debet hic labor cuiquam pigro vel multum docto
+              videri superfluus, cum multis impigris multisque indoctis, inter
+              quos etiam et mihi, si necessarius
+            </quote>
+
+          </cit>,
+          brevi volumine complicans
+          Patrum sententias, appositis eorum testimoniis, ut non sit necesse
+          quaerenti librorum numerositatem evolvere, cui brevitas collecta
+          quod quaeritur offert sine labore.
+          In hoc autem tractatu
+          <cit>
+
+            <quote xml:id="pl-l1prol-Qd1e303" source="http://scta.info/resource/adt-l3-d1e365">
+              non solum
+              pium lectorem, sed etiam liberum correctorem desidero, maxime
+              ubi profunda versatur veritatis quaestio, quae utinam tot
+              haberet inventores, quot habet contradictores
+            </quote>
+
+          </cit>.
+        </p>
+        <p xml:id="pll1prol-uaqcdp">
+          Ut autem quod quaeritur facilius occurrat, titulos, quibus singulorum
+          librorum capitula distinguuntur,
+
+
+          praemisimus.
+        </p>
+      </div>
+      <div xml:id="pl-l1d1c1">
+        <head xml:id="pl-l1d1c1-Hd1e3524">Liber 1, Distinctio 1, Caput 1</head>
+        <p xml:id="pll1d1c1-vanspv">Veteris ac novae Legis continentiam diligenti indagine etiam
+        atque etiam considerantibus nobis praevia Dei gratia innotuit, sacrae
+        paginae tractatum circa res vel signa praecipue versari.</p>
+
+        <p xml:id="pll1d1c1-ueeeis">
+          Ut enim
+
+            egregius doctor Augustinus
+            ait in libro De doctrina christiana
+          :
+          <cit>
+            <quote xml:id="pl-l1d1c1-Qd1e3544" source="http://scta.info/resource/addc-l1-d1e121">
+              Omnis doctrina vel rerum est, vel signorum. Sed
+              res etiam per signa discuntur. Proprie autem hic res appellantur,
+              quae non ad significandum aliquid adhibentur ; signa vero, quorum
+              usus est in significando
+            </quote>
+
+        </cit>.
+        </p>
+        <p xml:id="pll1d1c1-eaases">
+          Eorum autem aliqua sunt, quorum omnis usus in significando,
+          non in iustificando, id est, quibus non utimur nisi aliquid
+          significandi gratia, ut aliqua Sacramenta legalia; alia, quae non
+          solum significant, sed conferunt quod intus adiuvet, sicut evangelica
+          Sacramenta.
+        </p>
+        <p xml:id="pll1d1c1-eqadta">
+          <cit>
+            <quote xml:id="pl-l1d1c1-Qd1e3559" source="http://scta.info/resource/addc-l1-d1e121">
+
+                Ex quo aperte intelligitur, quae hic appellentur signa, res
+                illae videlicet, quae ad significandum aliquid adhibentur. Omne igitur
+                signum etiam res aliqua est. Quod enim nulla res est
+              ,
+              ut in eodem
+              Augustinus ait,
+
+                omnino nihil est; non autem e converso omnis res
+                signum
+
+
+                est
+              ,
+            </quote>
+
+          </cit>
+          quia non adhibetur
+
+          ad significandum aliquid. Cumque
+          his intenderit
+          theologorum speculatio studiosa atque modesta, divinam
+          Scripturam formam praescriptam in doctrina tenere advertet.
+        </p>
+
+        <p xml:id="pll1d1c1-dhedsd">
+          De his ergo nobis aditum ad res divinas aliquatenus intelligendas,
+          Deo duce, aperire volentibus disserendum est; et primum
+          de rebus, postea de signis disseremus.
+        </p>
+      </div>
+      <div xml:id="pl-l1d1c2">
+        <head xml:id="pl-l1d1c2-Hd1e126">Liber 1, Distinctio 1, Caput 2</head>
+        <p xml:id="pll1d1c2-ieieas">
+          Id ergo in rebus considerandum est,
+          ut
+
+            in eodem
+            Augustinus
+
+          ait,
+          <cit>
+            <quote xml:id="pl-l1d1c2-Qd1e133" source="http://scta.info/resource/addc-l1-d1e132">
+              quod res aliae sunt, quibus fruendum est, aliae, quibus
+              utendum est, aliae, quae fruuntur et utuntur. Illae, quibus
+              fruendum est, nos beatos faciunt; istis, quibus utendum est, tendentes
+              ad beatitudinem adiuvamur et quasi adminiculamur, ut ad
+              illas res, quae nos beatos faciunt, pervenire eisque inhaerere possimus.
+              Res vero, quae fruuntur et utuntur, nos sumus, quasi inter
+              utrasque constituti
+            </quote>
+
+          </cit>,
+          et Angeli sancti.
+        </p>
+        <p xml:id="pll1d1c2-faeand">
+          <cit>
+            <quote xml:id="pl-l1d1c2-Qd1e156" source="http://scta.info/resource/addc-l1-d1e143">Frui autem
+
+              est amore inhaerere alicui rei propter se ipsam;
+              uti vero id quod in usum venerit referre ad obtinendum illud, quo
+              fruendum est; alias abuti est, non uti. Nam usus illicitus abusus
+              vel abusio nominari debet
+            </quote>
+
+          </cit>.
+        </p>
+        <p xml:id="pll1d1c2-riqhud">
+          <cit>
+            <quote xml:id="pl-l1d1c2-Qd1e173" source="http://scta.info/resource/addc-l1-d1e155" synch="1-54">
+              Res igitur, quibus fruendum est, sunt Pater et Filius et
+              Spiritus Sanctus.
+
+              Eadem tamen Trinitas quaedam summa res est
+              communisque omnibus fruentibus ea, si tamen res dici debet et
+              non rerum omnium causa, si tamen et causa. Non enim facile potest
+              inveniri nomen, quod tantae excellentiae conveniat, nisi quod melius
+              dicitur Trinitas haec unus Deus
+            </quote>
+
+          </cit>.
+        </p>
+        <p xml:id="pll1d1c2-raqiec">
+          Res autem, quibus utendum est, mundus est et in eo creata.
+        </p>
+        <p xml:id="pll1d1c2-uaitac">
+          Unde
+
+            Augustinus in eodem
+          :
+          <cit>
+            <quote xml:id="pl-l1d1c2-Qd1e197" source="http://scta.info/resource/addc-l1-d1e143">
+              Utendum est hoc mundo,
+              non fruendum, ut
+              <cit>
+                <quote xml:id="pl-l1d1c2-Qd1e201" source="http://scta.info/resource/rom1_20">
+                  invisibilia Dei per ea quae facta sunt,
+                  intellecta conspiciantur
+                </quote>
+
+              </cit>,
+              id est,
+              ut de temporalibus aeterna capiantur
+            </quote>
+
+          </cit>.
+        </p>
+        <p xml:id="pll1d1c2-iieipp">
+          Item in eodem:
+          <cit>
+            <quote xml:id="pl-l1d1c2-Qd1e221" source="http://scta.info/resource/addc-l1-d1e349">
+              In omnibus rebus illae tantum sunt, quibus
+              fruendum est, quae aeternae et incommutabiles sunt; ceteris
+              autem utendum est, ut ad illarum perfruitionem perveniatur
+            </quote>
+
+          </cit>.
+        </p>
+        <p xml:id="pll1d1c2-uaiqfe">
+          Unde
+
+            Augustinus
+            in libro X
+            De Trinitate
+          :
+          <cit>
+            <quote xml:id="pl-l1d1c2-Qd1e243" source="http://scta.info/resource/adt-l10-d1e1166">
+              Fruimur
+              cognitis, in quibus ipsis propter se voluntas delectata conquiescit;
+              utimur vero eis quae ad aliud referimus, quo fruendum est
+            </quote>
+
+          </cit>.
+        </p>
+      </div>
+      <div xml:id="pl-l1d1c3">
+        <head xml:id="pl-l1d1c3-Hd1e111">Liber 1, Distinctio 1, Caput 3</head>
+        <p xml:id="pll1d1c3-d1e3473">
+          Notandum vero, quod idem
+
+            Augustinus in libro X De Trinitate
+          ,
+          aliter quam supra accipiens uti et frui, sic dicit
+          <cit>
+            <quote xml:id="pll1d1c3-Qd1e3485" source="http://scta.info/resource/adt-l10-d1e1178">
+              Uti est
+              assumere aliquid in facultatem voluntatis; frui autem est uti cum
+              gaudio non adhuc spei, sed iam rei: ideoque omnis, qui fruitur,
+
+              utitur; assumit enim aliquid in facultatem voluntatis cum fine delectationis.
+
+              Non autem omnis, qui utitur, et fruitur; si id quod in
+              facultatem voluntatis assumit, non propter ipsum, sed propter aliud
+              appetivit.</quote>
+
+          </cit>
+        </p>
+
+        <p xml:id="pll1d1c3-d1e3498">Et attende, quia videtur Augustinus dicere, illos frui tantum,
+          qui in re gaudent, non iam in spe; et ita in hac vita non
+          videmur frui, sed tantum uti, ubi gaudemus in spe, cum supra
+          dictum sit, frui esse amore inhaerere alicui rei propter se, qualiter
+          etiam hic multi adhaerent Deo.</p>
+
+        <p xml:id="pll1d1c3-d1e3504">Haec ergo, quae sibi contradicere videntur, sic determinamus
+          dicentes, nos et hic et in futuro frui, sed ibi proprie et perfecte
+          et plene, ubi per speciem videbimus quo fruemur;
+
+          hic autem, dum
+          in spe ambulamus, fruimur quidem, sed non adeo plene.</p>
+
+        <p xml:id="pll1d1c3-d1e3507">Unde
+
+                        Augustinus in libro X De Trinitate:
+          <cit>
+            <quote xml:id="pll1d1c3-Qd1e3519" source="http://scta.info/resource/adt-l10">Fruimur cognitis, in quibus ipsis voluntas est.</quote>
+
+          </cit>
+        </p>
+        <p xml:id="pll1d1c3-d1e3533">
+          Item
+
+            in libro
+            De doctrina christiana
+
+          ait:
+          <cit>
+            <quote xml:id="pll1d1c3-Qd1e3542" source="http://scta.info/resource/addc-l1-d1e454">
+              Angeli illo
+              fruentes iam beati sunt, quo et nos frui desideramus;
+              et quantum in hac vita iam fruimur vel
+              <cit>
+                <quote xml:id="pll1d1c3-Qd1e3546" source="http://scta.info/resource/Icor13_12">
+                  per speculum vel in aenigmate
+                </quote>
+
+              </cit>,
+              tanto nostra peregrinationem
+              et tolerabilius sustinemus et ardentius finire cupimus
+            </quote>
+          </cit>.
+        </p>
+
+        <p xml:id="pll1d1c3-d1e3558">
+          Potest etiam dici, quod qui etiam fruitur in hac vita non tantum
+          habet gaudium spei, sed etiam rei, quia iam delectatur in eo
+          quod diligit, et ita iam rem aliquatenus tenet. Constat ergo, quia
+          Deo debemus frui, non uti.
+          <cit>
+            <quote xml:id="pll1d1c3-Qd1e3562" source="http://scta.info/resource/addc-l1-d1e503">
+              Illo enim, ut ait Augustinus,
+              frueris, quo efficieris beatus et in quo spem ponis, ut ad id pervenias
+            </quote>
+
+          </cit>.
+        </p>
+        <p xml:id="pll1d1c3-d1e3575">
+          De hoc idem ait
+
+            in libro De doctrina christiana
+          :
+          <cit>
+            <quote xml:id="pll1d1c3-Qd1e3585" source="http://scta.info/resource/addc-l1-d1e476">
+              Dicimus
+              ea re frui nos, quam diligimus propter se, et ea re nobis
+              fruendum esse tantum, qua efficimur beati; ceteris vero utendum
+            </quote>
+
+          </cit>.
+          Frequenter tamen
+          <cit>
+            <quote xml:id="pll1d1c3-Qd1e3599" source="http://scta.info/resource/addc-l1-d1e503">
+              dicitur frui cum delectatione uti. Cum enim
+              adest quod diligitur, etiam delectationem secum gerit. Si tamen per
+              eam transieris, et a illud, ubi permanendum est, eam retuleris,
+              uteris ea et abusive, non proprie diceris frui. Si vero inhaeseris
+              atque permanseris, finem in ea ponens laetitiae tuae, tunc vere et
+              proprie frui dicendus es; quod non est faciendum nisi in illa Trinitate,
+              id est in summo et incommutabili bono
+            </quote>
+
+          </cit>.
+        </p>
+        <p xml:id="pll1d1c3-d1e3612">
+          Cum autem homines, qui fruuntur et utuntur aliis rebus, res
+          aliquae sint, quaeritur
+          <cit>
+            <quote xml:id="pll1d1c3-Qd1e3616" source="http://scta.info/resource/addc-l1-d1e349">
+              utrum frui se debeant, an uti, an utrumque
+            </quote>
+
+          </cit>.
+        </p>
+        <p xml:id="pll1d1c3-d1e3626">
+          Ad quod sic respondet
+
+            Augustinus
+            in libro
+
+            De doctrina christiana
+          :
+          <cit>
+            <quote xml:id="pll1d1c3-Qd1e3638" source="http://scta.info/resource/addc-l1-d1e349">
+              Si propter se homo diligendus est, fruimur eo; si
+              propter aliud, utimur eo: videtur autem mihi propter aliud diligendus.
+              Quod enim propter se diligendum est, in eo constituitur
+
+              beata vita, cuius etiam spes hoc tempore consolatur. In homine
+              autem spes ponenda non est, quia
+              <cit>
+                <quote xml:id="pll1d1c3-Qd1e3642" source="http://scta.info/resource/ier17_5">
+                  maledictus est
+                </quote>
+
+              </cit>
+              qui hoc facit.
+              Ergo si liquide advertas, nec seipso quisquam frui debet, quia non
+              se debet diligere propter se, sed propter illud quo fruendum est
+            </quote>
+
+          </cit>.
+        </p>
+        <p xml:id="pll1d1c3-d1e3661">
+          Huic autem contrarium videtur quod
+
+            Apostolus
+            Ad philemonem
+
+          loquens ait:
+          <cit>
+            <quote xml:id="pll1d1c3-Qd1e3672" source="http://scta.info/resource/phm1_20">
+              Ita, frater, ego te fruar in Domino
+            </quote>
+
+          </cit>.
+        </p>
+        <p xml:id="pll1d1c3-d1e3680">
+          Quod ita determinat Augustinus:
+          <cit>
+            <quote xml:id="pll1d1c3-Qd1e3687" source="http://scta.info/resource/addc-l1-d1e503">
+              Si dixisset tantum
+              te fruar, et non addidisset in Domino, videretur finem dilectionis
+              ac spem constituisse in eo; sed quia illud addidit, in Domino se
+              finem posuisse eodemque frui significavit
+            </quote>
+
+          </cit>.
+          <cit>
+            <quote xml:id="pll1d1c3-Qd1e3710" source="http://scta.info/resource/addc-l1-d1e503">
+              Cum enim, ut
+
+              idem Augustinus ait,
+              homine in Deo frueris, Deo potius quam
+              homine frueris
+            </quote>
+
+          </cit>.
+        </p>
+        <p xml:id="pll1d1c3-d1e3728">
+          Sed cum Deus diligat nos, ut frequenter Scriptura dicit, quae
+          eius dilectionem erga nos multum commendat, quaerit
+          Augustinus,
+          quomodo diligit an ut utens, an ut fruens, et procedit ita:
+          <cit>
+            <quote xml:id="pll1d1c3-Qd1e3735" source="http://scta.info/resource/addc-l1-d1e476">
+              Si fruitur, eget bono nostro, quod nemo sanus dixerit
+            </quote>
+          </cit>,
+          ait enim Propheta
+          <cit>
+            <quote xml:id="pll1d1c3-Qd1e3739" source="http://scta.info/resource/ps15_2">
+              Bonorum meorum non indiges
+            </quote>
+          </cit>.
+
+          <cit>
+            <quote xml:id="pl-l1d1c3-Qd1e410" source="http://scta.info/resource/addc-l1-d1e476">
+              Omne enim bonum
+              nostrum vel ipse est, vel ab ipso est
+            </quote>
+          </cit>:
+          <cit>
+            <quote xml:id="pl-l1d1c3-Qd1e417" source="http://scta.info/resource/addc-l1-d1e476 http://scta.info/resource/addc-l1-d1e487">
+              non ergo fruitur nobis, sed
+              utitur. Si enim nec fruitur nobis nec utitur, non invenio, quomodo
+              diligat nos.
+
+              Neque tamen sic utitur nobis, ut nos aliis rebus. Nos
+              enim res, quibus utimur, ad id referimus, ut Dei bonitate perfruamur:
+              Deus vero ad suam bonitatem usum nostrum refert: ille enim
+              miseretur nostri propter suam bonitatem, nos autem nobis invicem
+              propter illius bonitatem; ille nostri miseretur, ut se perfruamur,
+              nos vero nostri invicem miseremur, ut illo perfruamur. Cum enim
+              nos alicuius miseremur et alicui consulimus, ad eius quidem facimus
+              utilitatem eamque intuemur, sed et nostra fit consequens, cum
+              misericordiam, quam aliis impedimus, non relinquit Deus sine
+              mercede. Haec autem merces summa est, ut ipso perfruamur
+            </quote>
+
+          </cit>.
+        </p>
+        <p xml:id="pll1d1c3-d1e3748">Item:
+          <cit>
+            <quote xml:id="pll1d1c3-Qd1e3752">Quia bonus est, sumus, et inquantum sumus, boni
+              sumus. Porro quia etiam iustus est, non impune mali sumus, et
+              in quantum mali sumus, in tantum etiam minus sumus. Ille igitur
+              usus, quo nobis utitur Deus, non ad eius, sed ad nostram utilitatem
+              refertur, ad eius vero tantummodo bonitatem.</quote>
+
+          </cit>
+        </p>
+        <p xml:id="pll1d1c3-d1e3760">Hic considerandum est, utrum virtutibus sit utendum, an
+          fruendum.</p>
+        <p xml:id="pll1d1c3-d1e3763">Quibusdam videtur, quod eis sit utendum et non fruendum,
+          et hoc confirmant auctoritate Augustini, qui, ut praetaxatum
+          est, dicit, non esse fruendum nisi Trinitate, id est, summo et incommutabili
+          bono.</p>
+        <p xml:id="pll1d1c3-d1e3770">Item dicunt, ideo non esse fruendum
+
+          eis, quia propter se
+          amandae non sunt, sed propter aeternam beatitudinem. Illud autem,
+          quo fruendum est, propter se amandum est.</p>
+
+        <p xml:id="pll1d1c3-d1e3775">Sed quod virtutes propter se amandae non sint, immo propter
+          solam beatitudinem, probant auctoritate
+                        Augustini, qui in libro
+            XIII De Trinitate
+                     contra quosdam ait:
+          <cit>
+            <quote xml:id="pll1d1c3-Qd1e3786" source="http://scta.info/resource/adt-l13">Forte virtutes, quas
+              propter solam beatitudinem amamus, sic persuadere nobis audent,
+              ut ipsam beatitudinem non amemus; quod si faciunt, etiam ipsas
+              utique amare desistimus, quando illam, propter quam solam istas
+              amavimus, non amamus.</quote>
+
+          </cit>
+          Ecce his verbis videtur Augustinus
+          ostendere, quod virtutes non propter se, sed propter solam beatitudinem
+          amandae sint. Quod si ita est, ergo eis fruendum non est.</p>
+        <p xml:id="pll1d1c3-d1e3797">Aliis vero contra videtur, scilicet quod eis fruendum sit, quia
+          propter se petendae et amandae sunt. Et hoc confirmant auctoritate
+          Ambrosii, qui ait super illum locum Epistolae ad Galatas:
+          <cit>
+            <quote xml:id="pll1d1c3-Qd1e3807" source="http://scta.info/resource/gal5_22">Fructus autem spiritus est caritas, gaudium, pax, patientia</quote>
+
+          </cit>
+          etc.:
+          <cit>
+            <quote xml:id="pll1d1c3-Qd1e3816">Haec non nominat opera, sed fructus, quia propter
+              se petenda sunt.</quote>
+
+          </cit>
+          Si vero propter se petenda sunt, ergo propter se amanda.
+        </p>
+        <p xml:id="pll1d1c3-d1e3824">Nos vero harum quae videntur auctoritatum repugnantiam
+          de medio eximere cupientes, dicimus, quod virtutes propter se
+          petendae et amandae sunt, et tamen propter solam beatitudinem.
+          Propter se quidem amandae sunt, quia delectant sui possessores
+          sincera et sancta delectatione et in eis
+
+          pariunt gaudium spirituale.
+          Verumtamen non est hic consistendum, sed ultra gradiendum. Non
+          hic haereat dilectionis gressus, neque hic sit dilectionis terminus,
+          sed referatur hoc ad illud summum bonum, cui soli omnino inhaerendum
+          est, quia illud propter se tantum amandum est, et ultra
+          illud nihil quaerendum est; illud est enim supremus finis.</p>
+
+        <p xml:id="pll1d1c3-d1e3827">Ideo Augustinus dicit, quo eas diligimus propter solam
+          beatitudinem, non quin eas propter se diligamus, sed quia id ipsum,
+          quod eas diligimus, referimus ad illud summum bonum, cui soli
+
+          inhaerendum est, et in eo permanendum finique laetitiae ponendus;
+          quare virtutibus non est fruendum.</p>
+
+        <p xml:id="pll1d1c3-d1e3836">Sed dicet aliquis:
+          <cit>
+            <quote source="http://scta.info/resource/addc-l1-d1e143" synch="1-11">
+              Frui est amore inhaerere alicui rei propter
+              se ipsam
+            </quote>
+
+          </cit>,
+          ut praedictum est; si ergo virtutes propter se amandae
+          sunt, et eis fruendum est.
+        </p>
+
+        <p xml:id="pll1d1c3-d1e3839">Ad quod dicimus: In illa descriptione, ubi dicitur propter se
+          ipsam, intelligendum est tantummodo, ut scilicet ametur propter
+          se ipsam tantum, ut non referatur ad aliud, sed ibi ponatur finis,
+          ut supra ostendit Augustinus dicens:
+          <cit>
+            <quote xml:id="pll1d1c3-Qd1e3846">Si inhaeseris atque
+              permanseris, finem ponens laetitiae, tunc vere et proprie frui dicendus
+              es. Quod non est faciendum nisi in illa Trinitate, id est
+              summo et incommutabili bono.</quote>
+
+          </cit>
+          Utendum est ergo virtutibus et
+          per eas fruendum summo bono; ita et de voluntate bona
+
+          dicimus.
+        </p>
+        <p xml:id="pll1d1c3-d1e3855">Unde
+                        Augustinus in libro X De Trinitate
+                     ait:
+          <cit>
+            <quote xml:id="pll1d1c3-Qd1e3866" source="http://scta.info/resource/adt-l10">Voluntas
+              est per quam fruimur;</quote>
+
+          </cit>
+          ita et per virtutes fruimur, non eis, nisi
+          forte aliqua virtus sit Deus, ut caritas, de qua post tractabitur.
+        </p>
+        <p xml:id="pll1d1c3-d1e3874">
+          <cit>
+            <quote xml:id="pll1d1c3-Qd1e3878">Omnium igitur, quae dicta sunt, ex quo de rebus specialiter
+              tractavimus, haec summa est:</quote>
+
+          </cit>
+          quo aliae sunt, quibus fruendum,
+          aliae, quibus utendum, aliae, quae fruuntur et utuntur; et inter
+          eas, quibus utendum est, etiam quaedam sunt, per quas fruimur,
+          ut virtutes et potentiae animi, quae sunt naturalia bona. De
+          quibus omnibus, antequam tractemus de signis, agendum est, ac
+          primum de rebus, quibus fruendum est, scilicet de sancta atque
+          individua Trinitate.
+        </p>
+      </div>
+      <div xml:id="pl-l2d1c1">
+        <head xml:id="pll2d1c1-Hd1e3508">Liber 2, Distinctio 1, Caput 1</head>
+        <head xml:id="pll2d1c1-Hd1e3511" type="questionTitle">Quod unum eset principium, non plura</head>
+        <p xml:id="pll2d1c1-d1e3514">
+          <cit>
+            <quote xml:id="pll2d1c1-Qd1e3518">Creationem rerum insinuans Scriptura Deum esse creatorem
+              initiumque temporis atque omnium visibilium vel invisibilium
+              creaturarum in primordio sui, ostendit</quote>
+
+          </cit>
+          dicens:
+          <cit>
+            <quote xml:id="pll2d1c1-Qd1e3527" source="http://scta.info/resource/gen1_1">In principio
+              creavit Deus caelum et terram.</quote>
+
+          </cit>
+          <cit>
+            <quote xml:id="pll2d1c1-Qd1e3536">His etenim verbis Moyses
+              Spiritu Dei afflatus, in uno principio a Deo creaotre mundum
+              factum refert,</quote>
+
+          </cit>
+          elidens errorem quorundam, plura sine principio
+
+          fuisse principia opinantium.
+          <cit>
+            <quote xml:id="pll2d1c1-Qd1e3550">
+                            Plato namque tria initia aestimavit,
+              Deum scilicet et exemplar et materiam, et ipsa increata sine
+              principio, et Deum quasi artificem, non creatorem.</quote>
+
+          </cit>
+          Creatore enim
+          est, qui de nihilo aliqua facit.</p>
+      </div>
+      <div xml:id="pl-l2d1c2">
+        <head xml:id="pll2d1c2-Hd1e3508">Liber 2, Distinctio 1, Caput 2</head>
+        <head xml:id="pll2d1c2-Hd1e3511" type="questionTitle">Quid sit create, quid facere</head>
+        <p xml:id="pll2d1c2-d1e3514">Et create proprie est de nihilo aliquid facere; facere vero non
+          modo de nihilo aliquid operari, sed etiam de materia: unde et homo
+          vel Angelus dicitur aliqua facere, sed non creare, vocaturque factor
+          sive artifex, sed non creator. Hoc enim nomen soli Deo proprie
+          congruit, qui et de nihilo quaedam, et de aliquo aliqua facit.
+          Ipse est ergo creator et opifex et facor; sed creationis nomen
+          sibi propire retinuit, alia vero etiam creaturis communicavit. In
+          Scriptura tamen saepe screator accipitur tanquam factor, et creare
+          sicut facere, sine distinctione significationis.</p>
+
+      </div>
+      <div xml:id="pl-l2d1c3">
+        <head xml:id="pll2d1c3-Hd1e3508">Liber 2, Distinctio 1, Caput 3</head>
+        <head xml:id="pll2d1c3-Hd1e3511" type="questionTitle">Secundum quam rationem dicuntur de Deo huiusmodi verba: agere, facere</head>
+        <p xml:id="pll2d1c3-d1e3514">Verumtamen sciendum est, haec verba, scilicet facere, creare
+          agere, et huiusmodi alia, de Deo non posse dici secundum eam
+          rationem qua dicuntur de creaturis.
+          <cit>
+            <quote xml:id="pll2d1c3-Qd1e3518">Quippe cum dicimus, eum
+              aliquid facere, non aliquem in operando motum illi intelligimus
+              inesse, vel aliquam in laborando passionem, sicut nobis solet solet accidere,
+              sed eius sempiternae voluntatis novum aliquem significamus
+              effectum, id est aeterna eius voluntate aliquid noviter existere.
+              Cum ergo dicitur aliquid facere, tale est ac si dicatur, iuxta eius
+              voluntatem vel per eius voluntatem aliquid noviter contingere vel
+
+              esse, ut in ipso nihil novi contingat, sed novum aliquid, sicut in
+              eius aeterna fuerat voluntate, fiat sine aliqua sui mutatione sive
+              motione. Nos vero operando mutari dicimur, quia movemur; non
+              enim sine motu aliquid facimus.</quote>
+
+          </cit>
+          Deus ergo facere vel agere aliquid
+          dicitur, quia causa est rerum noviter existentium, dum eius
+          voluntate res novae esse incipiunt, quae ante non erant absque
+          ipsius agitatione; ut actus proprie dici non queat, cum videlicet
+          actus omnis in motu consitat, in Deo autem motus nullus est. Sicut
+          ergo ex calore solis aliqua fieri contingit, nulla tamen in ipso vel
+          in ipsius calore facta motione vel mutatione, ita ex Dei voluntate
+          nova habent esse sine mutatione auctoris, qui est unum est solum
+          principium omnium. Aristoteles vero duo principia dixit, scilicet
+          materiam et speciem, et tertium, operatorium dictum; mundum
+          quoque semper esse et fuisse</p>
+        <p xml:id="pll2d1c3-d1e3531">Horum ergo et similium errorem Spiritus sanctus evacuans,
+          veritatisque disciplinam tradens, Deum in principio temporum mundum
+          creasse et ante tempora aeternaliter exstitisse significat, ipsius
+          aeternitatem et omnipotentiam commendans; cui voluisse, facere
+          est, quia, ut praediximus, ex eius voluntate et bonitate novae
+          res existunt.</p>
+        <p xml:id="pll2d1c3-d1e3534">
+          <cit>
+            <quote xml:id="pll2d1c3-Qd1e3538">Credamus igitur, rerum creaturarum caelestium vel terrestrium,
+              visibilium vel invisibilium causam non esse nisi bonitatem
+              Creatoris, qui est Deus unus et verus. Cuius tanta est bonitas,
+              ut summe bonus, beatitudinis suae quae aeternaliter beatus est, alios
+              velit esse participes; quam videt et communicari posset et minui
+              omnino non posse. Illud igitur bonum, quod ipse erat et quo beatus
+              erat, sola bonitate, non necessitate aliis communicari voluit,
+              quia summe boni erat prodesse vell, et omnipotentissimi nocere
+              non posse.</quote>
+
+          </cit>
+        </p>
+      </div>
+      <div xml:id="pl-l2d1c4">
+        <head xml:id="pll2d1c4-Hd1e3508">Liber 2, Distinctio 1, Caput 4</head>
+        <head xml:id="pll2d1c4-Hd1e3511" type="questionTitle">Quare rationalis creatura facta sit, id est homo vel Angelus</head>
+        <p xml:id="pll2d1c4-d1e3514">
+          <cit>
+            <quote xml:id="pll2d1c4-Qd1e3518">Et quia non valet eius beatitudinis particeps existere aliquis,
+              nisi per intelligentiam (quae quanto magis intelligitur, tanto
+              plenius habetur) fecti Deus rationalem creaturam, quae summum
+              bonum intelligeret, et intelligendo ameret, et amando possideret, et
+              possidendo frueretur; eamque hoc modo distinxit, ut pars in sui
+              puritate permaneret nec corpori uniretur, scilicet Angeli; pars corpori
+              iungeretur, scilicet animae. Distincta est itaque rationalis
+              creatura in incorpoream et corpoream; et incorporea quidem Angelus,
+              corporea vero homo vocatur, ex anima rationali et carne
+              subsistens. Conditio ergo rationalis creaturae primam causam habuit
+              Dei bonitatem.</quote>
+
+          </cit>
+        </p>
+        <p xml:id="pll2d1c4-d1e3526">
+          Ideoque, si quaeritur, quare creatus sit homo vel Angelus,
+          brevi sermone responderi potest: propter bonitatem eius.
+          Unde
+
+            Augustinus in libro
+            De doctrina christiana
+          :
+          <cit>
+            <quote xml:id="pll2d1c4-Qd1e3530" source="http://scta.info/resource/addc-l1-d1e487">
+              Quia bonus est Deus, sumus;
+              et in quantum sumus, boni sumus
+            </quote>
+
+          </cit>.
+        </p>
+        <p xml:id="pll2d1c4-d1e3546">
+          <cit>
+            <quote xml:id="pll2d1c4-Qd1e3550">Et si quaeritur, ad quid est creata creatura rationalis, respondetur:
+              ad laudandum Deum, ad serviendum ei, ad fruendum
+              eo; in quibus proficit ipsa, non Deus. Deus enim, perfectus et
+              summa bonitate plenus, nec augeri potest, nec minui. Quod ergo
+              rationalis creatura facta est a Deo, referendum est ad Creatoris
+              bonitatem et ad creaturae utilitatem.</quote>
+
+          </cit>
+          <cit>
+            <quote xml:id="pll2d1c4-Qd1e3559">Cum ergo quaeritur,
+              quare vel ad quid facta sit rationalis creatura, brevissime responderi
+              potest: propter Dei bonitatem, et suam utiltiatem; utile
+              nempe est ipsi servire Deo, et frui eo.</quote>
+
+          </cit>
+          <cit>
+            <quote xml:id="pll2d1c4-Qd1e3568">Factus ergo Angelus
+              sive homo propter Deum dicitur esse, non quia creator Deus
+              et summe beatus alterutrius indiguerit officio, qui
+              <cit>
+                <quote xml:id="pll2d1c4-Qd1e3572" source="http://scta.info/resource/ps15_2">bonorum nostrorum
+                  non eget,</quote>
+
+              </cit>
+              sed ut serviret ei ac eo frueretur, cui servire
+              regnare est. In hoc enim proficit serviens, non ille cui servitur.</quote>
+
+          </cit>
+          <cit>
+            <quote xml:id="pll2d1c4-Qd1e3588">Et sicut factus est homo propter Deum, id est ut ei serviret,
+              ita mundus factus est propter hominem, scilicet ut ei serviret. Positus
+              est ergo homo in medio, ut et ei serviretur, et ipse serviret;
+              ut acciperet utriusque, et reflueret totum ad bonum hominis, et
+              quod accepit obsequium, et quod impendit. Ita enim voluit Deus
+              sibi ab homine serviri, ut ea servitute non Deus, sed homo serviens
+              iuvaretur; et voluit, ut mundus serviret homini, et exinde
+              similiter iuvaretur homo. Totum igitur bonum hominis erat, et
+              quod factum est propter ipsum et propter quod factus est ipse.
+              <cit>
+                <quote xml:id="pll2d1c4-Qd1e3592" source="http://scta.info/resource/Icorr3_22">Omnia enim, ut ait Apostolus, nostra sunt</quote>
+
+              </cit>
+              scilicet superiora
+              et aequalia et inferiora. Superiora quidem nostra sunt ad
+              perfruendum, ut Deus-Trinitas; aequalia ad convivendum, scilicet
+              Angeli, qui, etsi modo nobis superiores, in futuro erunt aequales;
+              qui etiam modo nostri sunt, quia ad usum nobis sunt, sicut
+              res deminorum dicuntur esse famulorum, non dominio, sed quia
+              sunt ad usum eorum. Ipsique Angeli in quibusdam Scripturae
+              locis nobis servire dicuntur, dum propter nos in ministerium
+              mittuntur.</quote>
+
+          </cit>
+        </p>
+      </div>
+      <div xml:id="pl-l2d1c5">
+        <head xml:id="pll2d1c5-Hd1e3508">Liber 2, Distinctio 1, Caput 5</head>
+        <head xml:id="pll2d1c5-Hd1e3511" type="questionTitle">Quomodo dicitur homo factus propter reparationem angelici casus.</head>
+        <p xml:id="pll2d1c5-d1e3514">De homine quoque in Scriptura interdum repritur, quod
+          factus sit propter reparationem angelicase ruinae. Quod non ita est
+          intelligendum, quasi non fuisset homo factus, si non peccasset Angelus;
+          sed quia inter alias causas, ut praecipuas, haec etiam
+          nonnulla exstitit. Nostra igitur sunt superiora et aequalia; nostra
+          sunt etiam inferiora, quia ad serviendum nobis facta.</p>
+      </div>
+      <div xml:id="pl-l2d1c6">
+        <head xml:id="pll2d1c6-Hd1e3508">Liber 2, Distinctio 1, Caput 6</head>
+        <head xml:id="pll2d1c6-Hd1e3511" type="questionTitle">Quare ita homo sit institutus, ut unita anima corpori sit.</head>
+        <p xml:id="pll2d1c6-d1e3514">Solet etiam quaeri, cum maioris dignitatis esse videretur anima,
+          si absque corpore permansisset, cur unita sit corpori.</p>
+        <p xml:id="pll2d1c6-d1e3517">Ad quod primo dici potest quia Deus voluit, et voluntatis
+          eius causa quaerenda non est.</p>
+        <p xml:id="pll2d1c6-d1e3520">Secundo autem dici potest, quod ideo Deus voluit eam corpori
+          uniri, ut in humana conditione ostenderet novum exemplum
+          beatae unionis, quae est inter Deum et spiritum, in qua diligitur
+          <cit>
+            <quote xml:id="pll2d1c6-Qd1e3524" source="http://scta.info/resource/mt22_37"> ex toto corde, et videtur facie ad faciem.</quote>
+
+          </cit>
+          Putaret enim creatura,
+          se non posse uniri suo Creatori tanta propinquitate, ut eum
+          tota mente diligeret et cognosceret, nisi videret spiritum, qui est
+          excellentissima creatura, tam infimae, id est carni quae de terra
+          est, in tanta dilectione uniri, ut non valeat arctari ad hoc, ut velit
+          eam relinquere, sicut Apostolus ostendit dicens:
+          <cit>
+            <quote xml:id="pll2d1c6-Qd1e3538" source="http://scta.info/resource/IIcor5_4">Nolumus
+              corpore exspoliari, sed supervestiri;</quote>
+
+          </cit>
+          per quod ostenditur, spiritum
+          creatum Spiritui increato ineffabili amore uniri.
+        </p>
+        <p xml:id="pll2d1c6-d1e3547">
+          <cit>
+            <quote xml:id="pll2d1c6-Qd1e3551">Pro exemplo igitur futurae societatis, quae inter Deum et
+              spiritum rationalem in glorificatione eiusdem perficienda erat, animam
+              corporeis indumentis et terrenis mansionibus copulavit, inteamque
+              materiam fecit ad vitae sensum vegetare, ut sciret homo,
+              quia, si potuit Deus tam disparem naturam corporis et animae in
+              foederationem unam et in amicitiam tantam coniungere, nequaquam
+              ei impossibile futurum, rationalis creaturae humilitatem, licet
+              longe inferiorem, ad suae gloriae participationem sublimare. Quia
+              ergo, pro exemplo, rationalis spiritus in parte usque ad consortium
+              terreni corporis humiliatus est, ne forte in hoc nimis depressus
+              videretur, addidit Dei providentia, ut postmodum cum eodum corpore
+              glorificato ad consortium illorum, qui in sua perstiterant
+              puritate, sublimaretur, ut quod minus ex dispensatione Creatoris
+              sui acceperat conditus, postmodum per gratiam eiusdem acciperet
+
+              glorificatus. Sic ergo conditor Deus rationales spiritus varia sorte
+              pro arbitrio voluntatis suae disponens, illis quos in sua puritate
+              reliquerat, sursum in caelo mansionem; illis vero quos corporibus
+              terrenis sociaverat, deorsum in terra habitationem constituit;
+              utrisque regulam proponens obedientiae, quatenus et illi ab eo
+              ubi erant, non caderent, et isti ab eo ubi erant, ad id ubi non
+              erant ascenderent. Fecit itaque Deus hominem ex duplici substantia,
+              corpus de terra fingens, animam vero de nihil faciens.</quote>
+
+          </cit>
+          Ideo etiam unitate sunt animae corporibus, ut in eis Deo famulantes
+          maiorem mereantur coronam.</p>
+        <p xml:id="pll2d1c6-d1e3561">Ex prameissis apparet, rationalem creaturam in angelicam
+          et humanam fuisse distinctam, quarum altera tota est spiritualis, id
+          est angelica; altera, id est humana, ex parte spiritualis, et ex parte
+          corporalis.</p>
+        <p xml:id="pll2d1c6-d1e3564">Cum itaque de his tractandum sit, scilicet de spirituali et
+          corporali creatura, de rationali et de non rationali, primo de
+          rationali et spirituali, id est de Angelis, agendum videtur, ut a
+          contuitu Creatoris ad cognitionem creaturae dignioris ratio nostra
+          intendat; deinde ad considerationem corporeae, tam illius quae
+          est rationalis, quam illius quae non est rationalis, descendat, ut
+          Trinitatis increatae sacramentum tripartitae creaturae eique conretorum
+          atque contingentium sequatur documentum.</p>
+
+      </div>
+      <div xml:id="pl-l3d1c1">
+        <head xml:id="pl-l3d1c1-Hd1e111">Cap. I.</head>
+        <head xml:id="pl-l3d1c1-Hd1e114" type="question-title">Quare Filius carnem assumsit, non Pater vel Spiritus
+          sanctus.</head>
+        <p xml:id="pl-l3d1c1-d1e117">
+
+          Diligenter vero est annotandum, quare Filius, non Pater vel Spiritus sanctus, est
+          incarnatus: solus namque
+
+          Filius hominem assumsit. </p>
+        <p xml:id="pl-l3d1c1-d1e120"> Quod utique ordine congruo, atque alto Dei sapientia fecit consilio, ut Deus, qui in
+          sapientia sua mundum condiderat, secundum illud : <quote xml:id="pl-l3d1c1-Qd1e122" source="http://scta.info/resource/ps103_24">Omnia in
+            sapientia fecisti, Domine,</quote> in eadem <quote xml:id="pl-l3d1c1-Qd1e125" source="http://scta.info/resource/eph1_10">quae in caelis sunt et
+            quae in terris restauraret</quote>. Haec est mulier evangelica, quae <quote xml:id="pl-l3d1c1-Qd1e128" source="http://scta.info/resource/lc15_8">accendit lucernam, et drachmam decimam</quote>, quae perdita fuerat,
+          reperit, Sapientia scilicet Patris, quae testam humanae infirmitatis lumine suae
+          divinitatis accendit perditumque hominem reparavit, nomine regis et imagine insignitum. </p>
+        <p xml:id="pl-l3d1c1-d1e132"> Ideo etiam Filius missus est, et non Pater, quia congruentius mitti debebat qui est ab
+          alio, quam qui est a nullo; Filius autem a Patre est, Pater vero a nullo alio est. </p>
+        <p xml:id="pl-l3d1c1-d1e136"> Ut enim ait Augustinus in libro De
+            Trinitate: <quote xml:id="pl-l3d1c1-Qd1e144"> Non habet de quo sit </quote>. <quote xml:id="pl-l3d1c1-Qd1e147"> Sicut ergo Pater
+            genuit, Filius genitus est, ita congrue Pater misit, Filius missus est</quote>. <quote xml:id="pl-l3d1c1-Qd1e150">
+            Ab illo enim convenienter mittitur Dei Verbum, cuius est Verbum; ab illo mittitur, de
+            quo natum est; mittitur quod genitum est; Pater vero, qui misit a nullo est</quote>.
+          Ideoque Pater missus non est, ne, si mitteretur, ab alio esse putaretur. </p>
+        <p xml:id="pl-l3d1c1-d1e154"> Missus est ergo primo Filius, qui a solo Patre est; deinde etiam Spiritus sanctus, qui
+          est a Patre et Filio; sed Filius solus in carne missus est, non Spiritus sanctus, sicut
+          nec Pater. Quod ideo factum est, ut qui erat in divinitate Dei Filius, in humanitate
+          fieret hominis filius. Non Pater vel Spiritus sanctus carnem induit, ne alius in
+          divinitate esset Filius, alius in humanitate,
+
+          et ne idem esset Pater et Filius, si Deus
+          Paler de homine nasceretur. </p>
+        <p xml:id="pl-l3d1c1-d1e157"> Unde in Ecclesiasticis dogmatibus :
+          <quote xml:id="pl-l3d1c1-Qd1e162"> Non Pater carnem as- sumsit neque Spiritus sanctus, sed Filius tantum, ut qui erat
+            in divinitate Dei Filius, ipse fieret in homine hominis filius, ne filii nomen ad
+            alterum transiret, qui non esset aeterna nativitate filius. Dei ergo Filius hominis
+            factus est filius, natus secundum veritatem naturae ex Deo Dei Filius, et secundum
+            veritatem naturae ex homine hominis filius, ut veritas geniti non adoptione, non
+            appellatione, sed in utraque nativitate filii nomen nascendo haberet, et esset verus
+            Deus et verus homo unus filius. Non ergo duos Christos, neque duos filios, sed Deum et
+            hominem unum filium , quem propterea et unigenitum dicimus, manentem in duabus
+            substantiis, sicut ei naturae veritas contulit, non confusis naturis neque immixtis,
+            sicut Timotheani volunt, sed societate unitis</quote>. </p>
+        <p xml:id="pl-l3d1c1-d1e166"> Ecce habes, quare Filius, non Pater vel Spiritus sanctus, carnem assumserit. </p>
+      </div>
+      <div xml:id="pl-l3d1c2">
+        <head xml:id="pl-l3d1c2-Hd1e111">Cap. II</head>
+        <head xml:id="pl-l3d1c2-Hd1e114" type="question-title">Utrum Pater vel Spiritus sanctus potuerit incarnari.</head>
+        <p xml:id="pl-l3d1c2-d1e117"> Si vero quaeritur, utrum Pater vel Spiritus sanctus incarnari potuerit, vel etiam modo
+          possit, sane responderi potest: et potuisse olim et posse nunc carnem sumere et hominem
+          fieri tam Patrem quam Spiritum sanctum. Sicut enim Filius homo factus est, ita Pater vel
+          Spiritus sanctus potuit et potest. </p>
+      </div>
+      <div xml:id="pl-l3d1c3">
+        <head xml:id="pl-l3d1c3-Hd1e111">Cap. III.</head>
+        <head xml:id="pl-l3d1c3-Hd1e114" type="question-title">An Filius, qui tantum carnem accepit, aliquid fecerit, quod non
+          Pater vel Spiritus sanctus.</head>
+        <p xml:id="pl-l3d1c3-d1e117"> Sed forte aliqui dicent: Cum indivisa sint opera Trinitatis, si Filius carnem assumsit,
+          tunc Paler et Spiritus sanctus; quia si Filius carnem assumsit, nec Pater hoc fecit vel
+          Spiritus sanctus, non omne quod facit Filius, facit Pater et Spiritus sanctus; at omnia
+          simul Pater et Filius et amborum Spiritus pariter et concorditer operantur. </p>
+        <p xml:id="pl-l3d1c3-d1e120"> Ad quod dicimus, quia nihil operatur Filius sine Patre et Spiritu sancto, sed una est
+          horum trium operatio indivisa et indissimilis, et tamen Filius, non Pater vel Spiritus
+          sanctus, carnem assumsit. </p>
+        <p xml:id="pl-l3d1c3-d1e123"> Ipsam tamen carnis assumtionem Trinitas operata est, sicut Augustinus dicit in libro De fide ad Petrum : <quote xml:id="pl-l3d1c3-Qd1e131">Reconciliati
+            sumus per solum Filium secundum carnem, sed non soli Filio secundum deitatem. Trinitas
+            enim nos sibi reconciliavit, per hoc quod solum Verbuin-carnem ipsa Trinitas
+            fecit</quote>. </p>
+        <p xml:id="pl-l3d1c3-d1e136"> Trinitas igitur carnis assumtionem fecit, sed Verbo, non Patri vel Spiritui sancto. Si
+          enim Pater sibi, et Filius sibi, vel Pater Filio, et Filius Patri carnis assumtionem
+          operatus esset, iam non eadem esset operatio utriusque, sed divisa. Sed sicut
+          inseparabilis et indivisa est unitas substantiae trium, ut ait Augustinus in libro De Trinitate, ita et operatio; <quote xml:id="pl-l3d1c3-Qd1e144">non
+            tamen eandem Trinitatem natam de Virgine, crucifixam et sepultam catholici tractatores
+            docuerunt, sed tantummodo Filium; nec eandem Trinitatem in specie columbae descendisse
+            super Iesum, sed tantum Spiritum sanctum; nec eandem dixisse de caelo: <quote xml:id="pl-l3d1c3-Qd1e146">Tu es
+              Filius meus</quote>, sed tantum Patris vocem fuisse ad Filium factam, quamvis Pater et
+            Filius et Spiritus sanctus, sicut inseparabiles sunt, ita et inseparabiliter operentur.
+            Haec et mea fides est, quoniam haec est catholica fides </quote>. </p>
+        <p xml:id="pl-l3d1c3-d1e151"> Licet igitur solus Filius carnem assumserit, ipsam tamen incarnationem cum Patre et
+          Spiritu sancto operatus est. </p>
+      </div>
+      <div xml:id="pl-l4d1c1">
+        <head xml:id="pl-l4d1c1-Hd1e109">CAP. I</head>
+        <head xml:id="pl-l4d1c1-Hd1e112" type="question-title">De Sacramentis.</head>
+        <p xml:id="pl-l4d1c1-d1e115">
+          Samaritanus enim, vulnerato appropians, curationi eius Sacramentorum
+          alligamenta adhibuit, quia contra originalis peccati et actualis vulnera,
+          Sacramentorum remedia Deus instituit.
+        </p>
+        <p xml:id="pl-l4d1c1-d1e118">
+          De quibus quatuor primo consideranda occurrunt: quid sit
+          Sacramentum; quare institutum; in quibus consistat et conficiatur; et quae sit distantia
+          inter Sacramenta veteris et novae legis.
+        </p>
+      </div>
+      <div xml:id="pl-l4d1c2">
+        <head xml:id="pl-l4d1c2-Hd1e109">CAP. II</head>
+        <head xml:id="pl-l4d1c2-Hd1e112" type="question-title">Quid sit Sacramentum.</head>
+        <p xml:id="pl-l4d1c2-d1e115">
+          <cit>
+            <quote xml:id="pl-l4d1c2-Qd1e117" source="http://scta.info/resource/adcd-l10">
+              Sacramentum est sacrae rei signum </quote>
+
+          </cit>.
+          Dicitur tamen Sacramentum etiam sacrum secretum, sicut dicitur sacramentum deitatis, ut
+          Sacramentum sit sacrum signans et sacrum signatum; sed nunc agitur de Sacramento, secundum
+          quod est signum. </p>
+        <p xml:id="pl-l4d1c2-d1e124">
+          Item, <cit>
+            <quote xml:id="pl-l4d1c2-Qd1e126">
+              Sacramentum est
+              invisibilis gratiae visibilis forma
+            </quote>
+
+          </cit>.
+        </p>
+      </div>
+      <div xml:id="pl-l4d1c3">
+        <head xml:id="pl-l4d1c3-Hd1e109">CAP. III</head>
+        <p xml:id="pl-l4d1c3-d1e112">
+          <cit>
+            <quote xml:id="pl-l4d1c3-Qd1e114" source="http://scta.info/resource/addc-l2-d1e110">
+              Signum vero est res praeter
+              speciem, quam ingerit sensibus, aliud aliquid ex se faciens in cogitationem
+              venire
+            </quote>
+
+          </cit>.
+        </p>
+      </div>
+      <div xml:id="pl-l4d1c4">
+        <head xml:id="pl-l4d1c4-Hd1e109">CAP. IV</head>
+        <p xml:id="pl-l4d1c4-d1e112">
+          <cit>
+            <quote xml:id="pl-l4d1c4-Qd1e114" source="http://scta.info/resource/addc-l2-d1e115">
+              Signorum vero alia sunt
+              naturalia, ut fumus significans ignem; alia data
+            </quote>
+
+          </cit>;
+          et eorum quae data sunt,
+          quaedam sunt Sacramenta,
+          quaedam non:
+          omne enim Sacramentum est signum,
+          sed non e
+          converso.
+        </p>
+        <p xml:id="pl-l4d1c4-d1e118">
+          Sacramentum eius rei similitudinem gerit, cuius signum est.
+          <cit>
+            <quote xml:id="pl-l4d1c4-Qd1e120">
+              Si enim Sacramenta non haberent similitudinem rerum
+              quarum Sacramenta sunt, proprie Sacramenta non dicerentur
+            </quote>
+
+          </cit>.
+          Sacramentum enim
+          proprie dicitur quod ita signum est gratiae Dei et invisibilis gratiae forma, ut ipsius
+          imaginem gerat et causa existat. Non igitur significandi tantum gratia Sacramenta
+          instituta sunt, sed etiam sanctificandi.
+        </p>
+        <p xml:id="pl-l4d1c4-d1e124"> Quae enim significandi gratia tantum instituta sunt, solum
+          signa sunt, et non Sacramenta; sicut fuerunt sacrificia carnalia et observantiae
+          caerimoniales Veteris legis, quae nunquam poterant iustos facere offerentes; quia, ut ait
+
+                        Apostolus
+                    ,
+          <cit>
+            <quote xml:id="pl-l4d1c4-Qsheaec" source="http://scta.info/resource/hebr9_13">sanguis hircorum et taurorum et
+              cinis vitulae aspersus inquinatos sanctificabat ad emundationem carnis</quote>
+
+          </cit>, non
+          animae: nam inquinatio illa erat contactus mortui. </p>
+        <p xml:id="pl-l4d1c4-d1e127">Unde Augustinus:
+          <cit>
+            <quote xml:id="pl-l4d1c4-Qd1e132">
+              Nihil aliud intelligo inquinationem, quam Lex mundat, nisi
+              contactum mortui hominis, quem qui tetigerat,
+              <cit>
+                <quote xml:id="pl-l4d1c4-Qiesesd" source="http://scta.info/resource/num19_11">immundus erat septem diebus</quote>
+
+              </cit>;
+              sed
+              purificabatur secundum Legem die tertio et septimo, et mundus erat
+            </quote>
+
+          </cit>,
+          ut iam
+          intraret templum.
+        </p>
+        <p xml:id="pl-l4d1c4-d1e137">
+          Mundabant etiam interdum a corporali lepra illa legalia; sed
+
+          <cit>
+            <quote xml:id="pl-l4d1c4-Qneoaie" source="http://scta.info/resource/rom3_20">
+              nunquam ex operibus Legis aliquis iustificatus est
+            </quote>
+
+          </cit>,
+          ut ait
+
+            Apostolus
+          ,
+          etiam si in fide et caritate fierent.
+          Quare? quia imposuit ea
+          Deus in servitutem, non in justificationem,
+          et ut figura futuri essent,
+          volens ea sibi
+          potius offerri quam idolis.
+          Illa ergo signa erant,
+          sed tamen et Sacramenta,
+          licet minus
+          proprie in Scripturis saepe vocantur,
+          quia signa erant rei sacrae, quam utique non
+          praestabant.
+          Illa autem
+
+            Apostolus
+
+          <cit>
+            <quote xml:id="pl-l4d1c4-Qoaloal" source="http://scta.info/resource/rom3_20">opera Legis</quote>
+
+          </cit>
+          dicit quae tantum significandi gratia
+          vel in onus instituta sunt.
+        </p>
+      </div>
+      <div xml:id="pl-l4d1c5">
+        <head xml:id="pl-l4d1c5-Hd1e109">CAP. V</head>
+        <head xml:id="pl-l4d1c5-Hd1e112" type="question-title">Quare instituta sint
+          Sacramenta.</head>
+        <p xml:id="pl-l4d1c5-d1e115">
+          Triplici autem ex causa Sacramenta instituta sunt: propter humiliationem,
+          eruditionem, exercitationem.
+        </p>
+        <p xml:id="pl-l4d1c5-d1e119">
+          Propter humiliationem quidem, ut dum homo in sensibilibus rebus, quae
+          natura infra ipsum sunt, ex praecepto Creatoris se reverendo subiicit, ex hac humilitate
+          et obedientia Deo magis placeat et apud eum mereatur, cuius imperio, salutem quaerit in
+          inferioribus se, etsi non ab illis, sed per illa a Deo.
+        </p>
+        <p xml:id="pl-l4d1c5-d1e123">
+          Propter eruditionem etiam instituta sunt, ut per id quod foris in specie
+          visibili cernitur, ad invisibilem virtutem, quae intus est, agnoscendam mens erudiatur:
+          homo enim, qui ante peccatum sine medio Deum videbat, per peccatum adeo hebuit, ut nequeat
+          divina capere, nisi humanis excitatus.
+        </p>
+        <p xml:id="pl-l4d1c5-d1e128">
+          Propter exercitationem
+          similiter instituta sunt: quia, cum homo otiosus esse non possit, proponitur ei utilis et
+          salubris exercitatio in Sacramentis, qua vanam et noxiam declinet occupationem .
+          Non enim facile capitur a tentatore, qui bono vacat exercitio; unde
+
+            Hieronymus
+
+          monet:
+          <cit>
+            <quote xml:id="pl-l4d1c5-Qd1e136">
+              Semper aliquid operis facito,
+              ut te occupatum diabolus inveniat
+            </quote>
+
+          </cit>.
+          Sunt autem
+          exercitationum tres species: una ad aedificationem animae pertinet, altera ad corporis
+          fomentum, alia ad utriusque subversionem.
+        </p>
+        <p xml:id="pl-l4d1c5-d1e143">
+          Cum igitur absque Sacramentis, quibus non alligavit potentiam
+          suam Deus, homini gratiam donare posset, praedictis de causis Sacramenta instituit.
+        </p>
+        <p xml:id="pl-l4d1c5-d1e146">
+          Duo autem sunt, in quibus
+          Sacramentum consistit, scilicet verba et res: verba, ut invocatio Trinitatis; res, ut
+          aqua, oleum et huiusmodi.
+        </p>
+      </div>
+      <div xml:id="pl-l4d1c6">
+        <head xml:id="pl-l4d1c6-Hd1e109">CAP. VI</head>
+        <head xml:id="pl-l4d1c6-Hd1e112" type="question-title">
+          De differentia Sacramentorum veterum
+          et novorum.
+        </head>
+        <p xml:id="pl-l4d1c6-d1e115">
+          Iam videre restat distantiam Sacramentorum veterum et novorum,
+          ut Sacramenta vocemus quae antiquitus res sacras signabant, ut sacrificia et oblationes et
+          huiusmodi.
+        </p>
+        <p xml:id="pl-l4d1c6-d1e118">
+          Eorum autem differentiam breviter
+
+            Augustinus
+
+          assignat dicens,
+          <cit>
+            <quote xml:id="pl-l4d1c6-Qd1e123">
+              quia illa
+              promittebant tantum et significabant,
+              haec autem dant salutem
+            </quote>
+
+          </cit>.
+        </p>
+      </div>
+      <div xml:id="pl-l4d1c7">
+        <head xml:id="pl-l4d1c7-Hd1e109">CAP. VII</head>
+        <head xml:id="pl-l4d1c7-Hd1e112" type="question-title">De circumcisione.</head>
+        <p xml:id="pl-l4d1c7-d1e115">
+          Fuit tamen et inter illa Sacramentum quoddam, scilicet
+          circumcisionis, idem conferens remedium contra peccatum, quod nunc baptismus.
+        </p>
+        <p xml:id="pl-l4d1c7-d1e118">
+          Unde
+
+            Augustinus
+          :
+          <cit>
+            <quote xml:id="pl-l4d1c7-Qd1e123">
+              Ex quo instituta est circumcisio in populo Dei, quae erat tunc
+            <cit>
+              <quote xml:id="pl-l4d1c7-Qd1e127" source="http://scta.info/resource/rom4_11">signaculum iustitiae fidei</quote>
+
+            </cit>,
+              ad
+              purgationem valebat magnis et parvulis originalis veterisque peccati; sicut baptismus ex
+              illo valere coepit ad innovationem hominis, ex quo institutus est
+            </quote>
+
+          </cit>.
+        </p>
+        <p xml:id="pl-l4d1c7-d1e127">
+          Item
+
+                        Beda
+                    :
+          <cit>
+            <quote xml:id="pl-l4d1c7-Qd1e132">Idem salutiferae curationis auxilium circumcisio in Lege contra
+            originalis peccati vulnus agebat, quod baptismus agere revelatae gratiae tempore
+            consuevit, excepto quod regni caelestis ianuam necdum intrare poterant; tamen in sinu
+            Abrahae post mortem beata requie consolati, supernae pacis ingressum spe felici
+            exspectabant
+            </quote>
+
+          </cit>.
+        </p>
+        <p xml:id="pl-l4d1c7-d1e137">
+          His aperte traditur, per circumcisionem, ex quo instituta fuit,
+          remissionem peccati originalis et actualis parvulis et maioribus a Deo praestitam, sicut
+          nunc per baptismum datur.
+        </p>
+      </div>
+      <div xml:id="pl-l4d1c8">
+        <head xml:id="pl-l4d1c8-Hd1e109">CAP. VIII</head>
+        <head xml:id="pl-l4d1c8-Hd1e112" type="question-title">Quod remedium illi habuerunt, qui
+          fuerunt ante circumcisionem.</head>
+        <p xml:id="pl-l4d1c8-d1e115">
+          Quaeritur autem de viris, qui fuerunt ante circumcisionem, et
+          de feminis, quae fuerunt ante et post, quod remedium contra peccatum habuerint.
+        </p>
+        <p xml:id="pl-l4d1c8-d1e118">
+          Quidam dicunt, sacrificia et oblationes eis valuisse ad
+          remissionem peccati. Sed melius est dicere, illos qui de
+          Abraham prodierunt, per circumcisionem iustificatos; mulieres vero per fidem et
+          operationem bonam, vel suam, si adultae erant, vel parentum, si parvulae; eos vero qui
+          fuerunt ante circumcisionem parvulos in fide parentum; parentes vero per virtutem
+          sacrificiorum, scilicet quam intelligebant spiritualiter in iliis sacrificiis,
+          justificatos.
+        </p>
+        <p xml:id="pl-l4d1c8-d1e124">
+          Unde
+
+            Gregorius
+          :
+          <cit>
+            <quote xml:id="pl-l4d1c8-Qd1e129">
+              Quod apud nos valet aqua baptismi, hoc egit apud veteres vel
+              pro parvulis sola fides, vel pro maioribus virtus sacrificii, vel pro his qui ex Abrahae
+              stirpe prodierant, mysterium circumcisionis
+            </quote>
+
+          </cit>.
+        </p>
+      </div>
+      <div xml:id="pl-l4d1c9">
+        <head xml:id="pl-l4d1c9-Hd1e109">CAP. IX</head>
+        <head xml:id="pl-l4d1c9-Hd1e112" type="question-title">De institutione circumcisionis et
+          causa.</head>
+        <p xml:id="pl-l4d1c9-d1e115">
+          Hic dicendum est, in quo instituta fuerit circumcisio; et
+          quare; et cur mutata per baptismum.
+        </p>
+        <p xml:id="pl-l4d1c9-d1e118">
+          Abraham primus mandatum
+          circumcisionis habuit ad probationem obedientiae; nec ei soli praecepta fuit circumcisio,
+          sed et semini eius, id est omnibus Hebraeis; quae fiebat secundum Legem octava die,
+          lapideo cultro, in carne praeputii.
+        </p>
+        <p xml:id="pl-l4d1c9-d1e124">
+          Data autem fuit circumcisio pluribus de causis, scilicet ut per
+          obedientiam mandati Abraham placeret Deo, cui per
+          praevaricationem Adam displicuerat. Data etiam fuit in signum magnae fidei Abrahae, qui
+          credidit, se habiturum filium, in quo fieret benedictio omnium. Deinde, ut hoc signo a
+          ceteris nationibus discerneretur populus ille.
+        </p>
+        <p xml:id="pl-l4d1c9-d1e131">
+          In carne vero praeputii ideo iussa est fieri circumcisio, quia
+          in remedium instituta est originalis peccati, quod a parentibus trahimus per
+          concupiscentiam, quae in parte illa magis dominatur. Et quia in parte illa culpam
+          inobedientiae primus homo sensit, decuit ut ibi signum obedientiae acciperet.
+        </p>
+        <p xml:id="pl-l4d1c9-d1e134">
+          Fiebat autem octavo die, petrino cultro, quia et in
+          resurrectione communi, octava aetate futura, per petram Christum omnis ab electis
+          abscindetur corruptio, et per Christi resurrectionem, octava die factam, circumciditur a
+          peccatis anima cuiusque in eum credentis.
+          <cit>
+            <quote xml:id="pl-l4d1c9-Qd1e136">Duae igitur res sunt illius Sacramenti</quote>
+
+          </cit>.
+        </p>
+        <p xml:id="pl-l4d1c9-d1e140">
+          Ideo autem mutata est circumcisio per baptismum, quia
+          Sacramentum baptismi et communius est et perfectius, quia pleniori gratia accumulatum. Ibi
+          enim peccata solum dimittebantur, sed nec gratia ad bene operandum adiutrix, nec virtutum
+          possessio vel augmentum ibi praestabatur, ut in baptismo, ubi non modo abolentur peccata,
+          sed etiam gratia adiutrix confertur, et virtutes augentur. Unde aqua refectionis dicitur,
+          quae aridos fecundat et iam fructificantes ampliori ubertate donat; quia, quantumcumque
+          per fidem et caritatem ante habitam aliquis iustus ad baptismum accedit, uberiorem ibi
+          recipit gratiam, sed non ita in circumcisione. Unde Abrahae per fidem iam iustificato
+          signaculum tantum fuit, nihil ei intus contulit.
+        </p>
+      </div>
+      <div xml:id="pl-l4d1c10">
+        <head xml:id="pl-l4d1c10-Hd1e109">CAP. X</head>
+        <head xml:id="pl-l4d1c10-Hd1e112" type="question-title">De parvulis defunctis ante diem
+          octavam, qua fiebat circumcisio.</head>
+        <p xml:id="pl-l4d1c10-d1e115">
+          Si vero quaeritur de parvulis, qui ante diem octavam
+          moriebantur, ante quam non fiebat circumcisio ex Lege, utrum salvarentur vel non, idem
+          potest responderi, quod sentitur de parvulis ante baptismum defunctis, quos perire
+          constat.
+        </p>
+        <p xml:id="pl-l4d1c10-d1e118">
+          Unde
+
+            Beda
+          :
+          <cit>
+            <quote xml:id="pl-l4d1c10-Qd1e123">Qui nunc per Evangelium terribiliter et salubriter clamat:
+              <cit>
+                <quote xml:id="pl-l4d1c10-Qd1e134" source="http://scta.info/resource/io3_5">
+                  Nisi quis renatus fuerit ex aqua et Spiritu sancto non potest intrare
+                  in regnum Dei
+                </quote>
+
+              </cit>,
+              ipse dudum clamat per suam Legem:
+              <cit>
+                <quote xml:id="pl-l4d1c10-Qd1e143" source="http://scta.info/resource/gen17_14">
+                Anima,
+                cuius praeputii caro circumcisa non fuerit, peribit de populo suo, quia pactum meum
+                irritum fecit
+                </quote>
+
+              </cit>
+              Forte tamen sub Lege, ingruente necessitate mortis, ante octavam
+              diem circumcidebant sine peccato filios, sicut modo in Ecclesia fit de baptismo
+            </quote>
+
+          </cit>.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>
